@@ -1,0 +1,1216 @@
+{
+"domain":"slashdot",
+"totalTopics":"13",
+
+
+"totalLines":"251",
+
+"topics":[{"topicID":1,"strength":14,"labels":[{"phrase":"year long shutdown","prob":0.2},{"phrase":" shutdown late","prob":0.2},{"phrase":" planned shutdown","prob":0.2},{"phrase":" shutdown part","prob":0.2},{"phrase":" typical shutdown","prob":0.2}]},{"topicID":2,"strength":17,"labels":[{"phrase":"humanity","prob":0.156699546842},{"phrase":" long humanity","prob":0.156699546842},{"phrase":" mean humanity","prob":0.156699546842},{"phrase":" time","prob":0.0883168932459},{"phrase":" future time stream","prob":0.0883168932459},{"phrase":" need time","prob":0.0883168932459},{"phrase":" long time","prob":0.0883168932459},{"phrase":" run typical time","prob":0.0883168932459},{"phrase":" accurate time","prob":0.0883168932459}]},{"topicID":3,"strength":21,"labels":[{"phrase":"reasonable results","prob":0.210130162931},{"phrase":" great results","prob":0.210130162931},{"phrase":" great lhc","prob":0.202384194228},{"phrase":" sherbet","prob":0.188677739954},{"phrase":" diamonds","prob":0.188677739954}]},{"topicID":4,"strength":9,"labels":[{"phrase":"due unforeseen construction mistake","prob":0.128346635809},{"phrase":" due semantics","prob":0.128346635809},{"phrase":" headline","prob":0.128346635809},{"phrase":" shutdown part","prob":0.122992018514},{"phrase":" shutdown late","prob":0.122992018514},{"phrase":" planned shutdown","prob":0.122992018514},{"phrase":" year long shutdown","prob":0.122992018514},{"phrase":" typical shutdown","prob":0.122992018514}]},{"topicID":5,"strength":53,"labels":[{"phrase":"americans lhc","prob":0.142857142857},{"phrase":" need agile lhc","prob":0.142857142857},{"phrase":" great lhc","prob":0.142857142857},{"phrase":" lhc particles","prob":0.142857142857},{"phrase":" lhc work","prob":0.142857142857},{"phrase":" late lhc","prob":0.142857142857},{"phrase":" sick lhc","prob":0.142857142857}]},{"topicID":6,"strength":12,"labels":[{"phrase":"design mistake","prob":0.2},{"phrase":" design energy","prob":0.2},{"phrase":" design error","prob":0.2},{"phrase":" design maximum","prob":0.2},{"phrase":" design issues","prob":0.2}]},{"topicID":7,"strength":16,"labels":[{"phrase":"your opinion","prob":0.237436579276},{"phrase":" your ill informed opinion","prob":0.237436579276},{"phrase":" fermilab","prob":0.20003172517},{"phrase":" powerful fermilab","prob":0.20003172517},{"phrase":" americans lhc","prob":0.125063391109}]},{"topicID":8,"strength":37,"labels":[{"phrase":"full power","prob":0.211623143523},{"phrase":" half power","prob":0.211623143523},{"phrase":" lower power","prob":0.211623143523},{"phrase":" particle accelerator power","prob":0.211623143523},{"phrase":" long time","prob":0.153507425906}]},{"topicID":9,"strength":27,"labels":[{"phrase":"lhc collaborators","prob":0.125},{"phrase":" need agile lhc","prob":0.125},{"phrase":" americans lhc","prob":0.125},{"phrase":" great lhc","prob":0.125},{"phrase":" late lhc","prob":0.125},{"phrase":" lhc particles","prob":0.125},{"phrase":" sick lhc","prob":0.125},{"phrase":" lhc work","prob":0.125}]},{"topicID":10,"strength":15,"labels":[{"phrase":"americans lhc","prob":0.142857142857},{"phrase":" need agile lhc","prob":0.142857142857},{"phrase":" great lhc","prob":0.142857142857},{"phrase":" late lhc","prob":0.142857142857},{"phrase":" lhc particles","prob":0.142857142857},{"phrase":" sick lhc","prob":0.142857142857},{"phrase":" lhc work","prob":0.142857142857}]},{"topicID":11,"strength":16,"labels":[{"phrase":"full power","prob":0.244404602052},{"phrase":" half power","prob":0.244404602052},{"phrase":" particle accelerator power","prob":0.244404602052},{"phrase":" quench damage","prob":0.136225632882},{"phrase":" routine maintenance","prob":0.130560560963}]},{"topicID":12,"strength":7,"labels":[{"phrase":"slashdot","prob":0.170845213484},{"phrase":" editors","prob":0.170845213484},{"phrase":" articles","prob":0.170845213484},{"phrase":" routine front page","prob":0.162488119849},{"phrase":" routine bbc article","prob":0.162488119849},{"phrase":" routine maintenance","prob":0.162488119849}]},{"topicID":13,"strength":7,"labels":[{"phrase":"your own failings","prob":0.363878454836},{"phrase":" own prototype","prob":0.166315344514},{"phrase":" own author","prob":0.166315344514},{"phrase":" country","prob":0.151745428068},{"phrase":" stereotyping trust","prob":0.151745428068}]}],
+
+"author":"CmdrTaco",
+"date":"1268237040000",
+"title":"LHC Will Be Shut Down In 2011 Because of Mistake",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"1", "sent":"astroengine follows up to a story about the LHC shutting down that seems to have hit all the news replicators today.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"2", "sent":"Its to be expected when pushing the frontiers of physics but the LHCs epic will it or wont it saga continues.","sentimentwords":[]},{"linePolarity":-1.05,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"3", "sent":"Due to an unforeseen construction mistake the LHC will cease experiments for a year starting around late2011 so repairs and upgrades can be carried out.","sentimentwords":[]},{"linePolarity":1.66666666667,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"4", "sent":"For now accelerated particles will have a maximum energy of 7TeV half the power of the LHCs design maximum which is ample for at least 18 months of experiments before shutdown.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31427072",
+"author":"dtmos",
+"parent":"",
+"date":"1268240640000",
+"modeclass":"Informativ",
+"modescore":"5",
+"title":"You know things are bad when ",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"5", "sent":"... the article linked in the story starts off by debunking the submission.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"6", "sent":"Cox pointed out that accelerator shutdowns are more routine twitter.com than the BBC article the source of this blog post suggests:ALL particle accelerators have 6  12 month regular shutdowns for maintenance and upgrades.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31427128",
+"author":"Cornwallis",
+"parent":"31427072",
+"date":"1268240820000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:You know things are bad when ",
+"sent": [{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"8", "sent":"Now I wish .","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"9", "sent":"would close the thread to prevent inane followup like mine.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31427192",
+"author":"Pojut",
+"parent":"31427072",
+"date":"1268241120000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:You know things are bad when ",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"18", "sent":"Much thanks to you fellow poster","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31428150",
+"author":"Anonymous17",
+"parent":"31427072",
+"date":"1268245620000",
+"modeclass":"Funny",
+"modescore":"5",
+"title":"Re:You know things are bad when ",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"112", "sent":"Obviously the effect which is stopping the LHC from operating works by propagating a ripple back in time.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"113", "sent":"Hence the article summary WAS accurate at the time of submission but then the ripple reached January and made the shutdown part of the original plan.","sentimentwords":[{"word":"accurate","polarity":3.0},{"word":"original","polarity":1.0}]},{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"114", "sent":"It all makes sense","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31430052",
+"author":"Anonymous27",
+"parent":"31428150",
+"date":"1268254440000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:You know things are bad when ",
+"sent": [{"linePolarity":1.8,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"182", "sent":"Hence the article summary WAS accurate at the time of submission but then the ripple reached January and made the shutdown part of the original plan.It all makes senseLost any ships in the triangle recently?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31430096",
+"author":"sgt__doom",
+"parent":"31428150",
+"date":"1268254680000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:You know things are bad when ",
+"sent": [{"linePolarity":-3.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"183", "sent":"In future Russia LHCs will not exist......sorry I had to sneak that one in","sentimentwords":[{"word":"sneak","polarity":-1.5},{"word":"sorry","polarity":-4.5}]}]
+}
+]
+},
+{
+
+
+"commentid":"31428168",
+"author":"drumcat",
+"parent":"31427072",
+"date":"1268245680000",
+"modeclass":"Funny",
+"modescore":"5",
+"title":"Really its hedging 2012 bets",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"115", "sent":"I see right through this.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"116", "sent":"They dont want LHC running when the Mayan calendar ends...","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31428194",
+"author":"alexborges",
+"parent":"31427072",
+"date":"1268245860000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:You know things are bad when ",
+"sent": [{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"117", "sent":"The higgs bosson has learned to play our media.It sure is smarter than some presidents.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31428622",
+"author":"chord_wav",
+"parent":"31427072",
+"date":"1268247960000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:You know things are bad when ",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"131", "sent":"Someone its playing with Time.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"132", "sent":"That copy of text just wasnt there when the editors saw the article.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31429882",
+"author":"Anonymous25",
+"parent":"31427072",
+"date":"1268253780000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:You know things are bad when ",
+"sent": [{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"168", "sent":"I have this feeling as if I used to live in a dream or an alternate reality where the plan was to start the LHC at full power immediately and that everything was going according to schedule.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"169", "sent":"Then I was told that a shutdown had been the plan all along and it was as if it HAD indeed been the plan all along","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"170", "sent":"Hmm.. Must be some bad coffee.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31431276",
+"author":"Anonymous30",
+"parent":"31427072",
+"date":"1268217120000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:You know things are bad when ",
+"sent": [{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"year long shutdown", "topicid":7, "goldlabel":"typical shutdown and upgrade times", "sentid":"196", "sent":"612 months is usually for an upgrade a short one CERN is calling it an engineering shutdown.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"year long shutdown", "topicid":7, "goldlabel":"typical shutdown and upgrade times", "sentid":"197", "sent":"A typical shutdown is 13 months depending on lab.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"year long shutdown", "topicid":7, "goldlabel":"typical shutdown and upgrade times", "sentid":"198", "sent":"For comparison sake a typical shutdown is 6 weeks every year at FNAL thats sort of an average over many years there have been 3 month shutdowns and two years between them in cases.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"year long shutdown", "topicid":7, "goldlabel":"typical shutdown and upgrade times", "sentid":"199", "sent":"At SPring8 they run a typical workday not 247 and have some down time each night and tend to have shutdowns last 4 weeks after two years.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"year long shutdown", "topicid":7, "goldlabel":"typical shutdown and upgrade times", "sentid":"200", "sent":"They dont really do upgrades FNAL had one in the era of the tevatron.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"year long shutdown", "topicid":7, "goldlabel":"typical shutdown and upgrade times", "sentid":"201", "sent":"An upgrade tends to have a different new run afterward and tends to be at least 18 months often 2 years or more.","sentimentwords":[{"word":"new","polarity":2.0}]},{"linePolarity":1.2,"systemtopicid":1, "systemlabel":"year long shutdown", "topicid":7, "goldlabel":"typical shutdown and upgrade times", "sentid":"202", "sent":"I thought that CERN was going to do another run after the upgrade at higher energy.","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":1, "systemlabel":"year long shutdown", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"203", "sent":"They were originally planning on a long upgrade beginning at the end of 2012.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"year long shutdown", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"204", "sent":"Last I heard that got movedup 6 months or so.","sentimentwords":[]},{"linePolarity":-2.55,"systemtopicid":1, "systemlabel":"year long shutdown", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"205", "sent":"Its not a big deal it always happens that shutdowns get moved around.","sentimentwords":[{"word":"not","polarity":-2.55}]},{"linePolarity":1.7,"systemtopicid":1, "systemlabel":"year long shutdown", "topicid":7, "goldlabel":"typical shutdown and upgrade times", "sentid":"206", "sent":"There is a delicate balancing act where you need to give people enough time to prepare but not go so long that things start breaking.","sentimentwords":[]},{"linePolarity":-2.25,"systemtopicid":1, "systemlabel":"year long shutdown", "topicid":7, "goldlabel":"typical shutdown and upgrade times", "sentid":"207", "sent":"Shutdowns and upgrades are VERY busy times.","sentimentwords":[{"word":"VERY","polarity":-2.25}]}]
+}
+]
+},
+{
+
+
+"commentid":"31427102",
+"author":"BobZee1",
+"parent":"",
+"date":"1268240760000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Go Fermi",
+"sent": [{"linePolarity":2.75,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"7", "sent":"This is good news to me because I like job security and the longer Fermi is rocking the longer I am rocking.","sentimentwords":[{"word":"security","polarity":2.0},{"word":"rocking","polarity":4.0},{"word":"rocking","polarity":2.0},{"word":"good","polarity":3.0}]}]
+,"children":[
+{
+
+
+"commentid":"31428222",
+"author":"Anonymous18",
+"parent":"31427102",
+"date":"1268245980000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"Re:Go Fermi",
+"sent": [{"linePolarity":-1.5,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"123", "sent":"Dont worry.","sentimentwords":[]},{"linePolarity":0.6,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"124", "sent":"The Fermi works very well and will continue to workHowever I cant see why would you deem secure a work envirnoment that subjects you to gigantic and powerful electromagnetic fields plus you are confined quite in the same location as some really interesting radioactive material.For a physic barring actual spacewalking its about as hardcore as it gets.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31427148",
+"author":"Monkeedude1212",
+"parent":"",
+"date":"1268240940000",
+"modeclass":"Funny",
+"modescore":"5",
+"title":"Hmmm",
+"sent": [{"linePolarity":-0.6,"systemtopicid":2, "systemlabel":"humanity", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"10", "sent":"That Higgs Boson is finding more and more creative ways... Seems this time it went so far back as to flaw the LHCs design.How long do we have before it goes further back and destroys humanity?","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31427526",
+"author":"istartedi",
+"parent":"31427148",
+"date":"1268242680000",
+"modeclass":"Funny",
+"modescore":"5",
+"title":"Re:Hmmm",
+"sent": [{"linePolarity":0.0,"systemtopicid":2, "systemlabel":"humanity", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"63", "sent":"How long do we have before it goes further back and destroys humanity?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"humanity", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"64", "sent":"At least until yesterday.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31429200",
+"author":"Anonymous24",
+"parent":"31427526",
+"date":"1268250480000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Hmmm",
+"sent": [{"linePolarity":-0.5,"systemtopicid":2, "systemlabel":"humanity", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"156", "sent":"To the mods who modded this overrated I actually laughed out loud for maybe 2 seconds.","sentimentwords":[]},{"linePolarity":3.0,"systemtopicid":2, "systemlabel":"humanity", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"157", "sent":"So if you didnt think it was funny then perhaps it isnt for you but it was funny.","sentimentwords":[{"word":"funny","polarity":3.0},{"word":"funny","polarity":3.0}]}]
+},
+{
+
+
+"commentid":"31429532",
+"author":"anonymousJUGGERNAUT",
+"parent":"31427526",
+"date":"1268252220000",
+"modeclass":"None",
+"modescore":"1",
+"title":"its intents and purposes",
+"sent": [{"linePolarity":2.0,"systemtopicid":2, "systemlabel":"humanity", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"161", "sent":"Your sig contains a malapropism  the expression is for all intents and purposes not intensive purposes.","sentimentwords":[{"word":"intensive","polarity":2.0}]},{"linePolarity":1.0,"systemtopicid":2, "systemlabel":"humanity", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"162", "sent":"  Perhaps its part of the antigrammar joke?","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":2, "systemlabel":"humanity", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"163", "sent":"If so sorry for being humorless.","sentimentwords":[{"word":"sorry","polarity":-4.5}]}]
+}
+]
+},
+{
+
+
+"commentid":"31427824",
+"author":"Anonymous14",
+"parent":"31427148",
+"date":"1268243940000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"Re:Hmmm",
+"sent": [{"linePolarity":-2.66666666667,"systemtopicid":8, "systemlabel":"full power", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"105", "sent":"?If some timetraveling something doesnt want to be found why not just send back a dead nuke with a note attached that readsDear asshole:","sentimentwords":[{"word":"want","polarity":1.0},{"word":"dead","polarity":-4.5},{"word":"not","polarity":-4.5}]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"humanity", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"106", "sent":"    Leave us alone.Your trulyThe Future","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31428568",
+"author":"precariousgray",
+"parent":"31427148",
+"date":"1268247600000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Hmmm",
+"sent": [{"linePolarity":-3.0,"systemtopicid":2, "systemlabel":"humanity", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"129", "sent":"?Too long.","sentimentwords":[{"word":"long","polarity":-1.5},{"word":"Too","polarity":-4.5}]},{"linePolarity":1.0,"systemtopicid":2, "systemlabel":"humanity", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"130", "sent":"There is a smirk after which the petting of the white cat begins.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31428948",
+"author":"bluie_",
+"parent":"31427148",
+"date":"1268249400000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Hmmm",
+"sent": [{"linePolarity":3.0,"systemtopicid":2, "systemlabel":"humanity", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"144", "sent":"Dont you mean prevents humanity?","sentimentwords":[{"word":"humanity","polarity":3.0}]}]
+},
+{
+
+
+"commentid":"31429146",
+"author":"c__0xFF",
+"parent":"31427148",
+"date":"1268250360000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Hmmm",
+"sent": [{"linePolarity":-0.5,"systemtopicid":2, "systemlabel":"humanity", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"145", "sent":"Oh so its an anomaly in the spacetime continuum getting larger as it goes backwards in time eventually preventing the existence of life on Earth?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"humanity", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"146", "sent":"Once again life imitates Star Trek...","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31429642",
+"author":"mcgrew",
+"parent":"31427148",
+"date":"1268252760000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Hmmm",
+"sent": [{"linePolarity":-1.5,"systemtopicid":2, "systemlabel":"humanity", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"164", "sent":"That Higgs Boson is finding more and more creative ways... Seems this time it went so far back as to flaw the LHCs design.","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":2, "systemlabel":"humanity", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"165", "sent":"How long do we have before it goes further back and destroys humanity?Oh hell now I have to write a sequel to this.","sentimentwords":[{"word":"humanity","polarity":0},{"word":"hell","polarity":-4.5},{"word":"destroys","polarity":0},{"word":"long","polarity":0}]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"humanity", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"166", "sent":"slashdot.org","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31427152",
+"author":"bucky0",
+"parent":"",
+"date":"1268240940000",
+"modeclass":"Informativ",
+"modescore":"4",
+"title":"How is this news",
+"sent": [{"linePolarity":-1.75,"systemtopicid":8, "systemlabel":"full power", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"11", "sent":"The plan for a while now was always to have a period of running at lower powerluminosity then a long shutdown to completely fix the error that caused the incident in 2008.","sentimentwords":[]},{"linePolarity":-1.125,"systemtopicid":1, "systemlabel":"year long shutdown", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"12", "sent":"Last december the plan was for a 5 month run this year and a year long shutdown and they changed that in early february to a 1824 month run and year long shutdown.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31427156",
+"author":"jimpop",
+"parent":"",
+"date":"1268240940000",
+"modeclass":"Funny",
+"modescore":"4",
+"title":"2012",
+"sent": [{"linePolarity":-0.666666666667,"systemtopicid":11, "systemlabel":"full power", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"13", "sent":"I for one think they are just scared of being blamed for 2012. :","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31427212",
+"author":"0racle",
+"parent":"31427156",
+"date":"1268241240000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"Re:2012",
+"sent": [{"linePolarity":-3.0,"systemtopicid":11, "systemlabel":"full power", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"25", "sent":"Then theyre doing it wrong.","sentimentwords":[{"word":"wrong","polarity":-3.0}]},{"linePolarity":-1.5,"systemtopicid":11, "systemlabel":"full power", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"26", "sent":"Theyre going to shutdown late 2011 for about a year.","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":11, "systemlabel":"full power", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"27", "sent":"That means they should be up and running again around ......... December 2012   Be afraid.","sentimentwords":[{"word":"afraid","polarity":-4.5}]},{"linePolarity":0,"systemtopicid":11, "systemlabel":"full power", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"28", "sent":"Gordon youre needed in the experiment room.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31427342",
+"author":"Anonymous5",
+"parent":"31427212",
+"date":"1268241720000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:2012",
+"sent": [{"linePolarity":-2.25,"systemtopicid":11, "systemlabel":"full power", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"45", "sent":"Prepare for unforeseen consequences.","sentimentwords":[{"word":"consequences","polarity":-3.0},{"word":"unforeseen","polarity":-1.5}]}]
+}
+]
+},
+{
+
+
+"commentid":"31427508",
+"author":"oracleofbargth",
+"parent":"31427156",
+"date":"1268242620000",
+"modeclass":"Funny",
+"modescore":"5",
+"title":"Re:2012",
+"sent": [{"linePolarity":0,"systemtopicid":8, "systemlabel":"full power", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"62", "sent":"I know I wouldnt want to be blamed for that movie either.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31429928",
+"author":"mcgrew",
+"parent":"31427156",
+"date":"1268253900000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:2012",
+"sent": [{"linePolarity":-3.75,"systemtopicid":11, "systemlabel":"full power", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"171", "sent":"No Im afraid 2012 is my fault.","sentimentwords":[{"word":"fault","polarity":-3.0},{"word":"afraid","polarity":-4.5}]},{"linePolarity":-0.25,"systemtopicid":11, "systemlabel":"full power", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"172", "sent":"Im eligible to retire in 2012.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31427182",
+"author":"Anonymous1",
+"parent":"",
+"date":"1268241060000",
+"modeclass":"Insightful",
+"modescore":"3",
+"title":"Apparently This is Not Unusual At All",
+"sent": [{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"14", "sent":"...at least according to the article at the end of the supplied link.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"15", "sent":"Quoting a Prof. Brian Cox ALL particle accelerators have 6  12 month regular shutdowns for maintenance and upgrades.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"16", "sent":"Thats how complex machines are operated","sentimentwords":[]},{"linePolarity":-0.75,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"17", "sent":"Now I know slashdot readers dont read the articles and Ive become accustomed to the editors not reading the articles but this situation implies that even the submitter of the article didnt read the article.How is that even possible?Sounds like one of those recursive quantum anomalies the LHC is designed to unravel...","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31427338",
+"author":"Monkeedude1212",
+"parent":"31427182",
+"date":"1268241720000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Apparently This is Not Unusual At All",
+"sent": [{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"42", "sent":"Actually weve taken George Lucas idea of a Death Star and built a giant Laser producing facility on the crust of our planet.","sentimentwords":[]},{"linePolarity":-0.5,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"43", "sent":"Some minor set backs of course but we will have the power to destroy an entire planet soon enough.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"44", "sent":"This whole Quantum Physics thing was just to get all the physicists on board since most of them actually favour Star Trek.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31430324",
+"author":"Shimbo",
+"parent":"31427182",
+"date":"1268212620000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Apparently This is Not Unusual At All",
+"sent": [{"linePolarity":1.0,"systemtopicid":8, "systemlabel":"full power", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"184", "sent":"That is rather like a Formula One driver saying ALL cars need a complete engine overhaul several times a year.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31427196",
+"author":"rubycodez",
+"parent":"",
+"date":"1268241180000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"doom",
+"sent": [{"linePolarity":-1.16666666667,"systemtopicid":11, "systemlabel":"full power", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"19", "sent":"What this really means is that after scheduled maintenance of 2011 which now includes bolstering against quench damage the LHC will be slowly brought to full power in 2012.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":11, "systemlabel":"full power", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"20", "sent":"Reaching full power at the end of 2012.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":11, "systemlabel":"full power", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"21", "sent":"December 2012.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":11, "systemlabel":"full power", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"22", "sent":"Need I say more?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31427206",
+"author":"pz",
+"parent":"",
+"date":"1268241180000",
+"modeclass":"Insightful",
+"modescore":"5",
+"title":"Not News",
+"sent": [{"linePolarity":-1.16666666667,"systemtopicid":12, "systemlabel":"slashdot", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"23", "sent":"As the linked article points out this socalled news is just lazy journalism of a longago announced planned shutdown for routine maintenance and upgrading.This should never have made it to the front page here.","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":12, "systemlabel":"slashdot", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"24", "sent":"Is it too much to ask that the editors at Slashdot at least GLANCE at the linked articles?","sentimentwords":[{"word":"too","polarity":-4.5}]}]
+,"children":[
+{
+
+
+"commentid":"31428200",
+"author":"Attila_Dimedici",
+"parent":"31427206",
+"date":"1268245860000",
+"modeclass":"Insightful",
+"modescore":"2",
+"title":"Re:Not News",
+"sent": [{"linePolarity":0,"systemtopicid":12, "systemlabel":"slashdot", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"118", "sent":"?If Congresscritters cant be expected to read bills before they vote on them why would you expect editors at Slashdot to view articles before they make the front page?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31428674",
+"author":"Anonymous21",
+"parent":"31427206",
+"date":"1268248200000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Not News",
+"sent": [{"linePolarity":0,"systemtopicid":12, "systemlabel":"slashdot", "topicid":7, "goldlabel":"typical shutdown and upgrade times", "sentid":"133", "sent":"Planned a while ago yes but routine?","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":12, "systemlabel":"slashdot", "topicid":7, "goldlabel":"typical shutdown and upgrade times", "sentid":"134", "sent":"No. This is a scheduled shutdown to fix a design error.","sentimentwords":[{"word":"error","polarity":-3.0}]},{"linePolarity":-3.0,"systemtopicid":12, "systemlabel":"slashdot", "topicid":7, "goldlabel":"typical shutdown and upgrade times", "sentid":"135", "sent":"Design errors shouldnt be considered routine.","sentimentwords":[{"word":"errors","polarity":-3.0}]}]
+},
+{
+
+
+"commentid":"31431632",
+"author":"Anonymous31",
+"parent":"31427206",
+"date":"1268218620000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Not News",
+"sent": [{"linePolarity":-4.5,"systemtopicid":12, "systemlabel":"slashdot", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"223", "sent":"Is it too much to ask that the editors at Slashdot at least GLANCE at the linked articles?","sentimentwords":[{"word":"too","polarity":-4.5}]},{"linePolarity":0,"systemtopicid":12, "systemlabel":"slashdot", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"224", "sent":"Asked and answered.Many times daily.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31427266",
+"author":"circletimessquare",
+"parent":"",
+"date":"1268241420000",
+"modeclass":"Informativ",
+"modescore":"4",
+"title":"nonstory: its obviously nothing but",
+"sent": [{"linePolarity":-2.2,"systemtopicid":6, "systemlabel":"design mistake", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"29", "sent":"the usual saboteurs from the future trying to preserving their pathetic little doomed timeline","sentimentwords":[{"word":"trying","polarity":-1.5},{"word":"doomed","polarity":-3.0},{"word":"usual","polarity":1.0},{"word":"pathetic","polarity":-6.0},{"word":"little","polarity":-1.5}]}]
+},
+{
+
+
+"commentid":"31427288",
+"author":"Anonymous2",
+"parent":"",
+"date":"1268241540000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"Agile Construction",
+"sent": [{"linePolarity":2.0,"systemtopicid":6, "systemlabel":"design mistake", "topicid":5, "goldlabel":"cost construction and design of the LHC", "sentid":"30", "sent":"Now we need someone to pipe up that if they used Agile Methodology when building the LHC none of the design issues would have happened.","sentimentwords":[{"word":"none","polarity":2.0}]}]
+,"children":[
+{
+
+
+"commentid":"31427438",
+"author":"theshowmecanuck",
+"parent":"31427288",
+"date":"1268242260000",
+"modeclass":"Funny",
+"modescore":"5",
+"title":"Re:Agile Construction",
+"sent": [{"linePolarity":-1.5,"systemtopicid":6, "systemlabel":"design mistake", "topicid":5, "goldlabel":"cost construction and design of the LHC", "sentid":"52", "sent":"Given the way Agile is usually implemented it would have then made a detour under London before making it back to Switzerland.","sentimentwords":[]},{"linePolarity":3.0,"systemtopicid":6, "systemlabel":"design mistake", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"53", "sent":"Kind of like the famous cartoon wordpress.com... especially the documentation part.","sentimentwords":[{"word":"cartoon","polarity":0},{"word":"famous","polarity":3.0}]},{"linePolarity":0,"systemtopicid":6, "systemlabel":"design mistake", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"54", "sent":"Nice legs...","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31432280",
+"author":"Anonymous33",
+"parent":"31427288",
+"date":"1268222160000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Agile Construction  SCRUM",
+"sent": [{"linePolarity":0,"systemtopicid":6, "systemlabel":"design mistake", "topicid":500, "goldlabel":"START", "sentid":"228", "sent":"Yesterday:","sentimentwords":[]},{"linePolarity":0,"systemtopicid":6, "systemlabel":"design mistake", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"229", "sent":"  Tried to find the HiggsBoson particlesToday:","sentimentwords":[]},{"linePolarity":0,"systemtopicid":6, "systemlabel":"design mistake", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"230", "sent":"  Try to find the HiggsBoson particlesWhats holding me up:","sentimentwords":[]},{"linePolarity":0,"systemtopicid":6, "systemlabel":"design mistake", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"231", "sent":"  HiggsBoson particles","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31427310",
+"author":"Anonymous3",
+"parent":"",
+"date":"1268241600000",
+"modeclass":"None",
+"modescore":"0",
+"title":"It would have been news if",
+"sent": [{"linePolarity":-3.0,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"31", "sent":"it were a foreseen construction mistake.","sentimentwords":[{"word":"mistake","polarity":-3.0}]}]
+},
+{
+
+
+"commentid":"31427316",
+"author":"tomp1000",
+"parent":"",
+"date":"1268241660000",
+"modeclass":"Interestin",
+"modescore":"2",
+"title":"so sick of this",
+"sent": [{"linePolarity":-6.075,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"32", "sent":"quite frankly im so sick of people critisising the LHC especially the people at fermilab.","sentimentwords":[{"word":"so","polarity":-6.075}]},{"linePolarity":-0.3,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"33", "sent":"firstly most people dont know a damn thing about particle physics this includes me but I have a relative expert on hand to answer my queries unless you have some knowledge of beyond degree level particle physics or know someone who does quite well.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"34", "sent":"KEEP YOUR OPINION TO YOURSELF.","sentimentwords":[]},{"linePolarity":0.5,"systemtopicid":7, "systemlabel":"your opinion", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"35", "sent":"for those people probablly americans stop critising the LHC becuase its bigger than the accelerator at fermilab.","sentimentwords":[]},{"linePolarity":-0.75,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"36", "sent":"thats like kids arguing over who has a better skateboard.","sentimentwords":[]},{"linePolarity":6.0,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"37", "sent":"NOT IMPORTANT","sentimentwords":[{"word":"IMPORTANT","polarity":6.0}]}]
+,"children":[
+{
+
+
+"commentid":"31427648",
+"author":"Anonymous9",
+"parent":"31427316",
+"date":"1268243220000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:so sick of this",
+"sent": [{"linePolarity":-4.5,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"75", "sent":"Wow youre an idiot.","sentimentwords":[{"word":"idiot","polarity":-4.5}]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"76", "sent":"Am I also not allowed to criticize Iraq war because I dont have a degree in military history or the Federal budget because I dont have a degree in economics?The headline says there was a construction mistake.","sentimentwords":[]},{"linePolarity":-1.975,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"77", "sent":"Not a design mistake but a construction mistake it seems perfectly reasonable to criticize that.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31427736",
+"author":"Anonymous12",
+"parent":"31427316",
+"date":"1268243580000",
+"modeclass":"Flamebait",
+"modescore":"-1",
+"title":"Re:so sick of this",
+"sent": [{"linePolarity":-6.075,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"85", "sent":"blahblahblah ...quite frankly im so sick of people critisising the LHC ... KEEP YOUR OPINION TO YOURSELF.","sentimentwords":[{"word":"so","polarity":-6.075}]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"86", "sent":"for those people probablly americans stop critising the LHC ... more blahblahblah","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"87", "sent":"Shut up asshole.","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"88", "sent":"Oh LHC sucks.","sentimentwords":[{"word":"sucks","polarity":-4.5}]}]
+},
+{
+
+
+"commentid":"31428894",
+"author":"The_End_Of_Days",
+"parent":"31427316",
+"date":"1268249220000",
+"modeclass":"Troll",
+"modescore":"0",
+"title":"Re:so sick of this",
+"sent": [{"linePolarity":-0.15,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"139", "sent":"If you are American then I guess your assumption that Americans fly off the handle for no reason is a pretty good one considering.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"140", "sent":"If youre not take a look in the mirror.Either way thanks for the laugh.","sentimentwords":[{"word":"laugh","polarity":2.0}]},{"linePolarity":1.5,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"141", "sent":"Sputtering rage is probably the second funniest thing in the world next to dudes getting punched in the beanbag.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31429174",
+"author":"earlymon",
+"parent":"31427316",
+"date":"1268250420000",
+"modeclass":"Interestin",
+"modescore":"3",
+"title":"Re:so sick of this",
+"sent": [{"linePolarity":-0.5,"systemtopicid":7, "systemlabel":"your opinion", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"149", "sent":"thats like kids arguing over who has a better skateboard.Yes its exactly like that.You seem to not understand that our TVs sound systems sports cars and particle accelerators are simply the adult extensions of our skateboards.KEEP YOUR OPINION TO YOURSELF.","sentimentwords":[]},{"linePolarity":0.583333333333,"systemtopicid":7, "systemlabel":"your opinion", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"150", "sent":"Why?   Its called freedom of speech  perhaps youve heard of it.You certainly seem to think that you have it by virtue of the protocols youve issued.News flash  since the beginning of time people have freely expressed opinion without regard for fact  and this is never more true than when the speaker is convinced that they are expressing facts.","sentimentwords":[]},{"linePolarity":-1.0,"systemtopicid":7, "systemlabel":"your opinion", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"151", "sent":"Now I wasnt around at the beginning of time so far as I recall but its my opinion that that behavior has been occurring for at least that long and is therefore neither limited to Americans nor to Fermilab fans.My other opinion is that youre probably upset that Fermilab isnt in Europe and that youre simply jealous that youre missing out on all the fun.But you are providing plenty  for me anyway.","sentimentwords":[]},{"linePolarity":-0.025,"systemtopicid":7, "systemlabel":"your opinion", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"152", "sent":"This snippet is simply priceless:quite frankly im so sick of people critisising the LHC especially the people at fermilab.","sentimentwords":[]},{"linePolarity":0.333333333333,"systemtopicid":7, "systemlabel":"your opinion", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"153", "sent":"firstly most people dont know a damn thing about particle physics...Uh  ok  would those be the people at Fermilab that dont know a damn thing?BTW  my skateboard has something like 300 BHP a gazillion ftlbs of torque and gets 21 miles per gallon when cruising at just over 100 miles per hour when cruising that way for about 2 to 2.5 hours at a stretch.","sentimentwords":[]},{"linePolarity":-0.290909090909,"systemtopicid":7, "systemlabel":"your opinion", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"154", "sent":"And as soon as I translate a gazillion ftlbs into SI Ill get back to you on what that means  or  Ill just wait for an opinion from Illinois on that.Meanwhile in my opinion this sounds pretty cool:http:www.fnal.govpubtodayarchive2010today100310Columnreadmore.html fnal.govAnd almost finally in my opinion I deserve extra crunchy mod points just for avoiding the whole bigger vs. keeping it up line of jokes in response to your post which given that there is NO NEWS in TFA makes your complaint even funnier.NOT IMPORTANTThats the worst sig ever.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":7, "systemlabel":"your opinion", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"155", "sent":"In my opinion you should have a higher opinion of yourself even if that current sig summarizes the opinions in your post perfectly.I think you should cheer up now and have a fabulous day but thats just another one of my opinions.","sentimentwords":[{"word":"cheer","polarity":0},{"word":"higher","polarity":0},{"word":"fabulous","polarity":5.0},{"word":"just","polarity":2.0},{"word":"even","polarity":1.0}]}]
+,"children":[
+{
+
+
+"commentid":"31442950",
+"author":"tomp1000",
+"parent":"31429174",
+"date":"1268298120000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:so sick of this",
+"sent": [{"linePolarity":2.5,"systemtopicid":7, "systemlabel":"your opinion", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"240", "sent":"mate you just cross analysed my rant in great detail.","sentimentwords":[{"word":"great","polarity":4.0},{"word":"just","polarity":1.0}]},{"linePolarity":0,"systemtopicid":7, "systemlabel":"your opinion", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"241", "sent":"I may not be mensa material but at least i have a life outside my mothers basement","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31443880",
+"author":"AmeliaMurderBot",
+"parent":"31429174",
+"date":"1268300820000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:so sick of this",
+"sent": [{"linePolarity":3.0,"systemtopicid":7, "systemlabel":"your opinion", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"249", "sent":"Yknow whats funny about all this?","sentimentwords":[{"word":"funny","polarity":3.0}]},{"linePolarity":0,"systemtopicid":7, "systemlabel":"your opinion", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"250", "sent":"You owned Tom.","sentimentwords":[]},{"linePolarity":3.0,"systemtopicid":7, "systemlabel":"your opinion", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"251", "sent":"This is funny cause its Tom and although he tells you that youre living in your mothers basement he knows thats where hell live for the rest of his life.","sentimentwords":[{"word":"funny","polarity":3.0}]},{"linePolarity":-2.5,"systemtopicid":7, "systemlabel":"your opinion", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"252", "sent":"Wait you made him look stupid more than once not that he didnt do a sufficient job of that himself ??","sentimentwords":[{"word":"stupid","polarity":-6.0},{"word":"sufficient","polarity":1.0}]},{"linePolarity":0,"systemtopicid":7, "systemlabel":"your opinion", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"253", "sent":"Marry me?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31452780",
+"author":"Script_Cat",
+"parent":"31429174",
+"date":"1268414940000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:so sick of this",
+"sent": [{"linePolarity":0,"systemtopicid":7, "systemlabel":"your opinion", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"256", "sent":"My skateboard has eight wheels.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31430760",
+"author":"mcgrew",
+"parent":"31427316",
+"date":"1268214660000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:so sick of this",
+"sent": [{"linePolarity":-6.075,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"191", "sent":"quite frankly im so sick of people critisising the LHC especially the people at fermilab.","sentimentwords":[{"word":"so","polarity":-6.075}]},{"linePolarity":-6.0,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"192", "sent":"firstly most people dont know a damn thing about particle physics People at fermilab dont know a damned thing about particle physics?","sentimentwords":[{"word":"damn","polarity":-6.0}]},{"linePolarity":2.5,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"193", "sent":"LMAO Somebody please mod parent funny","sentimentwords":[{"word":"please","polarity":2.0},{"word":"funny","polarity":3.0}]}]
+},
+{
+
+
+"commentid":"31431504",
+"author":"ceoyoyo",
+"parent":"31427316",
+"date":"1268218140000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:so sick of this",
+"sent": [{"linePolarity":0,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"219", "sent":"A lot of the people at Fermilab are LHC collaborators.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"220", "sent":"Theyre helping build the LHC and will use it when it is built.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"221", "sent":"I havent seen a criticism of the LHC from anyone at Fermilab.","sentimentwords":[]},{"linePolarity":-1.25,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"222", "sent":"If there was that person would presumably know bit about particle physics since he or she works at one of the largest particle accelerators in the world.Is your post a bad leave Britney alone parody?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31431810",
+"author":"Anonymous32",
+"parent":"31427316",
+"date":"1268219460000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:so sick of this",
+"sent": [{"linePolarity":0.5,"systemtopicid":7, "systemlabel":"your opinion", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"225", "sent":"for those people probablly americans stop critising the LHC becuase its bigger than the accelerator at fermilab.","sentimentwords":[]},{"linePolarity":-0.75,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":6, "goldlabel":"validity of criticism of the LHC", "sentid":"226", "sent":"thats like kids arguing over who has a better skateboard.","sentimentwords":[]},{"linePolarity":-1.66666666667,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"227", "sent":"Fuck you and your eurotrash idea that youre qualified to speak for 350 million Americans.You pompous arrogant lout.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31443674",
+"author":"AmeliaMurderBot",
+"parent":"31427316",
+"date":"1268300160000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:so sick of this",
+"sent": [{"linePolarity":-1.75,"systemtopicid":13, "systemlabel":"your own failings", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"242", "sent":"You just insulted a whole country.","sentimentwords":[]},{"linePolarity":0.166666666667,"systemtopicid":13, "systemlabel":"your own failings", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"243", "sent":"I hope you realize that you should correct your own failings before stereotyping people born in America and trust me in those three lines I see at least three failings.","sentimentwords":[]},{"linePolarity":-4.125,"systemtopicid":13, "systemlabel":"your own failings", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"244", "sent":"Youre lazy ignorant angry and hypocritical.","sentimentwords":[{"word":"lazy","polarity":-3.0},{"word":"ignorant","polarity":-4.5},{"word":"angry","polarity":-4.5},{"word":"hypocritical","polarity":-4.5}]},{"linePolarity":0,"systemtopicid":13, "systemlabel":"your own failings", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"245", "sent":"keep your opinion to yourself?","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":13, "systemlabel":"your own failings", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"246", "sent":"What makes you think anyone cares about your ill informed and prejudiced opinion?","sentimentwords":[{"word":"ill","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":13, "systemlabel":"your own failings", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"247", "sent":"And I see that everyone else has a similar view of you to me.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":13, "systemlabel":"your own failings", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"248", "sent":"Youre a moron.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31427330",
+"author":"Anonymous4",
+"parent":"",
+"date":"1268241660000",
+"modeclass":"Insightful",
+"modescore":"4",
+"title":"LHC is the new Tower of Babel",
+"sent": [{"linePolarity":-1.5,"systemtopicid":8, "systemlabel":"full power", "topicid":5, "goldlabel":"cost construction and design of the LHC", "sentid":"38", "sent":"Its one of the worlds most ambitious projects.","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":8, "systemlabel":"full power", "topicid":5, "goldlabel":"cost construction and design of the LHC", "sentid":"39", "sent":"Not surprisingly its construction and operation can be problematic from time to time.","sentimentwords":[{"word":"problematic","polarity":-4.5}]}]
+,"children":[
+{
+
+
+"commentid":"31429980",
+"author":"Anonymous26",
+"parent":"31427330",
+"date":"1268254140000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:LHC is the new Tower of Babel",
+"sent": [{"linePolarity":-0.791666666667,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"180", "sent":"I highly doubt that our work on the LHC is likely to have us all struck so that we speak different languages and can no longer communicate with each other.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"181", "sent":"I mean asdne aeacen adseset scnetst sdsdnegls?sdentif sheypicalita klenucvilitus","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31427336",
+"author":"flagg9483",
+"parent":"",
+"date":"1268241660000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"LHC Forever",
+"sent": [{"linePolarity":0,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"40", "sent":"I hear that a level in the next Duke Nukem will take place in LHC facility.","sentimentwords":[]},{"linePolarity":-0.0555555555556,"systemtopicid":6, "systemlabel":"design mistake", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"41", "sent":"A PS3360 trophyachievement will be rewarded for finding the secret door to the main ring repairing damage caused by mutated aliens and escaping through a black hole created by incompetent CERN scientists.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31427388",
+"author":"gestalt__n__pepper",
+"parent":"",
+"date":"1268242020000",
+"modeclass":"None",
+"modescore":"1",
+"title":"You mean the time paradoxes",
+"sent": [{"linePolarity":-1.5,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"46", "sent":"prevented this thing from blowing up the universe again?","sentimentwords":[]},{"linePolarity":-6.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"47", "sent":"Man this is worse than last nights Lost episode.","sentimentwords":[{"word":"worse","polarity":-6.0}]}]
+},
+{
+
+
+"commentid":"31427410",
+"author":"binarylarry",
+"parent":"",
+"date":"1268242080000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Two words",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"48", "sent":"Resonance Cascade.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31427420",
+"author":"Anonymous6",
+"parent":"",
+"date":"1268242080000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Some phrases you do not want to hear at same time",
+"sent": [{"linePolarity":1.0,"systemtopicid":8, "systemlabel":"full power", "topicid":5, "goldlabel":"cost construction and design of the LHC", "sentid":"49", "sent":"The standard phrase is that the LHC is its own prototype Dr. Steve Myers director of the particle smasher told the BBC today.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":11, "systemlabel":"full power", "topicid":5, "goldlabel":"cost construction and design of the LHC", "sentid":"50", "sent":"Due to an unforeseen construction mistake...Wind it up to 11 guys","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"due unforeseen construction mistake", "topicid":5, "goldlabel":"cost construction and design of the LHC", "sentid":"51", "sent":"What could possibly go wrong?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31427452",
+"author":"Anonymous7",
+"parent":"",
+"date":"1268242380000",
+"modeclass":"Interestin",
+"modescore":"3",
+"title":"The mayans were right",
+"sent": [{"linePolarity":-1.5,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"55", "sent":"It will be late 2012 before the LHC gets to full power?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"56", "sent":"Hmmmmmmmm.... Awfully forboding to me.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31428002",
+"author":"Anonymous15",
+"parent":"31427452",
+"date":"1268244840000",
+"modeclass":"Interestin",
+"modescore":"1",
+"title":"Re:The mayans were right",
+"sent": [{"linePolarity":2.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"108", "sent":"There is no such Mayan prophecy: 2012 only coincides with the beginning of a new 144000 year period a baktun.","sentimentwords":[{"word":"new","polarity":2.0}]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"109", "sent":"Just like westerners have periods of a thousand years millennium or a hundred years century the Mayans have periods of 144000 years.","sentimentwords":[]},{"linePolarity":0.5,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"110", "sent":"The Mayan calendar refers to events well after the beginning of the new baktun so this whole doomsday prophecy is basically on the same level of New Age bs as y2k.See: http:en.wikipedia.orgwikiMayacalendar","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31428932",
+"author":"Anonymous23",
+"parent":"31427452",
+"date":"1268249340000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:The mayans were right",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"142", "sent":"QUICK everybody out of the Universe","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"143", "sent":"*FLWOOP*","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31431228",
+"author":"aBaldrich",
+"parent":"31427452",
+"date":"1268216940000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:The mayans were right",
+"sent": [{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"195", "sent":"Nah its the real life version of Duke Nukem.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31427476",
+"author":"Anonymous8",
+"parent":"",
+"date":"1268242500000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Misleading words",
+"sent": [{"linePolarity":-6.0,"systemtopicid":4, "systemlabel":"due unforeseen construction mistake", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"57", "sent":"It may be due to semantics but the headline is still inappropriate.","sentimentwords":[{"word":"inappropriate","polarity":-6.0}]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"due unforeseen construction mistake", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"58", "sent":"I interpreted shut down as dismantling as if it were used in shut down the NASA space program.","sentimentwords":[]},{"linePolarity":-1.125,"systemtopicid":4, "systemlabel":"due unforeseen construction mistake", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"59", "sent":" The summary clarifies the issue without sadisticly making you RTFA for it but the heart attack has already happened.Well news sources normally do this.","sentimentwords":[]},{"linePolarity":1.5,"systemtopicid":4, "systemlabel":"due unforeseen construction mistake", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"60", "sent":"Its just important to remember to never take anything as real unless youve read it AND cross referenced it thoroughly.","sentimentwords":[]},{"linePolarity":0.325,"systemtopicid":4, "systemlabel":"due unforeseen construction mistake", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"61", "sent":"Coming to slashdot does not count as a controlmaking space: crossreferences usually mean talking with people who have the same belief unless youre browsing at low thresholds or some dissenter post is modded insightful by luck.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31428334",
+"author":"Anonymous19",
+"parent":"31427476",
+"date":"1268246580000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Misleading words",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"due unforeseen construction mistake", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"125", "sent":"shutdown r 777600","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31429366",
+"author":"omnichad",
+"parent":"31427476",
+"date":"1268251500000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Misleading words",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"due unforeseen construction mistake", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"158", "sent":"Wrong.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"due unforeseen construction mistake", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"159", "sent":"Shut down is what people call it when something goes down for maintenance.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31427562",
+"author":"hoggoth",
+"parent":"",
+"date":"1268242800000",
+"modeclass":"None",
+"modescore":"1",
+"title":"The timestream protects itself",
+"sent": [{"linePolarity":1.0,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"65", "sent":"Once again the timestream moves to protect itself.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"66", "sent":"If they continue attempting to create HiggsBoson particles at the LHC we will find ourselves inhabiting an increasingly unlikely reality.","sentimentwords":[{"word":"create","polarity":2.0}]},{"linePolarity":-0.0833333333333,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"67", "sent":"Construction accidents birds dropping baguettes into the particle beam anything can happen to prevent this.Mark my word something improbable will happen to the LHC near the end of this repair work.We should harness this power to direct the future time stream and create a drive that uses these disturbed probabilities.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"68", "sent":"We can call it the improbability drive.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31428202",
+"author":"gestalt__n__pepper",
+"parent":"31427562",
+"date":"1268245920000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:The timestream protects itself",
+"sent": [{"linePolarity":-0.25,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"119", "sent":"Does this mean were gradually increasing improbability in the universe?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"120", "sent":"This would *so* explain Microsoft Windows.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31429690",
+"author":"O_Deka_K",
+"parent":"31427562",
+"date":"1268252940000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:The timestream protects itself",
+"sent": [{"linePolarity":0,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"167", "sent":"There is another theory which states that this has already happened.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31429968",
+"author":"IICV",
+"parent":"31427562",
+"date":"1268254080000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"Re:The timestream protects itself",
+"sent": [{"linePolarity":-0.5,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"174", "sent":"Thats not how it works at all  we only experience the realities in which the LHC hasnt destroyed reality.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"175", "sent":"All other realities have been destroyed so were not around to experience them.","sentimentwords":[]},{"linePolarity":-1.3125,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"176", "sent":"No timestream editing required.Thats also why you arent dead  you are not around to experience all of the realities in which you are dead so you never will.On a more rational note: in order for unlikely events to happen you need time and space.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"177", "sent":"The more space you have the less time it takes for something unlikely to happen in that space.","sentimentwords":[]},{"linePolarity":0.675,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":5, "goldlabel":"cost construction and design of the LHC", "sentid":"178", "sent":"The LHC is an incredibly delicate incredibly closely monitored extremely large thing theres 17 miles of some of the highest tech stuff ever in there.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"179", "sent":"Of course weird stuff is going to happen to it.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31427582",
+"author":"PinchDuck",
+"parent":"",
+"date":"1268242860000",
+"modeclass":"Funny",
+"modescore":"5",
+"title":"Put the Toyota engineers in charge",
+"sent": [{"linePolarity":0,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"69", "sent":"Then it will never stop.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31427614",
+"author":"Lord_Lode",
+"parent":"",
+"date":"1268242980000",
+"modeclass":"None",
+"modescore":"1",
+"title":"18 months of Experiments at 7TeV",
+"sent": [{"linePolarity":2.0,"systemtopicid":8, "systemlabel":"full power", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"70", "sent":"That means 18 months of experiments at the highest particle accelerator power ever","sentimentwords":[{"word":"highest","polarity":2.0}]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"full power", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"71", "sent":"Isnt that exciting?Who is most likely to find the Higgs boson then?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"72", "sent":"The LHC or the Tevatron?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31427628",
+"author":"superzerg",
+"parent":"",
+"date":"1268243100000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Energy",
+"sent": [{"linePolarity":0.0,"systemtopicid":6, "systemlabel":"design mistake", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"73", "sent":"The design energy for LHC particles is 7TeV which means 17TeV energy in center of mass during collision.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":6, "systemlabel":"design mistake", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"74", "sent":"The planned particles energy is 3.5TeV until 2011 which make 7TeV in center of mass.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31427650",
+"author":"Anonymous10",
+"parent":"",
+"date":"1268243220000",
+"modeclass":"None",
+"modescore":"1",
+"title":"I Blame Time Travelers",
+"sent": [{"linePolarity":-2.26666666667,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"78", "sent":"Apparently by making the LHC work we will cause some disaster so time travelers from an alternate future make sure it stays broken so the disaster will not happen.","sentimentwords":[{"word":"some","polarity":-4.8},{"word":"disaster","polarity":-3.0},{"word":"sure","polarity":1.0}]},{"linePolarity":1.0,"systemtopicid":8, "systemlabel":"full power", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"79", "sent":"That or God just doesnt want to be found.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31427664",
+"author":"Anonymous11",
+"parent":"",
+"date":"1268243280000",
+"modeclass":"Flamebait",
+"modescore":"-1",
+"title":"fuck3r",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"80", "sent":"the longest o r CondUcted at MIT goat.cx","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31427712",
+"author":"MrTripps",
+"parent":"",
+"date":"1268243460000",
+"modeclass":"None",
+"modescore":"1",
+"title":"We are saved once more",
+"sent": [{"linePolarity":1.5,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"81", "sent":"The invasion by giant ants from another dimension opened by a gateway created by a particle accelerator is prevented once again.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"82", "sent":"Such is the plot of Einsteins Bridge by John Cramer.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"83", "sent":"Luckily the SSC was never built.","sentimentwords":[]},{"linePolarity":-3.5,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"84", "sent":"West Texas has enough problems with fire ants without the giant alien kind.","sentimentwords":[{"word":"problems","polarity":-3.0},{"word":"without","polarity":-4.5},{"word":"alien","polarity":-3.0}]}]
+},
+{
+
+
+"commentid":"31427740",
+"author":"Icaarus",
+"parent":"",
+"date":"1268243640000",
+"modeclass":"None",
+"modescore":"1",
+"title":"The author is full of  in at least one way",
+"sent": [{"linePolarity":0.5,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"89", "sent":"From the Authors Website: follow the link that is the authors nameSlashdot  I guess I should just fess up and take the blame I created Slashdot a long time ago and now it seems to have grown into something pretty amazing.","sentimentwords":[]},{"linePolarity":1.5,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"90", "sent":"Come on down and check it out for news about Linux Open Source Software Legos Games Star Wars Science Technology and pretty much anything else that falls into the News for Nerds Stuff that Matters umbrella.So we already know this lune does not know how to read and that he just posts to flamebait.","sentimentwords":[]},{"linePolarity":-3.75,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"91", "sent":"Could it be that he also is a slanderous wretched troll who seeks to dishonour the nerds we covet.","sentimentwords":[{"word":"slanderous","polarity":0},{"word":"wretched","polarity":-7.5}]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"92", "sent":"I would prefer to think that then to think that the creator of this website is in fact an illiterate fabulist.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"93", "sent":"If the above quote is false I say .","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"94", "sent":"should sue the poster.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"95", "sent":"If the above quote is true I say we should all boycott that which has been mutated by its own author beyond recognition.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31427810",
+"author":"Anonymous13",
+"parent":"",
+"date":"1268243880000",
+"modeclass":"Interestin",
+"modescore":"5",
+"title":"we were asking for it",
+"sent": [{"linePolarity":0.333333333333,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"96", "sent":"As a physicist all I can say is weve been asking for this kind of press.When you hype the bejeezus out of the shiny new multibillion dollar tool its reasonable for the people who paid for it to expect results.","sentimentwords":[]},{"linePolarity":2.5,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"97", "sent":"It is jarring when people hear for over a decade about the great results that will come out of an experiment and then later hear that we have to spend 50 of the time doing maintenance on the equipment and the first few years just testing it.","sentimentwords":[{"word":"great","polarity":4.0},{"word":"just","polarity":1.0}]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"98", "sent":"I know this is the way things work this is the way my much much smaller experiments work.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"99", "sent":"This is not a complaint about the science or being careful.","sentimentwords":[]},{"linePolarity":-1.4,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"100", "sent":"This is a complaint about politics funding structures and a lack of ability across fields to communicate effectively with the general public.","sentimentwords":[]},{"linePolarity":1.5,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"101", "sent":"We cant keep doing this to ourselves if we want the public to trust us.","sentimentwords":[]},{"linePolarity":4.5,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"102", "sent":"We have to manage the media better.To begin with the great achievement of the LHC *is* the LHC not the search for the Higgs boson.","sentimentwords":[{"word":"great","polarity":4.5}]},{"linePolarity":0.416666666667,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"103", "sent":"Its enough that this is the most complicated impressive advanced piece of technology on the planet and that it required input at the cutting edge from nearly every major field of physics.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"104", "sent":"Just like the point of going to the moon was to go to the moon not to bring back moon rocks.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31431480",
+"author":"snowwrestler",
+"parent":"31427810",
+"date":"1268218080000",
+"modeclass":"None",
+"modescore":"1",
+"title":"This IS how you manage the public",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"208", "sent":"The LHC got built right?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"209", "sent":"Its functioning right?","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"210", "sent":"Mission accomplished my friend.PR is not about being wellunderstood its about getting a desired concrete result.","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"211", "sent":"The public is largely stupid and fickle.","sentimentwords":[{"word":"largely","polarity":-7.5},{"word":"fickle","polarity":-1.5}]},{"linePolarity":-1.875,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"212", "sent":"If you let little PR blips like this bother you youll never accomplish anything great.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"213", "sent":"Ultimately if the LHC delivers new science that is all anyone in future history will remember it for.","sentimentwords":[{"word":"new","polarity":2.0}]},{"linePolarity":-2.0625,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"214", "sent":"Its aggravating to read bad press but most of it just doesnt matter over time.The space race and moon landing projects had HUGE problems for yearsrockets failing very publicly shutdowns and delays even the death of 3 astronauts.","sentimentwords":[{"word":"HUGE","polarity":-6.0},{"word":"delays","polarity":-1.5},{"word":"death","polarity":-1.5},{"word":"failing","polarity":-4.5},{"word":"aggravating","polarity":-1.5},{"word":"bad","polarity":-4.5},{"word":"even","polarity":1.0},{"word":"just","polarity":2.0}]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"215", "sent":"What is remembered now?","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"216", "sent":"While the deaths are remembered and regretted the number one thing that people remember is that we walked on the fucking moon theonion.com.","sentimentwords":[{"word":"deaths","polarity":-1.5},{"word":"regretted","polarity":-4.5}]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"217", "sent":"How many people today could tell you how many failed launches the Saturn V had?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"218", "sent":"Who cares?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31433296",
+"author":"glwtta",
+"parent":"31427810",
+"date":"1268229600000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:we were asking for it",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"232", "sent":"Just like the point of going to the moon was to go to the moon not to bring back moon rocks.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"reasonable results", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"233", "sent":"Well ideally we wanted diamonds or sherbet.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31427962",
+"author":"HermDog",
+"parent":"",
+"date":"1268244660000",
+"modeclass":"Funny",
+"modescore":"5",
+"title":"Should have have hired the Prius engineers",
+"sent": [{"linePolarity":0,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"107", "sent":"Now theres a crew who know how to make an unstoppable accelerator","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31428108",
+"author":"Anonymous16",
+"parent":"",
+"date":"1268245320000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Oops",
+"sent": [{"linePolarity":0,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"111", "sent":"Is a four letter word around the LHC.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31428220",
+"author":"argent",
+"parent":"",
+"date":"1268245980000",
+"modeclass":"Redundant",
+"modescore":"1",
+"title":"They collapsed the false vacuum",
+"sent": [{"linePolarity":-2.175,"systemtopicid":8, "systemlabel":"full power", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"121", "sent":"Its pretty obvious that whats happening is that every time they start it up at full power it collapses the false vacuum and instantly destroys the universe.","sentimentwords":[{"word":"collapses","polarity":-3.0},{"word":"destroys","polarity":-1.5},{"word":"pretty","polarity":-2.7},{"word":"false","polarity":-1.5}]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"americans lhc", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"122", "sent":"So the only versions of the state vector we can observe are the ones in which the LHC never ramps up all the way because weve been destroyed in the rest of them...","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31428518",
+"author":"Anonymous20",
+"parent":"",
+"date":"1268247420000",
+"modeclass":"Troll",
+"modescore":"0",
+"title":"USA 1  Seems More and More Rare",
+"sent": [{"linePolarity":3.0,"systemtopicid":8, "systemlabel":"full power", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"126", "sent":"And the United States of America once again has the worlds most powerful particle accelerator and collider located at Fermilab... for now.","sentimentwords":[{"word":"powerful","polarity":3.0}]},{"linePolarity":0.375,"systemtopicid":8, "systemlabel":"full power", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"127", "sent":"Look with the current administration the cuts to the science budget the cancelation of deep space exploration and the dismantling of the American enterprise its getting rarer and rarer that theres ANYTHING worth mentioning in the US.","sentimentwords":[]},{"linePolarity":0.25,"systemtopicid":8, "systemlabel":"full power", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"128", "sent":"At least we can have one thing thats nice for a little bit.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31430744",
+"author":"Anonymous28",
+"parent":"31428518",
+"date":"1268214600000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:USA 1 Seems More and More Rare",
+"sent": [{"linePolarity":0,"systemtopicid":8, "systemlabel":"full power", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"188", "sent":"Urm No.","sentimentwords":[]},{"linePolarity":1.5,"systemtopicid":8, "systemlabel":"full power", "topicid":1, "goldlabel":"the LHC closing for repairs and upgrades and reactions", "sentid":"189", "sent":"Even at half powed the LHC is more powerful than Fermilab.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"190", "sent":"Sorry my little jingoist.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31428700",
+"author":"Anonymous22",
+"parent":"",
+"date":"1268248320000",
+"modeclass":"Interestin",
+"modescore":"2",
+"title":"LHC Construction",
+"sent": [{"linePolarity":-4.0,"systemtopicid":8, "systemlabel":"full power", "topicid":5, "goldlabel":"cost construction and design of the LHC", "sentid":"136", "sent":"Im sorry I dont have references but someone was explaining to me that the parts and construction for the LHC are excessively shoddy.","sentimentwords":[{"word":"sorry","polarity":-4.5},{"word":"shoddy","polarity":-4.5},{"word":"excessively","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"full power", "topicid":5, "goldlabel":"cost construction and design of the LHC", "sentid":"137", "sent":"He mentioned the size of the magnets and I believe mentioned that they werent really tested before being put in place.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":8, "systemlabel":"full power", "topicid":5, "goldlabel":"cost construction and design of the LHC", "sentid":"138", "sent":"His beef was that the whole thing is basically just a huge money sinkhole and may not ever produce the kinds of results it promises.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31429168",
+"author":"theswimmingbird",
+"parent":"",
+"date":"1268250420000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Dont be fooled",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"147", "sent":"They must be filming the sequel to Howard the Duck during the year its shut down.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"148", "sent":"Im pumped","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31429368",
+"author":"swschrad",
+"parent":"",
+"date":"1268251500000",
+"modeclass":"None",
+"modescore":"1",
+"title":"they ran out of black holes during construction",
+"sent": [{"linePolarity":0,"systemtopicid":8, "systemlabel":"full power", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"160", "sent":"it seems a number of them were hijacked by some pirates who have been distributing them to wouldbe journalists.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31429966",
+"author":"AlexLibman",
+"parent":"",
+"date":"1268254080000",
+"modeclass":"Insightful",
+"modescore":"0",
+"title":"Government science is so predictable",
+"sent": [{"linePolarity":0.62,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"173", "sent":"It does have to cost a lot of money and create a lot of crony jobs.It does NOT have to provide a return on investment or tangible benefit of any kind.If you dont agree with how the government spends you money then youre just a flatearth creationist cannibal child rapist who needs to STFU.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31430512",
+"author":"Master_Moose",
+"parent":"",
+"date":"1268213460000",
+"modeclass":"None",
+"modescore":"1",
+"title":"2012",
+"sent": [{"linePolarity":-1.5,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"185", "sent":"Maybe this is the doomsday machine","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"186", "sent":"This error could be the only thing stopping our existance from ending.","sentimentwords":[{"word":"error","polarity":-3.0}]},{"linePolarity":-0.416666666667,"systemtopicid":11, "systemlabel":"full power", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"187", "sent":"If we shut it down in late 2011 and send a year fixing bugs then restart it in late 2012  OMG the Mayans were right","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31431126",
+"author":"Anonymous29",
+"parent":"",
+"date":"1268216340000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Unforeseen Consequences",
+"sent": [{"linePolarity":-2.25,"systemtopicid":11, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"194", "sent":"Mr Freeman prepare for unforeseen consequences.","sentimentwords":[{"word":"consequences","polarity":-3.0},{"word":"unforeseen","polarity":-1.5}]}]
+},
+{
+
+
+"commentid":"31434196",
+"author":"Puppet_Master",
+"parent":"",
+"date":"1268238660000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Ok",
+"sent": [{"linePolarity":0,"systemtopicid":11, "systemlabel":"full power", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"234", "sent":"so the movie 2012 imdb.com was off by a year.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31434730",
+"author":"Provocateur",
+"parent":"",
+"date":"1268245380000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Inaccurate summary Talk about inaccurate headline",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"year long shutdown", "topicid":2, "goldlabel":"inaccuracies in the journalistic coverage of the LHC and managing the media", "sentid":"235", "sent":"Its shutdown rF fool","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31435672",
+"author":"EricTheO",
+"parent":"",
+"date":"1268301960000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Quantum News Posts",
+"sent": [{"linePolarity":0,"systemtopicid":9, "systemlabel":"lhc collaborators", "topicid":3, "goldlabel":"Higgs Boson causing ripples in time", "sentid":"236", "sent":"Once you read an article about the LHC the state of the facts change.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31440666",
+"author":"niftymitch",
+"parent":"",
+"date":"1268333460000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Will it be flooded by global warming",
+"sent": [{"linePolarity":1.66666666667,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"237", "sent":"I find it astounding that a project this large is not matched by a global climate and weather project.","sentimentwords":[]},{"linePolarity":2.66666666667,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"238", "sent":"While good physics is important at one level it will not directly feed and heal those that need it.","sentimentwords":[{"word":"heal","polarity":2.0},{"word":"good","polarity":3.0},{"word":"important","polarity":3.0}]},{"linePolarity":1.11666666667,"systemtopicid":8, "systemlabel":"full power", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"239", "sent":"It is true that some social issues are in the way but this blue marble is so understudied and so important to all of us.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31446078",
+"author":"Anonymous34",
+"parent":"",
+"date":"1268308920000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Wrong Dept Name",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":4, "goldlabel":"December 2012 the end of the world", "sentid":"254", "sent":"Surely this should come from the end of the end of the world as we know it dept.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31450850",
+"author":"Anonymous35",
+"parent":"",
+"date":"1268404920000",
+"modeclass":"None",
+"modescore":"0",
+"title":"The contractor",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"americans lhc", "topicid":5, "goldlabel":"cost construction and design of the LHC", "sentid":"255", "sent":"I wonder if Areva is somehow involved with this project...http:www.neimagazine.comstory.asp?sc2052909 neimagazine.comhttp:www.tvo.fiwwwpage2986 www.tvo.fi","sentimentwords":[]}]
+}
+]
+}

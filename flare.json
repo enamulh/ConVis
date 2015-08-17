@@ -1,0 +1,1080 @@
+{
+"author":"kdawson",
+"date":"1243437600000",
+"title":"Pulsar Signals Could Provide Galactic GPS",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"1", "sent":"KentuckyFC writes Were all familiar with GPS"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"2", "sent":"It consists of a network of satellites that each broadcast a time signal"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"3", "sent":"A receiver on Earth can then work out its position in threedimensional space by comparing the arrival times of the signals from at least three satellites"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"4", "sent":"Thats handy but it only works on Earth"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"5", "sent":"Now astronomers say that the millisecond signals from a network of pulsars could allow GPSstyle navigation on a galactic scale"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"6", "sent":"They propose using four pulsars that form a rough tetrahedron with the Solar System at its center and a coordinate system with its origin at 00:00 on 1 January 2001 at the focal point of the Interplanetary Scintillation Array the radio telescope near Cambridge in the UK that first observed pulsars"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"7", "sent":"The additional complexity of working with signals over these distances is that relativity has to be taken into account which is why the origin is defined as a point in spacetime rather than just space"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"8", "sent":"The pulsar GPS system should allow users to determine their position in spacetime anywhere in the galaxy to within a few nanoseconds which corresponds to an accuracy of about a meter"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"9", "sent":" Pulsars slow down over time and the arXiv paper doesnt seem to mention this"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"10", "sent":"The paper is mainly about establishing a coordinate system and a reference selection of pulsars"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"11", "sent":"Any proposed Galactic Positioning System would have to take the slowing into account and since it is poorly understood and not completely predictable this would limit accuracy"}]
+,"children":[
+{
+
+
+"commentid":"28110109",
+"author":"The__mad__linguist",
+"parent":"",
+"date":"1243441320000",
+"modeclass":"Funny",
+"modescore":"5",
+"title":"I would be pedantic but",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"12", "sent":"At this point Id normally be ranting about how the G in GPS stands for Global and that the summary is making an awful analogy but then I realized that Galactic also begins with a GAnd then I realized that that still doesnt make Galactic Global Positioning System any better"}]
+,"children":[
+{
+
+
+"commentid":"28110585",
+"author":"Anonymous11",
+"parent":"28110109",
+"date":"1243443120000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:I would be pedantic but",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"48", "sent":"Call it GaPS  there are sure to be some"}]
+},
+{
+
+
+"commentid":"28111475",
+"author":"OeLeWaPpErKe",
+"parent":"28110109",
+"date":"1243446540000",
+"modeclass":"None",
+"modescore":"-1",
+"title":"Galactic  1m is good enough on earth",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"113", "sent":"A good question is whether it would be feasible to receive these signals in a handheld device"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"114", "sent":"Pulsars may not be eternal but theyre quite close indeed to that ideal certainly much more so than any satellite wed ever put in orbitIn other words : could this be used as a GPS system on earth "},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"115", "sent":"I believe 1 meter is more accurate than even recent GPS devices provide"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"116", "sent":"Also could this be used to have instant clocksync in just about any computer in 3 components an RC circuit to tune to the correct frequency "}]
+},
+{
+
+
+"commentid":"28111819",
+"author":"Bob3141592",
+"parent":"28110109",
+"date":"1243447680000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:I would be pedantic but",
+"sent": [{"topicid":7, "goldlabel="relativity theory", "sentid":"123", "sent":"I seriously doubt that this could be made to work since General Relativity denies the very notion of simultinaity required to coordinate signals"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"124", "sent":"And this results from two monkey wrenches  the various velocities and accelerations of the pulsars and the varying and unknown distribution of gravitational fields between the objects"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"125", "sent":"Space across galactic distances is not Euclidean and the degree of curvature is not constant from one place to another on large scalesNaturally I didnt RTFA but Id be surprised if this scheme is valid even in principle"},{"topicid":600, "goldlabel="END", "sentid":"126", "sent":"See sig"}]
+},
+{
+
+
+"commentid":"28112499",
+"author":"dotancohen",
+"parent":"28110109",
+"date":"1243450500000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:I would be pedantic but",
+"sent": [{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"150", "sent":"Actually this has already been done"},{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"151", "sent":"The Pioneer Plaques gave the location of the Earth as relative to pulsars:http:enwikipediaorgwikiPioneerplaque wikipediaorg"}]
+},
+{
+
+
+"commentid":"28112811",
+"author":"RVT",
+"parent":"28110109",
+"date":"1243451700000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:I would be pedantic but",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"159", "sent":"Well pedantic would be to note:A receiver on Earth can then work out its position in threedimensional space by comparing the arrival times of the signals from at least three satellitesis a wrong statementBut this is "},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"160", "sent":"Who cares"}]
+},
+{
+
+
+"commentid":"28114085",
+"author":"Anonymous20",
+"parent":"28110109",
+"date":"1243457580000",
+"modeclass":"None",
+"modescore":"0",
+"title":"SETIHome data being used possibly apk",
+"sent": [{"topicid":13, "goldlabel="SETI at HOME", "sentid":"189", "sent":"Well while I was still doing SETIHome for Team Microsoft   http:setiathomeberkeleyeduteammembersphpteamid26482sortbyexpavgcreditoffset60 berkeleyedu 76 thats me there lol  to think I used to be as high as 12 on that chartI said this while checking the optimized version of the charactermodettyDOS mode clients by BOTH Trux  Cruncher I said WE were going to function one day as Star Travellers first stellar cartographers  in fact here is that very statement:http:setiathomeberkeleyeduforumthreadphpid27644nowraptrue berkeleyeduWere their stellar cartographers in a way if you think about it: Giving them potential targets to journey to based on data gained from this project"},{"topicid":13, "goldlabel="SETI at HOME", "sentid":"190", "sent":"Who wouldve guessed that PULSARS what theyre trying to detect for iirc its been a LONG while since I did that  I moved onto FoldingHome afterwards for a good bit also would be the target data centers used for this type of thingAPKPS Perhaps my ESP was operating  peak efficiency that day"},{"topicid":13, "goldlabel="SETI at HOME", "sentid":"191", "sent":"Inquiring minds want to know lol got lucky I guess maybe"},{"topicid":13, "goldlabel="SETI at HOME", "sentid":"192", "sent":"Who knows but this is pretty cool stuff  I hope it works out one day  be cool to know that some good came from SETIHome  least in terms of data for pulsar stars for this type of application this very thread is all about apk"}]
+},
+{
+
+
+"commentid":"28117371",
+"author":"Anonymous21",
+"parent":"28110109",
+"date":"1243429560000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:I would be pedantic but",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"231", "sent":"For mathematiciansphysicists the word global generally does not mean pertaining to Earth but more along the lines of universal"}]
+},
+{
+
+
+"commentid":"28117909",
+"author":"TBBle",
+"parent":"28110109",
+"date":"1243433340000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:I would be pedantic but",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"232", "sent":"Try Highaccurary Heliocentric Galactic Timenormalised Tetrahedron GPS wikipediaorg as a better acronym"}]
+}
+]
+},
+{
+
+
+"commentid":"28110125",
+"author":"BadAnalogyGuy",
+"parent":"",
+"date":"1243441320000",
+"modeclass":"Offtopic",
+"modescore":"0",
+"title":"Finally Thats a great use for them",
+"sent": [{"topicid":4, "goldlabel="pulsars", "sentid":"13", "sent":"Is there anyone who can help me figure out something to do with my Pulsars wiper blades"}]
+,"children":[
+{
+
+
+"commentid":"28110457",
+"author":"SEWilco",
+"parent":"28110125",
+"date":"1243442760000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Finally Thats a great use for them",
+"sent": [{"topicid":4, "goldlabel="pulsars", "sentid":"30", "sent":"Just make sure that you use at least 50 blinker fluid in your windshield washer reservoir when traveling at relativistic speeds"},{"topicid":4, "goldlabel="pulsars", "sentid":"31", "sent":"That will reduce wiper friction and reduce cosmic ray wear"}]
+}
+]
+},
+{
+
+
+"commentid":"28110127",
+"author":"Anonymous1",
+"parent":"",
+"date":"1243441380000",
+"modeclass":"None",
+"modescore":"0",
+"title":"First",
+"sent": [{"topicid":400, "goldlabel="OFFTOPIC", "sentid":"14", "sent":"First pulse"}]
+},
+{
+
+
+"commentid":"28110145",
+"author":"Anonymous2",
+"parent":"",
+"date":"1243441440000",
+"modeclass":"Insightful",
+"modescore":"4",
+"title":"Relativity also matters for GPS",
+"sent": []
+,"children":[
+{
+
+
+"commentid":"28111233",
+"author":"Anonymous15",
+"parent":"28110145",
+"date":"1243445640000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Relativity also matters for GPS",
+"sent": [{"topicid":7, "goldlabel="relativity theory", "sentid":"101", "sent":"Without relativity wed be off by 11 kilometers a day"}]
+}
+]
+},
+{
+
+
+"commentid":"28110163",
+"author":"Anonymous3",
+"parent":"",
+"date":"1243441440000",
+"modeclass":"Funny",
+"modescore":"1",
+"title":"Europe is planning a competing system",
+"sent": [{"topicid":4, "goldlabel="pulsars", "sentid":"15", "sent":"that uses metric pulsars"}]
+},
+{
+
+
+"commentid":"28110203",
+"author":"Anonymous4",
+"parent":"",
+"date":"1243441620000",
+"modeclass":"Insightful",
+"modescore":"4",
+"title":"Problem with the galactic positioning system",
+"sent": [{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"16", "sent":"I see a problem with this immediately:Unlike the global positioning system the pulsars are always going to be moving relative to each other and to your position AND the reference point which adds a tremendous amount of error"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"17", "sent":"That combined with the unpredictable changes in chances in pulsars emissions makes the GPS somewhat unreliable for interstellar travelHowever given that were probably centuries if not eons off from traveling outside our solar system its a moot point"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"18", "sent":"On the scale we can use it NOW interplanetary probes etc"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"19", "sent":"it should be highly accurate"}]
+,"children":[
+{
+
+
+"commentid":"28110619",
+"author":"Anonymous12",
+"parent":"28110203",
+"date":"1243443300000",
+"modeclass":"Insightful",
+"modescore":"3",
+"title":"Re:Problem with the galactic positioning system",
+"sent": [{"topicid":7, "goldlabel="relativity theory", "sentid":"49", "sent":"So you think the current GPS satellite constellation is fixed relative to some reference point on Earth and therefore eachother as well"},{"topicid":7, "goldlabel="relativity theory", "sentid":"50", "sent":"Of course everything is moving relative to everything else in the system"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"51", "sent":"Now that also means we need to know the position of the pulsars with a high degree of accuracy just like we have to know the position of the GPS satellites now"}]
+,"children":[
+{
+
+
+"commentid":"28117163",
+"author":"complete_loony",
+"parent":"28110619",
+"date":"1243428240000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Problem with the galactic positioning system",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"229", "sent":"Calculating a coordinate with GPS is about measuring the differences between pulses"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"230", "sent":"If we calculated coordinates after the fact by comparing the signal measured by a remote probe with a signal measured on earth I think youd get a very accurate relative position"}]
+}
+]
+},
+{
+
+
+"commentid":"28111149",
+"author":"evanbd",
+"parent":"28110203",
+"date":"1243445340000",
+"modeclass":"Informativ",
+"modescore":"3",
+"title":"Re:Problem with the galactic positioning system",
+"sent": [{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"79", "sent":"It makes the problem more complicated but it does not add error"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"80", "sent":"You dont think the GPS satellites are stationary do you"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"81", "sent":"The source of error here is uncertainty in the measurements of those positions"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"82", "sent":"And it actually isnt that bad  start your spacecraft near Sol with position well enough defined that you know which pulse youre receiving"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"83", "sent":"When observing you can only see the relative phasing of the pulsars unlike GPS satellites which transmit a time base"},{"topicid":9, "goldlabel="tick counts", "sentid":"84", "sent":"Then you need to count pulses as you move"},{"topicid":9, "goldlabel="tick counts", "sentid":"85", "sent":"You then know that relative to your starting point or equivalently the epoch youve seen X0 pulses from pulsar 0 X1 from pulsar 1 etc"},{"topicid":9, "goldlabel="tick counts", "sentid":"86", "sent":"Knowing how many pulses closer to each of the pulsars you are tells you how far you are from your starting point in spacetime not just space obviously"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"87", "sent":"The error bars get larger as you move enough to get parallax effects  since from Earth we can only measure the distance to a pulsar with modest precision and its velocity perpendicular to us with even less"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"88", "sent":"If however you have a radio telescope that can resolve the position of the pulsar with good precision you get to add a long baseline parallax measurement to correct for that"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"89", "sent":"Add a timebase transmitter at Earth as well and the errors basically disappear  errors of a few nanoseconds should be readily available"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"90", "sent":"And once youre far enough away from Sol to make that transmitter difficult more than a few lightyears youll know the pulsar trajectories well enough it wont matter as much"}]
+,"children":[
+{
+
+
+"commentid":"28145661",
+"author":"woolio",
+"parent":"28111149",
+"date":"1243602180000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Problem with the galactic positioning system",
+"sent": [{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"289", "sent":"And it actually isnt that bad  start your spacecraft near SolWell sure but not TOO NEAR"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"290", "sent":"Sol is a bit warm"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"291", "sent":"What about gravitational effects bending the light waves"}]
+}
+]
+},
+{
+
+
+"commentid":"28111261",
+"author":"pacificleo",
+"parent":"28110203",
+"date":"1243445700000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Problem with the galactic positioning system",
+"sent": [{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"102", "sent":"your fear are misplaced "},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"103", "sent":"Migratory birds have been using Earths magnetic field to navigate accurately for ages"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"104", "sent":"AFAIK Pulsars are having somewhat simmilar mechanism"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"105", "sent":"additionally any navigation system is supposed to give you a genral sense of direction dont expect it to plot the curve for you"}]
+},
+{
+
+
+"commentid":"28111645",
+"author":"Roger_W_Moore",
+"parent":"28110203",
+"date":"1243447080000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Far bigger problem: Directionality",
+"sent": [{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"118", "sent":"A far bigger problem is the directionality of the emissions"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"119", "sent":"They send out highly directional beams"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"120", "sent":"These will sweep out a hollow cone of some width"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"121", "sent":"However if you move outside that cone you will not get a signal"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"122", "sent":"This will mean that far more pulsars than just the four mentioned in the article will need to be mapped if you want to cover the galaxy"}]
+},
+{
+
+
+"commentid":"28113677",
+"author":"Sandbags",
+"parent":"28110203",
+"date":"1243455420000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Problem with the galactic positioning system",
+"sent": [{"topicid":7, "goldlabel="relativity theory", "sentid":"178", "sent":"Their movement may be a fact but when you calculate position based on spacetime instead of simply space the movement IN space is HIGHLY predictible and therefore highly accurate"},{"topicid":4, "goldlabel="pulsars", "sentid":"179", "sent":"The system of calculations might need periodic adjustment say every few decades gue to unforseen gravametric effects but generally its a pretty significant and thus in itself predictable event to actually cause a pulsar to have to adjust isd galactic course  We dont really care about the emissions of the pulsar only its relative position to the other pulsars in relation to the current time in nanoseconds"}]
+},
+{
+
+
+"commentid":"28115275",
+"author":"AJNeufeld",
+"parent":"28110203",
+"date":"1243419480000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Problem with the galactic positioning system",
+"sent": [{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"207", "sent":"That the pulsars move relative to each other and us is true  but this is an extremely minor point"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"208", "sent":"The pulsars all have very large masses which means it would take something HUGE to alter their trajectory significantly"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"209", "sent":"Until that happens that large mass translates to very predictable movement"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"210", "sent":"The periodicity of the pulsar is more problematic"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"211", "sent":"With a sudden introduction of mass or a sudden readjustment in the matter of the pulsar the frequency can abruptly change"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"212", "sent":"And yet this isnt even so much of an issue"},{"topicid":7, "goldlabel="relativity theory", "sentid":"213", "sent":"The pulsars will be monitored from some location Earth or otherwise and changes to their behaviour can be uploaded to the Galactic Positioning System receivers shortly after the change is observed"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"214", "sent":"The receivers might compute positions incorrectly in the interim but more likely dead reckoning combined with other pulsar observations could be used to determine the erroneous input and ignore it until the update"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"215", "sent":"A more serious flaw is that the pulsar emissions are not at first blush marked with an emission time"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"216", "sent":"One pulse looks more or less like the next"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"217", "sent":"If a pulse occurs onceasecond this translates to 300000 km between pulse fronts"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"218", "sent":"If your positioning space exceeds this length you might end up with ambiguity in your resulting position calculation"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"219", "sent":"The other 3 pulsars will provide constraints making certain single pulse offbyone errors easily discarded"},{"topicid":9, "goldlabel="tick counts", "sentid":"220", "sent":"But as your location space grows it becomes more than possible for multiple location solutions to a given set of pulsefront timings"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"221", "sent":"With Earths GPS system each satellites transmission is coded with both a satellite identifier and timing information making this type of error impossible"}]
+},
+{
+
+
+"commentid":"28116365",
+"author":"niktemadur",
+"parent":"28110203",
+"date":"1243423680000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Problem with the galactic positioning system",
+"sent": [{"topicid":14, "goldlabel="Stellar spectral emissions database", "sentid":"224", "sent":"By the time were technologically advanced enough to engineer a pulsar GPS to navigate interstellar spaces well probably go one better and use a stellar spectral emissions database taking relative movement and speed into account of course as Im under the impression that all stars have a unique spectral fingerprint"},{"topicid":14, "goldlabel="Stellar spectral emissions database", "sentid":"225", "sent":"There will be plenty of constant reference points visible from all points such as the Galactic Center the Magellanic Clouds and globular clustersSay its the year 4000 AT After Tranquility Base and youve lost your bearings in space"},{"topicid":14, "goldlabel="Stellar spectral emissions database", "sentid":"226", "sent":"Triangulate your constants and by finding just one ultraluminous star in your database Eta Carinae Antares Betelgeuse etc finding your way back home should be relatively easy"},{"topicid":14, "goldlabel="Stellar spectral emissions database", "sentid":"227", "sent":"Or at least youll get a pretty good sense of where Sirius or the Orion Nebula should be navigate in that direction and once youre in the general vicinity ol Sol should be within visual range lock on that and fly like an arrowNow imagine a fullfledged stellar database which is going to be a given"},{"topicid":14, "goldlabel="Stellar spectral emissions database", "sentid":"228", "sent":"Using any and all stars makes it much easier because plenty of star systems are double or triple emitting extremely specific spectral signatures"}]
+}
+]
+},
+{
+
+
+"commentid":"28110207",
+"author":"ATestR",
+"parent":"",
+"date":"1243441680000",
+"modeclass":"Insightful",
+"modescore":"4",
+"title":"Turn Left at the Next Nebula",
+"sent": [{"topicid":5, "goldlabel="faster than light FTL travel", "sentid":"20", "sent":"Cool concept but it seems like it would be of limited use until someone develops FTL"}]
+,"children":[
+{
+
+
+"commentid":"28111453",
+"author":"eth1",
+"parent":"28110207",
+"date":"1243446420000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Turn Left at the Next Nebula",
+"sent": [{"topicid":5, "goldlabel="faster than light FTL travel", "sentid":"112", "sent":"Warpfive point nineparsecs then exit hyperspace left"}]
+},
+{
+
+
+"commentid":"28111987",
+"author":"psydeshow",
+"parent":"28110207",
+"date":"1243448460000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Turn Left at the Next Nebula",
+"sent": [{"topicid":5, "goldlabel="faster than light FTL travel", "sentid":"127", "sent":"Youre not going to be able to prove that you developed FTL travel until you can prove that you got to somewhere and back presumably at faster than the speed of light"},{"topicid":5, "goldlabel="faster than light FTL travel", "sentid":"128", "sent":"A galactic positioning system would be quite handy for figuring out exactly where that somewhere was and how to get back homeAnyway it would be quite nice to know exactly where you were even if you stayed within our solar system"},{"topicid":5, "goldlabel="faster than light FTL travel", "sentid":"129", "sent":"Plenty of room to get lost out there"}]
+},
+{
+
+
+"commentid":"28137245",
+"author":"Anonymous24",
+"parent":"28110207",
+"date":"1243603980000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Turn Left at the Next Nebula",
+"sent": [{"topicid":5, "goldlabel="faster than light FTL travel", "sentid":"286", "sent":"no we dont need ftl"},{"topicid":5, "goldlabel="faster than light FTL travel", "sentid":"287", "sent":"we should just bend space"}]
+}
+]
+},
+{
+
+
+"commentid":"28110225",
+"author":"Anonymous5",
+"parent":"",
+"date":"1243441740000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Already been done",
+"sent": [{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"21", "sent":"Hasnt that already been done"},{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"22", "sent":"I thought the starburst pattern on the plaques affixed to the Vger probes indicated the position of Earth relative to a set of pulsars"}]
+,"children":[
+{
+
+
+"commentid":"28110567",
+"author":"Anonymous10",
+"parent":"28110225",
+"date":"1243443060000",
+"modeclass":"Informativ",
+"modescore":"1",
+"title":"Re:Already been done",
+"sent": [{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"45", "sent":"Actually the closest we have to an inertial reference frame in the solar system is already using this idea"},{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"46", "sent":"It has been extended to a terrestrial reference frame later"},{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"47", "sent":"Informative links:ICRF: http:enwikipediaorgwikiInternationalCelestialReferenceFrame wikipediaorgITRF: http:enwikipediaorgwikiInternationalTerrestrialReferenceFrame wikipediaorgThe technique used in both cases which is prettey cool: http:enwikipediaorgwikiVLBI wikipediaorg"}]
+}
+]
+},
+{
+
+
+"commentid":"28110237",
+"author":"ad0n",
+"parent":"",
+"date":"1243441740000",
+"modeclass":"Offtopic",
+"modescore":"0",
+"title":"oblig oneliner",
+"sent": [{"topicid":400, "goldlabel="OFFTOPIC", "sentid":"23", "sent":"make it so number one"}]
+},
+{
+
+
+"commentid":"28110277",
+"author":"Anonymous6",
+"parent":"",
+"date":"1243441920000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Now that were getting GGPS",
+"sent": [{"topicid":5, "goldlabel="faster than light FTL travel", "sentid":"24", "sent":"I want my FTL drives to escape the Cylon overlords"}]
+},
+{
+
+
+"commentid":"28110283",
+"author":"yogibaer",
+"parent":"",
+"date":"1243441980000",
+"modeclass":"Funny",
+"modescore":"3",
+"title":"Old Hat: The Pilgrims knew it before",
+"sent": [{"topicid":400, "goldlabel="OFFTOPIC", "sentid":"25", "sent":"as far as my Wing Commander Knowledge is still intact"}]
+},
+{
+
+
+"commentid":"28110375",
+"author":"Anonymous7",
+"parent":"",
+"date":"1243442340000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Over Engineered",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"26", "sent":"The Russians would of just used an old pencil and a map"}]
+},
+{
+
+
+"commentid":"28110409",
+"author":"tygerstripes",
+"parent":"",
+"date":"1243442520000",
+"modeclass":"Funny",
+"modescore":"1",
+"title":"Not interested",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"27", "sent":"Sorry but until its supported by my iPhone"}]
+},
+{
+
+
+"commentid":"28110437",
+"author":"Anonymous8",
+"parent":"",
+"date":"1243442640000",
+"modeclass":"Funny",
+"modescore":"1",
+"title":"Emperor of Mankind",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"28", "sent":"The only galactic GPS system I use is the beacon sent by the Emperor of Mankind"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"29", "sent":"Granted the cost of a thousand psychers a day is high but its worth it"}]
+},
+{
+
+
+"commentid":"28110463",
+"author":"Anonymous9",
+"parent":"",
+"date":"1243442760000",
+"modeclass":"Informativ",
+"modescore":"5",
+"title":"Old news",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"32", "sent":"This is not a new idea"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"33", "sent":"Actually this idea has been thought about before and dismissed"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"34", "sent":"The researchers referenced propose using millisecond radio pulsars for navigation"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"35", "sent":"This is a poor idea from an engineering standpoint because it requires having a large collecting area of radio dishes in order to get an apporpriate signal level"},{"topicid":7, "goldlabel="relativity theory", "sentid":"36", "sent":"A better idea which is currently being researched and was suggested four years ago at least the earliest I recall it being mentioned was using xray pulsars which require much smaller collecting area"},{"topicid":7, "goldlabel="relativity theory", "sentid":"37", "sent":"See for example  this thesis  umdedu on the subject"}]
+,"children":[
+{
+
+
+"commentid":"28112649",
+"author":"Anonymous16",
+"parent":"28110463",
+"date":"1243451040000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Old news",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"156", "sent":"But that creates jobs man and jobs right now are much more important than silly things like efficiency and productivity"}]
+}
+]
+},
+{
+
+
+"commentid":"28110487",
+"author":"wjousts",
+"parent":"",
+"date":"1243442820000",
+"modeclass":"Insightful",
+"modescore":"2",
+"title":"How accurate does it need to be",
+"sent": [{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"38", "sent":"Since were dealing with interstellar distances just how accurate do you need to be"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"39", "sent":"Being off by a few million miles might be pretty good if youre talking about lightyears of travel"}]
+,"children":[
+{
+
+
+"commentid":"28110793",
+"author":"Anonymous13",
+"parent":"28110487",
+"date":"1243443900000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:How accurate does it need to be",
+"sent": [{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"57", "sent":"Hide something in interstellar space note its current GalacticPS coordinates and velocity and come back years later to find it"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"58", "sent":"Probably needs to be fairly accurate"}]
+,"children":[
+{
+
+
+"commentid":"28111519",
+"author":"wjousts",
+"parent":"28110793",
+"date":"1243446660000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:How accurate does it need to be",
+"sent": [{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"117", "sent":"Ok so maybe it wont work for interstellar pirates hiding their space booty but if all youre trying to do is get from Earth to Alpha Ceti IV youll probably be close enough to see where you need to go"}]
+}
+]
+},
+{
+
+
+"commentid":"28113837",
+"author":"GodfatherofSoul",
+"parent":"28110487",
+"date":"1243456140000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:How accurate does it need to be",
+"sent": [{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"183", "sent":"You ever have to walk a few million miles to the nearest gas station because your girlfriend forgot to fill the tank"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"184", "sent":"No thanks man"}]
+}
+]
+},
+{
+
+
+"commentid":"28110489",
+"author":"srussia",
+"parent":"",
+"date":"1243442820000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Antenna",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"40", "sent":"How large would the antennas need to be"}]
+},
+{
+
+
+"commentid":"28110515",
+"author":"dogganos",
+"parent":"",
+"date":"1243442880000",
+"modeclass":"None",
+"modescore":"1",
+"title":"I find solutions",
+"sent": [{"topicid":400, "goldlabel="OFFTOPIC", "sentid":"41", "sent":"to nonexisting problems hilarious"}]
+},
+{
+
+
+"commentid":"28110547",
+"author":"shadowofwind",
+"parent":"",
+"date":"1243443000000",
+"modeclass":"None",
+"modescore":"1",
+"title":"geocentrism",
+"sent": [{"topicid":3, "goldlabel="Coordinate systems", "sentid":"42", "sent":"Fixing the coordinate system to a point near Cambridge will obviously cause the galactic coordinate system to oscillate around the sun"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"43", "sent":"And they would try to fix the coordinate systems rotation relative to what"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"44", "sent":"Absolute or the earth or the quasars which are moving relative to each other"}]
+,"children":[
+{
+
+
+"commentid":"28110815",
+"author":"skelterjohn",
+"parent":"28110547",
+"date":"1243443960000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:geocentrism",
+"sent": [{"topicid":3, "goldlabel="Coordinate systems", "sentid":"59", "sent":"It doesnt rotate around the sun"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"60", "sent":"It is fixed in both time and space"}]
+},
+{
+
+
+"commentid":"28110977",
+"author":"PTBarnum",
+"parent":"28110547",
+"date":"1243444680000",
+"modeclass":"Informativ",
+"modescore":"5",
+"title":"Re:geocentrism",
+"sent": [{"topicid":3, "goldlabel="Coordinate systems", "sentid":"68", "sent":"The native coordinate system is not a euclidean grid"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"69", "sent":"Think of the pulsars as being clocks that are continuously broadcasting their local time"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"70", "sent":"The 4 spacetime coordinates they define are just the values of those 4 clocks"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"71", "sent":"In order to normalize this I need to choose a 0 point for each clock and the authors chose the values of the clocks as observed in Cambridge at the beginning of the millenium"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"72", "sent":"Apparerently by observing the signals I can decide how much time to the nearest 4 ns had elapsed at each pulsar at the time it broadcast the signal Im now receiving"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"73", "sent":"I can then define a transform that maps those 4 numbers into whatever local coordinate system I want"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"74", "sent":"I could convert it to longitudelattitudeUTC for terrestrial navigation or some sort of heliocentric system for planetary navigation or a galactic system for interstellar navigation"}]
+}
+]
+},
+{
+
+
+"commentid":"28110649",
+"author":"daveywest",
+"parent":"",
+"date":"1243443420000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Home",
+"sent": [{"topicid":400, "goldlabel="OFFTOPIC", "sentid":"52", "sent":"0 0 1 Sweet 0 0 1"}]
+},
+{
+
+
+"commentid":"28110689",
+"author":"mandark1967",
+"parent":"",
+"date":"1243443540000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Relativity huh",
+"sent": [{"topicid":7, "goldlabel="relativity theory", "sentid":"53", "sent":"The additional complexity of working with signals over these distances is that relativity has to be taken into account"},{"topicid":7, "goldlabel="relativity theory", "sentid":"54", "sent":"Friggin InLaws ruin Everything"}]
+},
+{
+
+
+"commentid":"28110757",
+"author":"fortunatus",
+"parent":"",
+"date":"1243443780000",
+"modeclass":"None",
+"modescore":"1",
+"title":"origin",
+"sent": [{"topicid":8, "goldlabel="base time for the GPS", "sentid":"55", "sent":"I think origin 000 00000"},{"topicid":8, "goldlabel="base time for the GPS", "sentid":"56", "sent":"should be at the Sun upon the start date  since the earth orbits the Sun and rotates this could remove a couple curliques from the system  of course I know the sun orbits the galactic center and other things Im just saying it would simplify the system some when it comes to resolving positional issues to some fine resolution in the futureI agree Xray sources are better than MHz sources"}]
+,"children":[
+{
+
+
+"commentid":"28112889",
+"author":"maxume",
+"parent":"28110757",
+"date":"1243452060000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:origin",
+"sent": [{"topicid":8, "goldlabel="base time for the GPS", "sentid":"161", "sent":"The present position of Cambridge doesnt factor into it"},{"topicid":8, "goldlabel="base time for the GPS", "sentid":"162", "sent":"Unless you are trying to compare something to the present position of Cambridge"}]
+}
+]
+},
+{
+
+
+"commentid":"28110851",
+"author":"Ancient__Hacker",
+"parent":"",
+"date":"1243444080000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Nothing new here move along",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"61", "sent":"Pulsars have been used for geodesic measurements for about 30 years"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"62", "sent":"The nice short regular pulses make it possible to track the movement of continental plates down to the miliionth of a LOC length"}]
+},
+{
+
+
+"commentid":"28110877",
+"author":"TheCabal",
+"parent":"",
+"date":"1243444200000",
+"modeclass":"None",
+"modescore":"1",
+"title":"How accurate",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"63", "sent":"IIRC one of the methods we use to measure the distance to a pulsar is to look at the effects the interstellar medium has on the latency of the pulse"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"64", "sent":"Assuming the ISM is uniform I suppose this wouldnt be an issue but wouldnt this cause accuracy problems if there was an area where the ISM was denser"}]
+},
+{
+
+
+"commentid":"28110937",
+"author":"jadedoto",
+"parent":"",
+"date":"1243444500000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Directional GRB",
+"sent": [{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"65", "sent":"Arent pulsars directional"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"66", "sent":"How would you see the pulsar if it isnt currently flashing in your direction They have set orbits and would have a plane where they will be invisible"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"67", "sent":"Not that well ever get that far as humans but it does seem like a major showstopper"}]
+,"children":[
+{
+
+
+"commentid":"28112537",
+"author":"the__other__chewey",
+"parent":"28110937",
+"date":"1243450680000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Directional GRB",
+"sent": [{"topicid":4, "goldlabel="pulsars", "sentid":"152", "sent":"You fail at using TLAs to enhance your whatever"},{"topicid":4, "goldlabel="pulsars", "sentid":"153", "sent":"GRBs or Gamma Ray Bursts"},{"topicid":4, "goldlabel="pulsars", "sentid":"154", "sent":"are nonrecurring events and dont have much to do with pulsars"},{"topicid":4, "goldlabel="pulsars", "sentid":"155", "sent":"The astronomical acronym you might be trying to refer to is LGM as in LGM1 wikipediaorg"}]
+}
+]
+},
+{
+
+
+"commentid":"28111025",
+"author":"G3ckoG33k",
+"parent":"",
+"date":"1243444920000",
+"modeclass":"None",
+"modescore":"1",
+"title":"remember the millennium bug",
+"sent": [{"topicid":8, "goldlabel="base time for the GPS", "sentid":"75", "sent":"They propose using four pulsars that form a rough tetrahedron with the Solar System at its center and a coordinate system with its origin at 00:00 on 1 January 2001 at the focal point of the Interplanetary Scintillation Array the radio telescope near Cambridge in the UK that first observed pulsars"},{"topicid":8, "goldlabel="base time for the GPS", "sentid":"76", "sent":"I really really hope they remember the millennium bug"},{"topicid":8, "goldlabel="base time for the GPS", "sentid":"77", "sent":"We dont want to creat another one of those do we"}]
+},
+{
+
+
+"commentid":"28111107",
+"author":"hansede",
+"parent":"",
+"date":"1243445220000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Wow",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"78", "sent":"Ive heard of people who think theyre the center of the universe but this is just insane"}]
+},
+{
+
+
+"commentid":"28111169",
+"author":"Anonymous14",
+"parent":"",
+"date":"1243445400000",
+"modeclass":"Informativ",
+"modescore":"4",
+"title":"Dupe from 37 Years Ago  Pioneer 1 Plaque",
+"sent": [{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"91", "sent":"Quoting from Wikipedia wikipediaorg:Relative position of the Sun to the center of the Galaxy and 14 pulsarsThe radial pattern on the left of the plaque shows 15 lines emanating from the same origin"},{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"92", "sent":"Fourteen of the lines have corresponding long binary numbers which stand for the periods of pulsars using the hydrogen spinflip transition frequency as the unit"},{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"93", "sent":"Since these periods will change over time the epoch of the launch can be calculated from these valuesThe lengths of the lines show the relative distances of the pulsars to the Sun"},{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"94", "sent":"A tick mark at the end of each line gives the Z coordinate perpendicular to the galactic planeIf the plaque is found only some of the pulsars may be visible from the location of its discovery"},{"topicid":4, "goldlabel="pulsars", "sentid":"95", "sent":"Showing the location with as many as 14 pulsars provides redundancy so that the location of the origin can be triangulated even if only some of the pulsars are recognizedThe data for one of the pulsars is misleading"},{"topicid":4, "goldlabel="pulsars", "sentid":"96", "sent":"When the plaque was designed the frequency of pulsar 1240 now known as J12436423 was known to only three significant decimal digits: 0388 seconds"},{"topicid":4, "goldlabel="pulsars", "sentid":"97", "sent":"The map lists the period of this pulsar in binary to much greater precision: 100000110110010110001001111000"},{"topicid":4, "goldlabel="pulsars", "sentid":"98", "sent":"Rounding this off at about 10 significant bits 100000110100000000000000000000 would have provided a hint of this uncertainty"},{"topicid":4, "goldlabel="pulsars", "sentid":"99", "sent":"This pulsar is represented by the long line pointing down and to the rightThe fifteenth line on the plaque extends to the far right behind the human figures"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"100", "sent":"This line indicates the suns relative distance to the center of the galaxy"}]
+},
+{
+
+
+"commentid":"28111295",
+"author":"peter303",
+"parent":"",
+"date":"1243445820000",
+"modeclass":"None",
+"modescore":"1",
+"title":"this idea is at least 40 years old",
+"sent": [{"topicid":4, "goldlabel="pulsars", "sentid":"106", "sent":"It was conceived about the time pulsars were discovered"}]
+},
+{
+
+
+"commentid":"28111333",
+"author":"dargaud",
+"parent":"",
+"date":"1243446000000",
+"modeclass":"None",
+"modescore":"1",
+"title":"When out of the galaxy",
+"sent": [{"topicid":10, "goldlabel="quasars", "sentid":"107", "sent":"you can use triangulation with known quasars which is easy but imprecise"}]
+},
+{
+
+
+"commentid":"28111381",
+"author":"rnturn",
+"parent":"",
+"date":"1243446180000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Pulsars slow down over time",
+"sent": [{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"108", "sent":"The GPS ephemerides data stream includes parameters to model clock drift"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"109", "sent":"A similar set of corrections could be included to provide a correction for the change in pulsar frequency"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"110", "sent":"Something tells me though that this is a small problem compared to being able to detect the pulsar signals in the first place"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"111", "sent":"Unless adding an Arecibosized dish to your cellphone or pocketsized locator gizmo is an option"}]
+},
+{
+
+
+"commentid":"28112043",
+"author":"Alain_Williams",
+"parent":"",
+"date":"1243448580000",
+"modeclass":"None",
+"modescore":"1",
+"title":"GMT  Galactic Mean Time ",
+"sent": [{"topicid":8, "goldlabel="base time for the GPS", "sentid":"130", "sent":"There has to be some base time so what do we use "},{"topicid":8, "goldlabel="base time for the GPS", "sentid":"131", "sent":"Might as well base it on what we use already  GMT"},{"topicid":8, "goldlabel="base time for the GPS", "sentid":"132", "sent":"A couple of things to sort out:"},{"topicid":8, "goldlabel="base time for the GPS", "sentid":"133", "sent":"Gweenwich Mean Time is subject to Leap seconds  what about Galactic Mean Time "},{"topicid":8, "goldlabel="base time for the GPS", "sentid":"134", "sent":"This is not just fanciful  do we want the two time references to slowly fall out of sync "},{"topicid":8, "goldlabel="base time for the GPS", "sentid":"135", "sent":"According to relativity things that occur at the same time to one observer may not for another observer see: Relativity of simultaneity wikipediaorg so how meaningful is a Galactic Mean Time "}]
+},
+{
+
+
+"commentid":"28112149",
+"author":"parlancex",
+"parent":"",
+"date":"1243449000000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Slow down Pulars can also suddenly speed up",
+"sent": [{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"136", "sent":"Not only do Pulsars slow down over time but they also unpredictably and abruptly speed up"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"137", "sent":"This is thought to be because of a collapse of the outer layers of the Pulsar as it gradually loses energy over time and due to the conversation of angular momentum this collapse will cause an increase in rotational velocity"}]
+},
+{
+
+
+"commentid":"28112325",
+"author":"Midnight_Thunder",
+"parent":"",
+"date":"1243449780000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Polar or Grid coordinates",
+"sent": [{"topicid":3, "goldlabel="Coordinate systems", "sentid":"138", "sent":"Thinking about this I wonder what sort of coordinate system you would use in your spacecraft"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"139", "sent":"Would you use a polar coordinate system with certain celestial bodies providing the center of the coordinate system"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"140", "sent":"For example if you are in close proximity of a planet you use that then outside of those bounds the star and then the galactic center and so on"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"141", "sent":"Or do you a grid cube"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"142", "sent":"system with certain reference points to keep the grid in the right positionBecause reference points in space have this horrible tendency to move I can see the mapping system being more dynamic that the surface maps we use for planets so will probably need a planetary simulator to keep it precise"}]
+},
+{
+
+
+"commentid":"28112433",
+"author":"matelmaster",
+"parent":"",
+"date":"1243450140000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Four Satellites",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"143", "sent":"Thats actually a common misconception"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"144", "sent":"In GPS positioning you have four variables to be determined your position on the earth XYZ coordinates as well as the error of the receiver clock"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"145", "sent":"Because you dont have a high precision atomic clock in your Garmin and the Master Control Station doesnt monitor and adjust the clock in your handheld you need the signal of a fourth satellite to use its high precision clock to calculate exact time differences distances"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"146", "sent":"The reason many handheld or car navigation systems also work with three satellites is that they keep one variable usually the height fixed in their calculations"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"147", "sent":"You can either use the last known value if a satellite disappears over the horizon or you can just get it from for example the navigational maps in your system"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"148", "sent":"When youre driving along some road it generally doesnt matter whether youre 100 meters above or below the road but it may matter if youre 100 meters to the left or right"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"149", "sent":"This usually doesnt impact the usefulness of the device very much but may allow you to get a fix on your location when you otherwise wouldnt"}]
+},
+{
+
+
+"commentid":"28112667",
+"author":"SAFH",
+"parent":"",
+"date":"1243451160000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Ok so what are the coordinates of Earth",
+"sent": [{"topicid":3, "goldlabel="Coordinate systems", "sentid":"157", "sent":"All of this is fine and dandy but they still dont tell us what the coordinates of Earth are"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"158", "sent":"What good will this do us if we are abducted and need to get homeAs a commenter on Technology Review said isnt this the same concept as NASA put on Pioneer F"}]
+},
+{
+
+
+"commentid":"28112909",
+"author":"Opr33Opr33",
+"parent":"",
+"date":"1243452120000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Just in time for the Touch refresh",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"163", "sent":"Here I was just hoping for standard GPS in the next iPod Touch but Galactic GPS  WOW"},{"topicid":400, "goldlabel="OFFTOPIC", "sentid":"164", "sent":"Will it have audible turn by turn"},{"topicid":400, "goldlabel="OFFTOPIC", "sentid":"165", "sent":"If so please let it come with Majel Barretts voice"}]
+},
+{
+
+
+"commentid":"28112981",
+"author":"aquabat",
+"parent":"",
+"date":"1243452420000",
+"modeclass":"None",
+"modescore":"1",
+"title":"zero position",
+"sent": [{"topicid":8, "goldlabel="base time for the GPS", "sentid":"166", "sent":"If were going to do this could we please make the origin at 00:00 Jan 1"},{"topicid":8, "goldlabel="base time for the GPS", "sentid":"167", "sent":"1970 Id hate to have to write yet another date conversion function"}]
+},
+{
+
+
+"commentid":"28113131",
+"author":"OrangeTide",
+"parent":"",
+"date":"1243453020000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Galactic GPS in a watch",
+"sent": [{"topicid":4, "goldlabel="pulsars", "sentid":"168", "sent":"Now Im just waiting for a several thousand dollar luxury wristwatch that can scan for pulsars"}]
+},
+{
+
+
+"commentid":"28113439",
+"author":"Rick_Genter",
+"parent":"",
+"date":"1243454220000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Oh great",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"169", "sent":"Now people will have an excuse for driving their starships straight into a supernova"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"170", "sent":"But the GPS said to turn up here"}]
+},
+{
+
+
+"commentid":"28113463",
+"author":"Anonymous17",
+"parent":"",
+"date":"1243454340000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Stardates",
+"sent": [{"topicid":11, "goldlabel="stardates", "sentid":"171", "sent":"Isnt this what the real basis of stardates is supposed to beIn the sense that this method was used to calculate locations in spacetime before all those comms satellites were placed out to create beaconsAlso this reminds me of the article i think i saw on here a couple years back or so that mentioned that alien races could probably be using stars as communicationA massive grid would have been placed around said star to alter the frequencies that would get outIt would be one of the better methods for communicating long distanceBut in saying that if we achieve FTL at some point wed be better off making our own communication networks"},{"topicid":11, "goldlabel="stardates", "sentid":"172", "sent":"or if we meet aliens with one already built ask them very nicely if we can use it and promise not to use it for torrentsBut we need to actually figure out if we can even TFTL in the first placeIm saying 60 years"}]
+},
+{
+
+
+"commentid":"28113539",
+"author":"bareman",
+"parent":"",
+"date":"1243454820000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Great Ill have to upgrade my NuviTomTom again",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"173", "sent":"Hey look out for that Asteroid *swerve*  whew"},{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"174", "sent":"  Recalculating  Recalculating"}]
+},
+{
+
+
+"commentid":"28113573",
+"author":"Anonymous18",
+"parent":"",
+"date":"1243454940000",
+"modeclass":"None",
+"modescore":"0",
+"title":"kdawson insightful",
+"sent": [{"topicid":400, "goldlabel="OFFTOPIC", "sentid":"175", "sent":"uhm whats going on here"},{"topicid":400, "goldlabel="OFFTOPIC", "sentid":"176", "sent":"kdawson made an insightfulinformative comment about the summary"},{"topicid":400, "goldlabel="OFFTOPIC", "sentid":"177", "sent":"Maybe he just failed to put quotes around something someone else said"}]
+},
+{
+
+
+"commentid":"28113805",
+"author":"Anonymous19",
+"parent":"",
+"date":"1243456020000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Stargate",
+"sent": [{"topicid":4, "goldlabel="pulsars", "sentid":"180", "sent":"The mentioning of slow down and drift comes to mindThis is the same problem that the Ancients had to deal with when building the Stargate systemAny gates that had been cutoff were out of sync and had to be updated manuallySo i guess as long as you have lineofsight to at least 4 pulsars youll be fineThis system says that they would only use 4 so it would probably fail in that respectIf they could find the pulsars all on the outsides of the galaxy it would be really helpfulSpeaking of that does anyone have any links to maps of pulsars in our galaxy"},{"topicid":5, "goldlabel="faster than light FTL travel", "sentid":"181", "sent":"Still the whole How do i FTL"},{"topicid":5, "goldlabel="faster than light FTL travel", "sentid":"182", "sent":" problem isnt solved yetHopefully we will figure it out because it must be possible blackholes arent some magical mysterious thing that defies the laws of physics If the laws can break down the laws are not laws"}]
+},
+{
+
+
+"commentid":"28113945",
+"author":"GodfatherofSoul",
+"parent":"",
+"date":"1243456620000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Stranded in our solar system",
+"sent": [{"topicid":400, "goldlabel="OFFTOPIC", "sentid":"185", "sent":"Kinda offtopic but one of my scifi horror scenarios would be being lost in near space out of sight of earth far enough that it looks like another star with limited propulsion based on an issue of the comic Star Brand decades ago where the hero gets into a fight in space and becomes disoriented"},{"topicid":400, "goldlabel="OFFTOPIC", "sentid":"186", "sent":"Would this device work as well as a handheld blackbox GPS that you could use to orient yourself home"}]
+},
+{
+
+
+"commentid":"28114055",
+"author":"PPH",
+"parent":"",
+"date":"1243457280000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Fine until ",
+"sent": [{"topicid":12, "goldlabel="aliens", "sentid":"187", "sent":" the aliens turn on SA wikipediaorg and encrypt the pulsars timing signals"}]
+},
+{
+
+
+"commentid":"28114057",
+"author":"gatkinso",
+"parent":"",
+"date":"1243457280000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Didnt Sagan think of this first",
+"sent": [{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"188", "sent":"On that plate he had welded to Voyager"}]
+},
+{
+
+
+"commentid":"28115071",
+"author":"jhumkey",
+"parent":"",
+"date":"1243418820000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Ticks of time versus explicit time encoding",
+"sent": [{"topicid":9, "goldlabel="tick counts", "sentid":"193", "sent":"Someone enlighten me"},{"topicid":9, "goldlabel="tick counts", "sentid":"194", "sent":"I know with local GPS the time is encoded on the signal"},{"topicid":9, "goldlabel="tick counts", "sentid":"195", "sent":"Its not just a difference in ticks from different satellites"},{"topicid":9, "goldlabel="tick counts", "sentid":"196", "sent":"At some point a time is encoded to tell us which tick that last tick was"},{"topicid":9, "goldlabel="tick counts", "sentid":"197", "sent":"Im going out on a limb and saying no ones flown out to these Pulsars and encoded which millisecond tick is which in the datastream"},{"topicid":9, "goldlabel="tick counts", "sentid":"198", "sent":"So if my ship flies inside a large hole in an asteroid while avoiding Xur and the Kodan Armada when I come back out how will I know how many milliseconds Ive missed from each pulsar"},{"topicid":9, "goldlabel="tick counts", "sentid":"199", "sent":"Surely across Galactic scale and relativistic effects"},{"topicid":9, "goldlabel="tick counts", "sentid":"200", "sent":"just accurately counting the time between ticks from Pulsar to Pulsar wont be enough to know where you are"},{"topicid":9, "goldlabel="tick counts", "sentid":"201", "sent":"Youll have to know which tick is which"},{"topicid":9, "goldlabel="tick counts", "sentid":"202", "sent":"Or is everyone assuming its like gyroscopes"},{"topicid":9, "goldlabel="tick counts", "sentid":"203", "sent":"you spin them up and have to keep them going"},{"topicid":9, "goldlabel="tick counts", "sentid":"204", "sent":"or youre lost forever "},{"topicid":9, "goldlabel="tick counts", "sentid":"205", "sent":"What am I missing"},{"topicid":600, "goldlabel="END", "sentid":"206", "sent":"jkh"}]
+},
+{
+
+
+"commentid":"28116303",
+"author":"fireman_sam",
+"parent":"",
+"date":"1243423320000",
+"modeclass":"None",
+"modescore":"1",
+"title":"I can see it already",
+"sent": [{"topicid":7, "goldlabel="relativity theory", "sentid":"222", "sent":"Road side maps will no longer have the big sticker You are here to mark your location but would have a big sticker You are here right now to mark your position in space time"},{"topicid":7, "goldlabel="relativity theory", "sentid":"223", "sent":"Wow"}]
+},
+{
+
+
+"commentid":"28118077",
+"author":"Anonymous22",
+"parent":"",
+"date":"1243434600000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Voyager",
+"sent": [{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"233", "sent":"The Voyager spacecraft one of the etchings on the plaque on it shows the earths location very roughly with angles timing information ie"},{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"234", "sent":"pulse rate and estimated distances to 14 selected pulsars"},{"topicid":6, "goldlabel="pioneer and voyager plaques", "sentid":"235", "sent":"Pioneer 10 and 11 also had a similar plaque they were designed in 1970 or 1971"}]
+},
+{
+
+
+"commentid":"28118305",
+"author":"Anonymous23",
+"parent":"",
+"date":"1243436700000",
+"modeclass":"None",
+"modescore":"0",
+"title":"While Technically Correct",
+"sent": [{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"236", "sent":"A minimum of 3 satellites are needed for position but the results are mostly useless to the average person with that few satellites"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"237", "sent":"4 or more are neededAs per Wikipedia:It might seem three satellites are enough to solve for position since space has three dimensions"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"238", "sent":"However even a very small clock error multiplied by the very large speed of light19the speed at which satellite signals propagateresults in a large positional error"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"239", "sent":"Therefore receivers use four or more satellites to solve for x y z and t which is used to correct the receivers clock"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"240", "sent":"While most GPS applications use the computed location only and effectively hide the very accurately computed time it is used in a few specialized GPS applications such as time transfer traffic signal timing and synchronization of cell phone base stations"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"241", "sent":"And to give some credit to this post as per Ahmed ElRabbany in Introduction to GPS:  The Global Positioining SystemTo determine the receivers point position at any time the satellite coordinates as well as a minimum of four ranges to four satellites are required 2"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"242", "sent":"The receiver gets the satellite coordinates through the navigation message while the ranges are obtained from either the CAcode or the PYcode depending on the receiver type civilian or military"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"243", "sent":"As mentioned before the measured pseudoranges are contaiminated by both the satellite and receiver clock synchronization errors"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"244", "sent":"Correcting the satellite clock errors may be done by applying the satellite clock correction in the navigation message the receiver clock error is treated as an additional unknown parameter in the estimation process 2"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"245", "sent":"This brings the total number of unknown parameters to four three for the receiver coordinates and one for the receiver clock error"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"246", "sent":"This is the reason why at least four satellites are needed"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"247", "sent":"If youve ever turned on your GPS and it has initially said that you were across the country thats likely because it only resolved 3 satellites"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"248", "sent":"Your car GPS usually quickly solves this by taking your last known height with a known parameter ie"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"249", "sent":"zaxis one only needs 3 satellites for an accurate position"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"250", "sent":"While a bit of a hack its usually good enough for handheldcar GPS accuracyAs an aside ElRabbany in person is convoluted and a bit of a prick"},{"topicid":2, "goldlabel="measurement errors slowing periodicity directionality relativity parallax error clock error", "sentid":"251", "sent":"He did however have an excellent editor for his book"}]
+},
+{
+
+
+"commentid":"28119803",
+"author":"thogard",
+"parent":"",
+"date":"1243451160000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Not a new idea",
+"sent": [{"topicid":1, "goldlabel="pulsar signals providing galactic GPS", "sentid":"252", "sent":"Ive been looking into this since 2001"},{"topicid":4, "goldlabel="pulsars", "sentid":"253", "sent":"The biggest real problem is detecting the pulsars"},{"topicid":9, "goldlabel="tick counts", "sentid":"254", "sent":"The free space signal loss is on the order of 400db"},{"topicid":9, "goldlabel="tick counts", "sentid":"255", "sent":"The math is much harder than dealing with GPS and you have to find the easy way to figure out tick counts"},{"topicid":9, "goldlabel="tick counts", "sentid":"256", "sent":"Other than that its workable"},{"topicid":4, "goldlabel="pulsars", "sentid":"257", "sent":"Modern GPS receivers do have methods to remove pulsar noise from the signals they are watching"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"258", "sent":"Defining a coordinate system will be a mess as well but that could lead to a reasonable way to define things for all planets as well"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"259", "sent":"Nearly everything in space rotates and most rotate the same direction in about the same plane so you can define a north and south"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"260", "sent":"The real problem is how do you define the origin of Longitude"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"261", "sent":"I suspect the best way is define it by the highest point on the planet but that leads to problems when the highest point is at the unstable edge of an active volcano"},{"topicid":3, "goldlabel="Coordinate systems", "sentid":"262", "sent":"What do you use as a reference for a solar system or a galaxy"}]
+},
+{
+
+
+"commentid":"28120013",
+"author":"Enviro",
+"parent":"",
+"date":"1243454340000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Are pulsars part of an ET navigation system",
+"sent": [{"topicid":12, "goldlabel="aliens", "sentid":"263", "sent":"Dont laugh"},{"topicid":15, "goldlabel="Dr Paul Laviolette", "sentid":"264", "sent":": This reminds me of Dr Paul LaViolettes theory on extraterrestial beacons in outerspace"},{"topicid":15, "goldlabel="Dr Paul Laviolette", "sentid":"265", "sent":"Our modern society is dependent on accurate timekeeping which is why we rely on atomic clocks to give the correct time for use with the myriad of timekeeping devices we use today"},{"topicid":4, "goldlabel="pulsars", "sentid":"266", "sent":"Just as we rely on atomic clocks for splitsecond accuracy they in turn are set using pulsars"},{"topicid":4, "goldlabel="pulsars", "sentid":"267", "sent":"First discovered in 1967 pulsars are rotating neutron stars that emit electromagnetic radiation in the form of radio waves"},{"topicid":4, "goldlabel="pulsars", "sentid":"268", "sent":"According to LaViolette pulsars are not naturally occurring objects but rather they represent an intelligent design"},{"topicid":15, "goldlabel="Dr Paul Laviolette", "sentid":"269", "sent":"One intended for timekeeping navigation and which serves as a fasterthanlight warning system for events called galactic superwaves"},{"topicid":15, "goldlabel="Dr Paul Laviolette", "sentid":"270", "sent":"At best these superwaves are an annoyance to industrialized societies"},{"topicid":15, "goldlabel="Dr Paul Laviolette", "sentid":"271", "sent":"At worst they can and do trigger extinction level events ELE"},{"topicid":15, "goldlabel="Dr Paul Laviolette", "sentid":"272", "sent":"LaViolette tells that there have already been numerous ELE cataclysms on Earth and that our planet is now moving into the crosshairs of yet another"},{"topicid":15, "goldlabel="Dr Paul Laviolette", "sentid":"273", "sent":"found here"},{"topicid":15, "goldlabel="Dr Paul Laviolette", "sentid":"274", "sent":"yowusacom"},{"topicid":15, "goldlabel="Dr Paul Laviolette", "sentid":"275", "sent":"Dr Paul LaViolette has written four books and has published many original papers in physics astronomy climatology systems theory and psychology"},{"topicid":15, "goldlabel="Dr Paul Laviolette", "sentid":"276", "sent":"He received his BA in physics from Johns Hopkins his MBA from the University of Chicago and PhD from Portland State University and is currently president of the Starburst Foundation an interdisciplinary scientific research institute"},{"topicid":15, "goldlabel="Dr Paul Laviolette", "sentid":"277", "sent":"He is the developer of subquantum kinetics a novel approach to microphysics that accounts for electric magnetic gravitational and nuclear forces in a unified manner and resolves many longstanding physics problems"},{"topicid":15, "goldlabel="Dr Paul Laviolette", "sentid":"278", "sent":"Based on the predictions of this theory he developed an alternative cosmology that effectively replaces the big bang theory"},{"topicid":15, "goldlabel="Dr Paul Laviolette", "sentid":"279", "sent":"click"},{"topicid":15, "goldlabel="Dr Paul Laviolette", "sentid":"280", "sent":"topsecrettestimonycom"}]
+},
+{
+
+
+"commentid":"28122267",
+"author":"dugeen",
+"parent":"",
+"date":"1243518840000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Point in spacetime",
+"sent": [{"topicid":7, "goldlabel="relativity theory", "sentid":"281", "sent":"Relativity is not the reason for stating both the location and time of the origin"},{"topicid":7, "goldlabel="relativity theory", "sentid":"282", "sent":"Cambridge moves through space along with the Earth on which it is located"},{"topicid":7, "goldlabel="relativity theory", "sentid":"283", "sent":"Even only in terms of its location relative to the Sun Cambridge is 200 million miles in July from where it was in January"}]
+},
+{
+
+
+"commentid":"28125645",
+"author":"jmcwork",
+"parent":"",
+"date":"1243533780000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Its about time",
+"sent": [{"topicid":400, "goldlabel="OFFTOPIC", "sentid":"284", "sent":"Weve been waiting"},{"topicid":600, "goldlabel="END", "sentid":"285", "sent":" Jupiter 2"}]
+},
+{
+
+
+"commentid":"28139259",
+"author":"TehBrando",
+"parent":"",
+"date":"1243614060000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Jared is going to be pissed",
+"sent": [{"topicid":400, "goldlabel="OFFTOPIC", "sentid":"288", "sent":"How will he lose weight if he cant eat his sub from subway because someone made it invisible"}]
+}
+]
+}

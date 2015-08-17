@@ -1,0 +1,1016 @@
+{
+"domain":"slashdot",
+"totalTopics":"12",
+"domain":"slashdot",
+
+"totalLines":"277",
+
+"topics":[{"topicID":1,"strength":14,"labels":[{"phrase":"price","prob":0.160498315908},{"phrase":" inbox. _this","prob":0.144349005788},{"phrase":" willing information","prob":0.139030535661},{"phrase":" filter","prob":0.139030535661},{"phrase":" gmail spam filter","prob":0.139030535661},{"phrase":" _","prob":0.139030535661},{"phrase":" willing pay google","prob":0.139030535661}]},{"topicID":2,"strength":33,"labels":[{"phrase":"email scheme","prob":0.047619047619},{"phrase":" email google","prob":0.047619047619},{"phrase":" email users","prob":0.047619047619},{"phrase":" email messages","prob":0.047619047619},{"phrase":" email 1/2","prob":0.047619047619},{"phrase":" email sure botnet","prob":0.047619047619},{"phrase":" email level","prob":0.047619047619},{"phrase":" own email server","prob":0.047619047619},{"phrase":" email accounts","prob":0.047619047619},{"phrase":" email spam","prob":0.047619047619},{"phrase":" easy free email services","prob":0.047619047619},{"phrase":" email mailing lists","prob":0.047619047619},{"phrase":" work email","prob":0.047619047619},{"phrase":" public email addresses","prob":0.047619047619},{"phrase":" email person","prob":0.047619047619},{"phrase":" email email cent","prob":0.047619047619},{"phrase":" email bandwidth","prob":0.047619047619},{"phrase":" big email","prob":0.047619047619},{"phrase":" email addressesx","prob":0.047619047619},{"phrase":" pay email","prob":0.047619047619},{"phrase":" legitimate email","prob":0.047619047619}]},{"topicID":3,"strength":67,"labels":[{"phrase":"lusers spam","prob":0.0526315789474},{"phrase":" so spam","prob":0.0526315789474},{"phrase":" control spam","prob":0.0526315789474},{"phrase":" can fifteen spam","prob":0.0526315789474},{"phrase":" this so sure spam","prob":0.0526315789474},{"phrase":" daily spam volumes","prob":0.0526315789474},{"phrase":" delicious spam","prob":0.0526315789474},{"phrase":" charge spam","prob":0.0526315789474},{"phrase":" large spam","prob":0.0526315789474},{"phrase":" email gmail spam message","prob":0.0526315789474},{"phrase":" paper spam","prob":0.0526315789474},{"phrase":" spam mails","prob":0.0526315789474},{"phrase":" porn spam","prob":0.0526315789474},{"phrase":" stop spam","prob":0.0526315789474},{"phrase":" end spam box","prob":0.0526315789474},{"phrase":" malicious spam","prob":0.0526315789474},{"phrase":" spam filters","prob":0.0526315789474},{"phrase":" own spam","prob":0.0526315789474},{"phrase":" spam folder","prob":0.0526315789474}]},{"topicID":4,"strength":13,"labels":[{"phrase":"lusers spam","prob":0.047619047619},{"phrase":" delicious spam","prob":0.047619047619},{"phrase":" can spam","prob":0.047619047619},{"phrase":" so spam","prob":0.047619047619},{"phrase":" charge spam","prob":0.047619047619},{"phrase":" large spam","prob":0.047619047619},{"phrase":" control spam","prob":0.047619047619},{"phrase":" end spam box","prob":0.047619047619},{"phrase":" this spam","prob":0.047619047619},{"phrase":" malicious spam","prob":0.047619047619},{"phrase":" paper spam","prob":0.047619047619},{"phrase":" own spam","prob":0.047619047619},{"phrase":" sure spam messages","prob":0.047619047619},{"phrase":" gmail spam filter","prob":0.047619047619},{"phrase":" spam volume","prob":0.047619047619},{"phrase":" spam folder","prob":0.047619047619},{"phrase":" email spam","prob":0.047619047619},{"phrase":" spam mails","prob":0.047619047619},{"phrase":" porn spam","prob":0.047619047619},{"phrase":" stop spam","prob":0.047619047619},{"phrase":" this so sure spam","prob":0.047619047619}]},{"topicID":5,"strength":65,"labels":[{"phrase":"lusers spam","prob":0.047619047619},{"phrase":" so spam","prob":0.047619047619},{"phrase":" control spam","prob":0.047619047619},{"phrase":" spam messages","prob":0.047619047619},{"phrase":" this so sure spam","prob":0.047619047619},{"phrase":" daily spam volumes","prob":0.047619047619},{"phrase":" delicious spam","prob":0.047619047619},{"phrase":" charge spam","prob":0.047619047619},{"phrase":" large spam","prob":0.047619047619},{"phrase":" paper spam","prob":0.047619047619},{"phrase":" email spam","prob":0.047619047619},{"phrase":" spam mails","prob":0.047619047619},{"phrase":" porn spam","prob":0.047619047619},{"phrase":" stop spam","prob":0.047619047619},{"phrase":" end spam box","prob":0.047619047619},{"phrase":" malicious spam","prob":0.047619047619},{"phrase":" spam dead","prob":0.047619047619},{"phrase":" gmail spam filter","prob":0.047619047619},{"phrase":" can spam","prob":0.047619047619},{"phrase":" own spam","prob":0.047619047619},{"phrase":" spam folder","prob":0.047619047619}]},{"topicID":6,"strength":9,"labels":[{"phrase":"lusers spam","prob":0.0454545454545},{"phrase":" delicious spam","prob":0.0454545454545},{"phrase":" can spam","prob":0.0454545454545},{"phrase":" so spam","prob":0.0454545454545},{"phrase":" charge spam","prob":0.0454545454545},{"phrase":" large spam","prob":0.0454545454545},{"phrase":" end spam box","prob":0.0454545454545},{"phrase":" this spam","prob":0.0454545454545},{"phrase":" malicious spam","prob":0.0454545454545},{"phrase":" paper spam","prob":0.0454545454545},{"phrase":" control spam","prob":0.0454545454545},{"phrase":" own spam","prob":0.0454545454545},{"phrase":" sure spam messages","prob":0.0454545454545},{"phrase":" gmail spam filter","prob":0.0454545454545},{"phrase":" spam volume","prob":0.0454545454545},{"phrase":" spam folder","prob":0.0454545454545},{"phrase":" email spam","prob":0.0454545454545},{"phrase":" spam mails","prob":0.0454545454545},{"phrase":" porn spam","prob":0.0454545454545},{"phrase":" stop spam","prob":0.0454545454545},{"phrase":" this so sure spam","prob":0.0454545454545},{"phrase":" overzealous spam","prob":0.0454545454545}]},{"topicID":7,"strength":15,"labels":[{"phrase":"so waste","prob":0.325591317128},{"phrase":" waste time","prob":0.325591317128},{"phrase":" internet","prob":0.121962570172},{"phrase":" stop internet so","prob":0.121962570172},{"phrase":" point","prob":0.1048922254}]},{"topicID":8,"strength":6,"labels":[{"phrase":"major mechanics","prob":0.420869181884},{"phrase":" aal","prob":0.403367324636},{"phrase":" development model","prob":0.17576349348}]},{"topicID":9,"strength":24,"labels":[{"phrase":"lusers spam","prob":0.05},{"phrase":" so spam","prob":0.05},{"phrase":" control spam","prob":0.05},{"phrase":" can fifteen spam","prob":0.05},{"phrase":" this so sure spam","prob":0.05},{"phrase":" daily spam volumes","prob":0.05},{"phrase":" delicious spam","prob":0.05},{"phrase":" charge spam","prob":0.05},{"phrase":" paper spam","prob":0.05},{"phrase":" email spam","prob":0.05},{"phrase":" spam mails","prob":0.05},{"phrase":" porn spam","prob":0.05},{"phrase":" stop spam","prob":0.05},{"phrase":" gmail spam message","prob":0.05},{"phrase":" end spam box","prob":0.05},{"phrase":" malicious spam","prob":0.05},{"phrase":" spam filters","prob":0.05},{"phrase":" large spam","prob":0.05},{"phrase":" own spam","prob":0.05},{"phrase":" spam folder","prob":0.05}]},{"topicID":10,"strength":7,"labels":[{"phrase":"prevent spammers","prob":0.142857142857},{"phrase":" legit spammers","prob":0.142857142857},{"phrase":" potential spammers","prob":0.142857142857},{"phrase":" spamming spammers","prob":0.142857142857},{"phrase":" spammers can","prob":0.142857142857},{"phrase":" so spammers","prob":0.142857142857},{"phrase":" pay spammers","prob":0.142857142857}]},{"topicID":11,"strength":8,"labels":[{"phrase":"lusers spam","prob":0.302504664045},{"phrase":" delicious spam","prob":0.0348747667977},{"phrase":" can spam","prob":0.0348747667977},{"phrase":" so spam","prob":0.0348747667977},{"phrase":" charge spam","prob":0.0348747667977},{"phrase":" large spam","prob":0.0348747667977},{"phrase":" gmail spam filter","prob":0.0348747667977},{"phrase":" control spam","prob":0.0348747667977},{"phrase":" end spam box","prob":0.0348747667977},{"phrase":" this spam","prob":0.0348747667977},{"phrase":" malicious spam","prob":0.0348747667977},{"phrase":" paper spam","prob":0.0348747667977},{"phrase":" own spam","prob":0.0348747667977},{"phrase":" sure spam messages","prob":0.0348747667977},{"phrase":" spam volume","prob":0.0348747667977},{"phrase":" spam folder","prob":0.0348747667977},{"phrase":" email spam","prob":0.0348747667977},{"phrase":" spam mails","prob":0.0348747667977},{"phrase":" porn spam","prob":0.0348747667977},{"phrase":" stop spam","prob":0.0348747667977},{"phrase":" this so sure spam","prob":0.0348747667977}]},{"topicID":12,"strength":16,"labels":[{"phrase":"real kilgore trout","prob":0.397882316969},{"phrase":" windoze","prob":0.239362186239},{"phrase":" minsk","prob":0.239362186239},{"phrase":" fool","prob":0.0685034418694},{"phrase":" real accounts","prob":0.0548898686832}]}],
+
+"author":"kdawson",
+"date":"1266349380000",
+"title":"Malicious Spam Jumps To 3B Messages Per Day",
+"sent": [{"linePolarity":-2.25,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"1", "sent":"Trailrunner7 writes Last year saw a monstrous increase in the volume of malicious spam according to a new report PDF.","sentimentwords":[{"word":"according","polarity":1.0},{"word":"monstrous","polarity":-6.0},{"word":"malicious","polarity":-6.0},{"word":"new","polarity":2.0}]},{"linePolarity":1.5,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"2", "sent":"In the second half of 2009 the number of spam messages sent per day skyrocketed from 600 million to three billion according to new research.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"3", "sent":"For some time now spam has been accounting for 90 or more percent of all email messages.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"4", "sent":"But the volume of spam had been relatively steady in the last couple of years.","sentimentwords":[]},{"linePolarity":3.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"5", "sent":"Now the emergence of several largescale botnets including Zeus and Koobface has led to an enormous spike in the volume of spam.","sentimentwords":[{"word":"enormous","polarity":3.0}]}]
+,"children":[
+{
+
+
+"commentid":"31159178",
+"author":"Anonymous1",
+"parent":"",
+"date":"1266353160000",
+"modeclass":"Funny",
+"modescore":"5",
+"title":"Enough about malicious spam",
+"sent": [{"linePolarity":5.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"6", "sent":"What about delicious spam?","sentimentwords":[{"word":"delicious","polarity":5.0}]}]
+,"children":[
+{
+
+
+"commentid":"31159950",
+"author":"Anonymous13",
+"parent":"31159178",
+"date":"1266313680000",
+"modeclass":"Funny",
+"modescore":"3",
+"title":"Re:Enough about malicious spam",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"119", "sent":"?What about it?","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"120", "sent":"Its slightly less fictional than unicorn bacon?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31160070",
+"author":"Anonymous15",
+"parent":"31159178",
+"date":"1266314160000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Enough about malicious spam",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"139", "sent":"?I think thats an oxymoron.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31161046",
+"author":"datapharmer",
+"parent":"31160070",
+"date":"1266318600000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Enough about malicious spam",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"160", "sent":"Clearly you havent had it mixed with vienna sausages and  anchovies.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"161", "sent":"yum","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31165086",
+"author":"Phoghat",
+"parent":"31159178",
+"date":"1266343440000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Enough about malicious spam",
+"sent": [{"linePolarity":-1.5,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"237", "sent":"How about something with a little less spam In it?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":7, "systemlabel":"so waste", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"238", "sent":"Theres:","sentimentwords":[]},{"linePolarity":0,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"239", "sent":"http:www.youtube.comwatch?vanwy2MPT5RE youtube.com","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31159194",
+"author":"Anonymous2",
+"parent":"",
+"date":"1266353280000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Out of curiosity",
+"sent": [{"linePolarity":0.25,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"7", "sent":"Why cant ISPs detect large numbers of messages suddenly going to a vast array of email address and shut it down?Nobody normally does that seems like it should be easy behavior to detect and stamp out algorithmically.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31159322",
+"author":"HungryHobo",
+"parent":"31159194",
+"date":"1266353820000",
+"modeclass":"Interestin",
+"modescore":"5",
+"title":"Re:Out of curiosity",
+"sent": [{"linePolarity":0.680769230769,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"29", "sent":"Because one person sending a mailshot to a hundred or so people looks a lot like a botnet.One person mailing their CV to 200 companies can look a lot like a botnet.One teenage girl telling everyone about a party can look a lot like a spammer.Sure if the botnet isnt well written then itll just blast spam out of every node 247 but the really good ones are going to try hard to evade detection.Hell if youve got enough compromised PCs and youre organised as modern botnet herders are then you can collect a lot of good data on how regular users send email and make sure the nodes of your botnet avoid going far outside the curve.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31159968",
+"author":"Anonymous14",
+"parent":"31159322",
+"date":"1266313740000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Out of curiosity",
+"sent": [{"linePolarity":-1.5,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"121", "sent":"And what would be so bad about ISPs blocking that??","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31160238",
+"author":"pclminion",
+"parent":"31159322",
+"date":"1266314820000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Out of curiosity",
+"sent": [{"linePolarity":-0.666666666667,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"141", "sent":"Yeah well if it quacks like a duck...Seriously if you are trying to communicate with hundreds of people there are technologies meant for that.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"142", "sent":"Email isnt one of them.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31160650",
+"author":"aztracker1",
+"parent":"31159322",
+"date":"1266316860000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Out of curiosity",
+"sent": [{"linePolarity":2.25,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"153", "sent":"Id be happy if more of the bigger mail services recognized my mail server for my hobby sites user signups as nonspam.","sentimentwords":[{"word":"happy","polarity":4.0},{"word":"bigger","polarity":0.5}]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"154", "sent":"Despite the fact the MX on record is the sending server and the domain for the MX has been up for a while.","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"155", "sent":"Ive in the past year retired the use of my companys domain name and revised my hobby site to use a newer domain.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"156", "sent":"Just the same this has been over the course of a year not all at once.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31161002",
+"author":"Kardos",
+"parent":"31159322",
+"date":"1266318480000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Out of curiosity",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"159", "sent":"That or the herders adjust their botnet so the behavior of each node is such that it *becomes* the curve...","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31159458",
+"author":"Jeng",
+"parent":"31159194",
+"date":"1266311400000",
+"modeclass":"Insightful",
+"modescore":"1",
+"title":"Re:Out of curiosity",
+"sent": [{"linePolarity":1.625,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"57", "sent":"Although I think very low of the morality of those who do this for a living but at times you really have to respect their skills.This isnt just like running an email service for a fortune 500 company its more like running a black ops email service for a fortune 500 company.Every aspect of the operation is ran over with a fine tooth comb for discretion.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"58", "sent":"Not too many from each node sending out the spam messages at a low rate redundancy resource management payroll.","sentimentwords":[{"word":"redundancy","polarity":-3.0},{"word":"low","polarity":-1.5},{"word":"too","polarity":-4.5}]},{"linePolarity":-1.1,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"59", "sent":"This cannot be easy.Too bad these people are going with a life of crime with their potential I would think they could do very well in legitimate work.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31165410",
+"author":"innocent__white__lamb",
+"parent":"31159458",
+"date":"1266345540000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Out of curiosity",
+"sent": [{"linePolarity":2.53125,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"240", "sent":"Although I think very low of the morality of those who do this for a living but at times you really have to respect their skills.","sentimentwords":[{"word":"morality","polarity":2.0},{"word":"skills","polarity":4.0},{"word":"respect","polarity":6.0},{"word":"very","polarity":-1.875}]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"241", "sent":" Skills?","sentimentwords":[]},{"linePolarity":-1.75,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"242", "sent":"I think its more a case of even a blind pig occasionally turns up a nut.","sentimentwords":[]},{"linePolarity":3.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"243", "sent":"  There are so many wannabe spammers and wannabe hackers and wannabe whatevershotthisweek that it doesnt take much of a success rate to land a ton of spam in your inbox and mine.","sentimentwords":[{"word":"success","polarity":3.0}]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"244", "sent":" I susspect that at least 85 of the people who read Slashdot could do a better job of spamming than the spammers if they were so inclined.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31159818",
+"author":"HTH_NE1",
+"parent":"31159194",
+"date":"1266313080000",
+"modeclass":"Insightful",
+"modescore":"2",
+"title":"Re:Out of curiosity",
+"sent": [{"linePolarity":-1.92857142857,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"103", "sent":"The messages arent identicalThe messages dont originate from just one machine but from botnet zombies scattered all over the net with distributed command and control with multiple contingencies for regaining controlThe messages dont end up at just one mail hostBy the time its detected the damage is already doneAnyone who does detect it isnt in a position to stop it from happening againBasically what youre suggesting boils down to throttling the entire Internet so that it cant handle the capacity of spamming which will make it useless for any email delivery.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"104", "sent":"You might as well just kill email.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31161166",
+"author":"Anonymous19",
+"parent":"31159818",
+"date":"1266319140000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Out of curiosity",
+"sent": [{"linePolarity":0.5625,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"174", "sent":"Original poster here maybe I should elaborate.Why dont ISPs providing service to home users require outgoing SMTP to pass through the ISP mailserver firewalling port 25 and flagblock extreme usage so that their customers virus infected machines dont spew further garbage into the Internet?In the very rare case where a customer needs to run a mailing list or the like allow them to change their thresholds in their user profile.","sentimentwords":[]},{"linePolarity":0.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"175", "sent":"For those who dont intend to send hundreds of thousands of messages it might actually be of some benefit to them to shut down the spigot and send them a warning that their computers infected.I dont want to throttle the whole Internet just implement some form of rationality test on mail output at the ISP level.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31177964",
+"author":"HTH_NE1",
+"parent":"31161166",
+"date":"1265026500000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Out of curiosity",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"275", "sent":"?I refer you again to number 2.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"276", "sent":"I think you underestimate how many machines are in a given botnet and therefore overestimate how much spam one machine in that botnet sends.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"277", "sent":"They could easily slide under an ISPs peruser email volume limit and still participate in a millionstrong spam.","sentimentwords":[]}]
+}
+]
+}
+]
+},
+{
+
+
+"commentid":"31160754",
+"author":"Anonymous18",
+"parent":"31159194",
+"date":"1266317340000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Out of curiosity",
+"sent": [{"linePolarity":5.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"157", "sent":"Gmail works flawlessly.","sentimentwords":[{"word":"flawlessly","polarity":5.0}]},{"linePolarity":-0.833333333333,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"158", "sent":"I havent seen spam in years and because its never accidentally flagged a real message Ive made a filter that automatically deletes any spam instead of filling up a spam folder that Ill never check.If ISPs and other email providers cant provide the same level of service then they suck.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31159202",
+"author":"Anonymous3",
+"parent":"",
+"date":"1266353280000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Users get spammed",
+"sent": [{"linePolarity":0,"systemtopicid":11, "systemlabel":"lusers spam", "topicid":500, "goldlabel":"START", "sentid":"8", "sent":"1.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":11, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"9", "sent":"Lusers get spammed by email2.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":11, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"10", "sent":"Lusers migrate to facebook3.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":11, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"11", "sent":"Lusers get infected with koobface on facebook4.","sentimentwords":[{"word":"infected","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":11, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"12", "sent":"Lusers spam everyone by email","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31159226",
+"author":"Anonymous4",
+"parent":"",
+"date":"1266353340000",
+"modeclass":"Troll",
+"modescore":"-1",
+"title":"Thanks Largely To The Prevalance Of",
+"sent": [{"linePolarity":0,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":4, "goldlabel":"Windows OS vulnerability", "sentid":"13", "sent":"Windoze microsoft.com.Yours In MinskK.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":600, "goldlabel":"END", "sentid":"14", "sent":"Trout","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31160168",
+"author":"Anonymous16",
+"parent":"31159226",
+"date":"1266314520000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Thanks Largely To The Prevalance Of",
+"sent": [{"linePolarity":-4.5,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"140", "sent":"Youre not the real Kilgore Trout faggot.","sentimentwords":[{"word":"not","polarity":-4.5}]}]
+},
+{
+
+
+"commentid":"31160596",
+"author":"icebike",
+"parent":"31159226",
+"date":"1266316560000",
+"modeclass":"Insightful",
+"modescore":"2",
+"title":"Re:Thanks Largely To The Prevalance Of",
+"sent": [{"linePolarity":0.76,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":4, "goldlabel":"Windows OS vulnerability", "sentid":"148", "sent":"Why is this modded troll?Seriously people bot nets are virtually 100 windows machines not because windows is popular simply because windows is so EASY to subvert.Nothing has improved or changed in this fact since spam started to be a serious problem.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31159236",
+"author":"Dripdry",
+"parent":"",
+"date":"1266353460000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Conflict of Content",
+"sent": [{"linePolarity":-1.5,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"15", "sent":"So if we try and hold ISPs or telecoms liable for what moves over their wires they would have to hunt down the spammers as well as the pirates?","sentimentwords":[]},{"linePolarity":-1.75,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"16", "sent":"What an awkward position to be in especially when a big revenue stream is at stake.Yeah I didnt RTFA.Also what percentage of email is 3 billion anyway?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31159238",
+"author":"Anonymous5",
+"parent":"",
+"date":"1266353460000",
+"modeclass":"Insightful",
+"modescore":"5",
+"title":"Oh really",
+"sent": [{"linePolarity":0.166666666667,"systemtopicid":1, "systemlabel":"price", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"17", "sent":"And I still see less then 1 per month in my Inbox.THIS is the price I am willing to pay to allow Google to filter my email.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31159422",
+"author":"49152",
+"parent":"31159238",
+"date":"1266311280000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Oh really",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"price", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"36", "sent":"I see about the same amount.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"price", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"37", "sent":"Some times it goes months with no spam then I get two or three in a week.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"price", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"38", "sent":"I reckon the spammers are constantly adjusting their techniques to try to get through the filters.We are a small company running our own email server.","sentimentwords":[]},{"linePolarity":-0.7,"systemtopicid":1, "systemlabel":"price", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"39", "sent":"Ubuntu Server with Postfix spamassasin and all the trimmings.I redirect all spam to an imap account I set up for the purpose just in case we need to get hold of some blocked message.","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":1, "systemlabel":"price", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"40", "sent":"The last two years this has not been necessary.","sentimentwords":[{"word":"not","polarity":-4.5}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"price", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"41", "sent":"But I browse through this mailbox once in a while out of curiosity.","sentimentwords":[]},{"linePolarity":-2.6,"systemtopicid":1, "systemlabel":"price", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"42", "sent":"The amount of spam it blocks is just staggeringThe price we pay is close to zero the same box handles all other kind of stuff too and I spend perhaps half an hour every other week to check if any updated packages or security fixes need installing.","sentimentwords":[{"word":"security","polarity":0},{"word":"blocks","polarity":-6.0},{"word":"staggering","polarity":-3.0},{"word":"too","polarity":-4.5},{"word":"close","polarity":-1.5},{"word":"just","polarity":2.0}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"price", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"43", "sent":"It practically manages it self.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31159536",
+"author":"Anonymous8",
+"parent":"31159238",
+"date":"1266311820000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Oh really",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":10, "goldlabel":"adverse effects of spam clossing bandwidth raising latency", "sentid":"71", "sent":"Thats not the point","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":7, "systemlabel":"so waste", "topicid":10, "goldlabel":"adverse effects of spam clossing bandwidth raising latency", "sentid":"72", "sent":"The point is waste.","sentimentwords":[{"word":"waste","polarity":-3.0}]},{"linePolarity":-0.25,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":10, "goldlabel":"adverse effects of spam clossing bandwidth raising latency", "sentid":"73", "sent":"There should not be this amount of email traffic that is clogging the infrastructure  reducing not only bandwidth but also raising latency in the process.When I check gmail and I see 1000 spam message but my Inbox remains clean that is still a failure","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31159550",
+"author":"Jugalator",
+"parent":"31159238",
+"date":"1266311880000",
+"modeclass":"Insightful",
+"modescore":"2",
+"title":"Re:Oh really",
+"sent": [{"linePolarity":0.166666666667,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"75", "sent":"And I still see less then 1 per month in my Inbox.THIS is the price I am willing to pay to allow Google to filter my email.Hear hear.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"76", "sent":"I was very surprised when I recently checked my spam volume.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"77", "sent":"That is in my Gmail *spam* box not inbox.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"78", "sent":"The inbox is usually clear of it but the surprising part was that I had around a third to a fourth of my former spam volume a few years ago","sentimentwords":[{"word":"clear","polarity":2.0}]},{"linePolarity":-0.941666666667,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"79", "sent":"I used to have to have 1.5 pages of spam per day before now you have around 0.5 pages of daily spam in the spambox.Im not sure what Google did if this article is true... Maybe they are so sure of that its spam that it doesnt even end up in the spam box?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"80", "sent":"Because as for my mail address when it ends up in a register I dont see why spammers would later remove it.","sentimentwords":[]},{"linePolarity":-2.5125,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"81", "sent":"It obviously receives the spam since the mail server doesnt return an error...Or maybe its what I heard being rumored once  that certain spam networks avoid Gmail to save costs because its so inefficient to spam those mail boxes.","sentimentwords":[{"word":"error","polarity":-3.0},{"word":"costs","polarity":-1.5},{"word":"avoid","polarity":-1.5},{"word":"so","polarity":-4.05}]}]
+,"children":[
+{
+
+
+"commentid":"31160332",
+"author":"msclrhd",
+"parent":"31159550",
+"date":"1266315180000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Oh really",
+"sent": [{"linePolarity":3.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"143", "sent":"I like Gmail for many reasons one of which is their awesome spam filter.","sentimentwords":[{"word":"reasons","polarity":1.0},{"word":"awesome","polarity":5.0}]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"144", "sent":"I get only one or two miscategorised email every couple of weeks the rest goes to the spam box.","sentimentwords":[]},{"linePolarity":-3.125,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"145", "sent":"Couple that with the coloured labels  filters and spamnot spam is very easy to identify.Hotmail on the other hand is terrible.","sentimentwords":[{"word":"very","polarity":1.25},{"word":"terrible","polarity":-7.5}]},{"linePolarity":-1.5,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"146", "sent":"Ages ago when I was using Hotmail I ended up with the majority of my inbox being spam so I gave up and tried Gmail.","sentimentwords":[]},{"linePolarity":3.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"147", "sent":"I dont know how good Hotmail is at the moment or others like YahooMail.","sentimentwords":[{"word":"good","polarity":3.0}]}]
+}
+]
+},
+{
+
+
+"commentid":"31159588",
+"author":"oodaloop",
+"parent":"31159238",
+"date":"1266312000000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Oh really",
+"sent": [{"linePolarity":2.0,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"83", "sent":"Your sig is deliciously ironic no?","sentimentwords":[{"word":"ironic","polarity":0},{"word":"deliciously","polarity":4.0}]}]
+},
+{
+
+
+"commentid":"31159624",
+"author":"bondjamesbond",
+"parent":"31159238",
+"date":"1266312180000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Oh really",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"price", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"85", "sent":"Ditto with my using Appriver for my company.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31159814",
+"author":"squisher",
+"parent":"31159238",
+"date":"1266313080000",
+"modeclass":"Interestin",
+"modescore":"2",
+"title":"Re:Oh really",
+"sent": [{"linePolarity":-1.18571428571,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"96", "sent":"And I still see less then 1 per month in my Inbox.THIS is the price I am willing to pay to allow Google to filter my email.I do agree that gmails spam filter does not let much through in truth it is way too aggressive.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"97", "sent":"Are you subscribed to mailing lists?","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"98", "sent":"Often itll just tag some random message as spam.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"99", "sent":"Ive had various things end up in spam over the years and really wonder how many landed in there that I never noticed who checks their spam folder every couple of days?","sentimentwords":[]},{"linePolarity":-0.34375,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"100", "sent":".Recently I got very upset because I tried to sell something on craigslist and sure enough an offer ended up in spam.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"101", "sent":"Of course I didnt check until a couple of days later and by then the person wasnt interested any more.","sentimentwords":[]},{"linePolarity":1.15,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"102", "sent":"Since Im going to start job hunting soon I cant really afford the uncertainty the gmail spam filter introduces and plan on moving my email elsewhere.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31161912",
+"author":"Hittman",
+"parent":"31159814",
+"date":"1266322920000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Oh really",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"200", "sent":"It happens from time to time which is why you have to check your spam folder from time to time.","sentimentwords":[]},{"linePolarity":-1.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"201", "sent":"Usually simply marking it as not spam solves the problem.","sentimentwords":[]},{"linePolarity":-2.7,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"202", "sent":"Even with a few pages of spam that shouldnt take you more than a minute or so.Perfection doesnt exist in this area but Google comes pretty close.","sentimentwords":[{"word":"pretty","polarity":-2.7}]}]
+},
+{
+
+
+"commentid":"31167488",
+"author":"vegiVamp",
+"parent":"31159814",
+"date":"1265029440000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Oh really",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"248", "sent":"I check mine daily.","sentimentwords":[]},{"linePolarity":-0.5,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"249", "sent":"Its just part of my routine and because I know its mostly spam in there a quick subject scan usually suffices to confirm theres nothing unusual and I can click deleteall.A lot of spam seems to come in batches btw theres often four five times almost identical subjects.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31159854",
+"author":"Anonymous11",
+"parent":"31159238",
+"date":"1266313320000",
+"modeclass":"Interestin",
+"modescore":"4",
+"title":"Seriously",
+"sent": [{"linePolarity":-1.875,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"105", "sent":"SPAM was the absolute bane of my existence I have several very public email addresses that have to remain that way until the day I finally at at the time reluctantly decided to run all of my mail through Gmail accounts without exception.","sentimentwords":[]},{"linePolarity":0.833333333333,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"106", "sent":"I had used block lists several ISPbased filters spamassassin postPOP3 on my own local net and a bunch of filters and it was eating hours a day of attending to SPAM new filters fixing filters marking as spam marking as ham and so many CPU cycles that a dedicated box couldnt keep up.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":10, "goldlabel":"adverse effects of spam clossing bandwidth raising latency", "sentid":"107", "sent":"Not to mention that due to the processing overhead of all that filtering when someone did send me a message and told me so Id have to tell them Ill get it in ten to fifteen minutes.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"108", "sent":" And all for a few three really email queues that belong to one person and a couple assistants?Now I forget that SPAM exists and my email comes in more or less instantly.For a decade now Google has more or less singlehandedly kept the internet usable.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31159872",
+"author":"martin_boundary",
+"parent":"31159238",
+"date":"1266313380000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Oh really",
+"sent": [{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"price", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"110", "sent":"THIS is the price I am willing to pay to allow Google to filter my email.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"111", "sent":"Then youre a fool.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"112", "sent":"Use a personal Bayesian filter and youll get that same kind of accuracy without the privacy pricetag.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"113", "sent":"You can find a bunch of them on freshmeat.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31161626",
+"author":"Anonymous20",
+"parent":"31159238",
+"date":"1266321300000",
+"modeclass":"None",
+"modescore":"0",
+"title":"unicorn bacon and failed humans",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"198", "sent":"where might i....oh wait ...haha.and i failed to confirm im a humanthen what the fuck am i","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31161838",
+"author":"antdude",
+"parent":"31159238",
+"date":"1266322560000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Oh really",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"199", "sent":"What about your spam folder?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31161998",
+"author":"Anonymous21",
+"parent":"31159238",
+"date":"1266323280000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Oh really",
+"sent": [{"linePolarity":0.166666666667,"systemtopicid":1, "systemlabel":"price", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"203", "sent":"And I still see less then 1 per month in my Inbox.THIS is the price I am willing to pay to allow Google to filter my email.More like once a year.","sentimentwords":[]},{"linePolarity":-1.75,"systemtopicid":1, "systemlabel":"price", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"204", "sent":"And Ive had to go into my junk folder and remove a legitimate email maybe once since I started using GMail several years ago.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31174540",
+"author":"Hurricane78",
+"parent":"31159238",
+"date":"1265057100000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Oh really",
+"sent": [{"linePolarity":0,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"265", "sent":"You dont need Google at all.","sentimentwords":[]},{"linePolarity":1.66666666667,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"266", "sent":"You essentially sell the content of your mails  co for the price of a root server with this installed: http:www.gentoowiki.infoCompleteVirtualMailServer gentoowiki.infoI used this and its just as good if not better than Googles filter.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"267", "sent":"But its completely yours.","sentimentwords":[]},{"linePolarity":3.0,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"268", "sent":"A huge advantage for me.","sentimentwords":[{"word":"huge","polarity":3.0}]},{"linePolarity":0,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"269", "sent":"Your choice.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"270", "sent":"No judgment from me.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31159240",
+"author":"Petersko",
+"parent":"",
+"date":"1266353460000",
+"modeclass":"Interestin",
+"modescore":"2",
+"title":"Want to See Spam",
+"sent": [{"linePolarity":0.0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":6, "goldlabel":"mailing lists vs spam", "sentid":"18", "sent":"Subscribe to one free daily naked chick mailing list.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":6, "goldlabel":"mailing lists vs spam", "sentid":"19", "sent":"Imagine how much of that spam is about porn","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":6, "goldlabel":"mailing lists vs spam", "sentid":"20", "sent":"There are probably more porn emails sent out every week than there are people on the planet.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"21", "sent":"I keep three email accounts.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"22", "sent":"One I give out for things  registrations contests all that stuff.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"23", "sent":"One I give out to friends and family.","sentimentwords":[{"word":"friends","polarity":2.0}]},{"linePolarity":-0.333333333333,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"24", "sent":"The third just quietly sits there empty.","sentimentwords":[]},{"linePolarity":4.0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"25", "sent":"I check it periodically anyway and it makes me happy when no mail is found.","sentimentwords":[{"word":"happy","polarity":4.0}]}]
+,"children":[
+{
+
+
+"commentid":"31159408",
+"author":"StuartHankins",
+"parent":"31159240",
+"date":"1266311220000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Want to See Spam",
+"sent": [{"linePolarity":0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"31", "sent":"I have my own domain.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"32", "sent":"I have only 4 real accounts and give a different account for everyone that needs an email address.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"33", "sent":"My catchall account sees all the stuff and I trust SpamAssassin results.","sentimentwords":[{"word":"trust","polarity":2.0}]},{"linePolarity":-1.875,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"34", "sent":"Very very little spam gets to me and when it does I know which company gave out my email address.","sentimentwords":[]},{"linePolarity":-0.666666666667,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"35", "sent":"Cheap and easy to setup and I dont rely on any third partys free email services which seem to come with their own supplies of spam and losses of privacy.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31160600",
+"author":"Anonymous17",
+"parent":"31159408",
+"date":"1266316620000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Want to See Spam",
+"sent": [{"linePolarity":-4.5,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"149", "sent":"I have my own domain too.","sentimentwords":[{"word":"too","polarity":-4.5}]},{"linePolarity":3.0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"150", "sent":"I also have an ISP thats funny about ports.","sentimentwords":[{"word":"funny","polarity":3.0}]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"151", "sent":"Sure I could drop them for such restrictions.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"152", "sent":"But my other choice is dialup.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31159450",
+"author":"Alwin_Henseler",
+"parent":"31159240",
+"date":"1266311340000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Want to See Spam",
+"sent": [{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":6, "goldlabel":"mailing lists vs spam", "sentid":"51", "sent":"There are probably more porn emails sent out every week than there are people on the planet.If you subscribe to such a mailing list then what youre getting from them isnt spam because you asked for it.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":6, "goldlabel":"mailing lists vs spam", "sentid":"52", "sent":"Only other uninvited email is spam.Also I dont know what network youre on.","sentimentwords":[]},{"linePolarity":-0.5,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":6, "goldlabel":"mailing lists vs spam", "sentid":"53", "sent":"Spam I get is mostly for the famous blue pills  co fake watches and the occassional silly 419  phishing attempt or get your degree now","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":6, "goldlabel":"mailing lists vs spam", "sentid":"54", "sent":" bullshit.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":6, "goldlabel":"mailing lists vs spam", "sentid":"55", "sent":"Porn spam?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":6, "goldlabel":"mailing lists vs spam", "sentid":"56", "sent":"What on earth are you talking about?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31159528",
+"author":"stimpleton",
+"parent":"31159240",
+"date":"1266311760000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Want to See Spam",
+"sent": [{"linePolarity":0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"65", "sent":"I keep three email accounts.....","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":6, "goldlabel":"mailing lists vs spam", "sentid":"66", "sent":"My third email is a gmail and is for my one weakness in life: big breast websitessubscription based.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"67", "sent":"Oddly I get no spam.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":6, "goldlabel":"mailing lists vs spam", "sentid":"68", "sent":"I do get the odd newsletter and update notices.","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":6, "goldlabel":"mailing lists vs spam", "sentid":"69", "sent":"What I also get is the occassional promotion from old sites I subscribed to which I do like to get.","sentimentwords":[]},{"linePolarity":0.583333333333,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"70", "sent":"How Gmail manages to work out  what I want and do not want and gets it right is either very clever or very chilling.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31174602",
+"author":"Hurricane78",
+"parent":"31159240",
+"date":"1265057280000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Want to See Spam",
+"sent": [{"linePolarity":1.45,"systemtopicid":9, "systemlabel":"lusers spam", "topicid":6, "goldlabel":"mailing lists vs spam", "sentid":"271", "sent":"I have one such subscription something a bit more special which is actually really nice and I dont have gotten more spam.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"272", "sent":"At least behind my spam filter.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31159244",
+"author":"Anonymous6",
+"parent":"",
+"date":"1266353460000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Let me be the first to say",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":4, "goldlabel":"Windows OS vulnerability", "sentid":"26", "sent":"Thanks Mr. Bill Gates.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31159278",
+"author":"zaax",
+"parent":"",
+"date":"1266353640000",
+"modeclass":"None",
+"modescore":"0",
+"title":"charge for email",
+"sent": [{"linePolarity":2.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"27", "sent":"1c each first 30 per day free.","sentimentwords":[{"word":"free","polarity":3.0},{"word":"first","polarity":1.0}]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"28", "sent":"It would stop all spam dead","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31159524",
+"author":"compro01",
+"parent":"31159278",
+"date":"1266311760000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:charge for email",
+"sent": [{"linePolarity":2.5,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"64", "sent":"Yes I am sure the botnet herders will be happy to send you a cheque.","sentimentwords":[{"word":"sure","polarity":1.0},{"word":"happy","polarity":4.0}]}]
+},
+{
+
+
+"commentid":"31159552",
+"author":"harp2812",
+"parent":"31159278",
+"date":"1266311880000",
+"modeclass":"Insightful",
+"modescore":"3",
+"title":"Re:charge for email",
+"sent": [{"linePolarity":2.5,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"82", "sent":"Let me know when you find a reliable way to...a Charge for emailb Prevent unpaid mail from being sentc Prevent botnets from sending 30 free messages then stopping for the dayd Prevent botnets from sending a ton of paid messages using financial info on the host computere Prevent spammers from setting up a mail server that charges for messages repeating d and then collecting all the money.etc ad nauseum.","sentimentwords":[{"word":"reliable","polarity":2.0},{"word":"free","polarity":3.0}]}]
+,"children":[
+{
+
+
+"commentid":"31162830",
+"author":"Binder",
+"parent":"31159552",
+"date":"1266327780000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:charge for email",
+"sent": [{"linePolarity":-3.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":4, "goldlabel":"Windows OS vulnerability", "sentid":"219", "sent":"Umm...How about make windows illegal?","sentimentwords":[{"word":"illegal","polarity":-3.0}]}]
+}
+]
+},
+{
+
+
+"commentid":"31160034",
+"author":"JustNilt",
+"parent":"31159278",
+"date":"1266314040000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:charge for email",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"137", "sent":"Not to mention much of the corporate worlds communications.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"138", "sent":"This is one of those looks good on paper things.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31159344",
+"author":"Megor1",
+"parent":"",
+"date":"1266353940000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Correct title should be that they saw 3 billion",
+"sent": [{"linePolarity":-4.5,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"30", "sent":"3 billion spam is a drop in the bucket of the daily spam volumes seen worldwide there has not been a global increase of spam volumes in the last year of that magnitude Or really much at all.","sentimentwords":[{"word":"not","polarity":-4.5}]}]
+},
+{
+
+
+"commentid":"31159426",
+"author":"Stan92057",
+"parent":"",
+"date":"1266311280000",
+"modeclass":"Interestin",
+"modescore":"2",
+"title":"Ya know",
+"sent": [{"linePolarity":0,"systemtopicid":10, "systemlabel":"prevent spammers", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"44", "sent":"Ya knowuntil they start going after the people who hire the spammers nothing is going to change.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":10, "systemlabel":"prevent spammers", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"45", "sent":"Some businessperson is responsible for our spam not the spammer.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"prevent spammers", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"46", "sent":"Where and how is this Viagra getting into our country?Where are all the watches being made?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"prevent spammers", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"47", "sent":"and so on.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"prevent spammers", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"48", "sent":"Someone is paying theses spammersget them.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"prevent spammers", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"49", "sent":"PS:","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":10, "systemlabel":"prevent spammers", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"50", "sent":"Yes i know its not easy to catch thembut if we can send and control robots from earth on mars it CAN be done.","sentimentwords":[{"word":"not","polarity":-4.5}]}]
+},
+{
+
+
+"commentid":"31159484",
+"author":"Anonymous7",
+"parent":"",
+"date":"1266311580000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Maybe ISP should do something about it",
+"sent": [{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":500, "goldlabel":"START", "sentid":"60", "sent":"Im sure someone will post the standard reply to this comment but here it goes:","sentimentwords":[]},{"linePolarity":-2.25,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"61", "sent":"What if ISPs blocked ports and prevented everyone and his dog from running a mail server by default?","sentimentwords":[{"word":"default","polarity":-1.5},{"word":"blocked","polarity":-3.0}]},{"linePolarity":-3.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"62", "sent":"I can already hear the outcry from everyone running his own  though as with DNS redirections this could be turned off by logging in to your profile at your ISPs home page?","sentimentwords":[{"word":"outcry","polarity":-3.0}]},{"linePolarity":-6.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"63", "sent":"At least wed get rid of all the crap coming from bot nets.","sentimentwords":[{"word":"crap","polarity":-6.0}]}]
+,"children":[
+{
+
+
+"commentid":"31161182",
+"author":"compro01",
+"parent":"31159484",
+"date":"1266319200000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Maybe ISP should do something about it",
+"sent": [{"linePolarity":-1.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"176", "sent":"A lot of ISPs already block port 25 what else do you want?","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31159548",
+"author":"Alwin_Henseler",
+"parent":"",
+"date":"1266311880000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Botnet upgrades",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"74", "sent":"Read: replace dualcore bots with quadcore ones.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31159598",
+"author":"Geert_Jalink",
+"parent":"",
+"date":"1266312060000",
+"modeclass":"Troll",
+"modescore":"0",
+"title":"You just won the lottery click here",
+"sent": [{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"84", "sent":"Just joking.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31159672",
+"author":"Anonymous9",
+"parent":"",
+"date":"1266312420000",
+"modeclass":"Offtopic",
+"modescore":"-1",
+"title":"fuir5t",
+"sent": [{"linePolarity":0,"systemtopicid":8, "systemlabel":"major mechanics", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"86", "sent":"ass of them aal dying.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":8, "systemlabel":"major mechanics", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"87", "sent":"All major mechanics.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"major mechanics", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"88", "sent":"So Im DOG THAT IT IS.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"major mechanics", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"89", "sent":"IT Followed.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"major mechanics", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"90", "sent":"Obviously development model for the project.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"major mechanics", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"91", "sent":"Spot when done For goat.cx","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31159682",
+"author":"hesaigo999ca",
+"parent":"",
+"date":"1266312480000",
+"modeclass":"None",
+"modescore":"1",
+"title":"I have said this before",
+"sent": [{"linePolarity":-1.3,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"92", "sent":"If we incorporate a pay per email scheme with an email costing anywhere from 12 to 1 cent per email....with a cap being set by the government so you dont get screwed over by the ISP not only would it be beneficial for the ISP as less bandwidth because less spam but also people infected would be aware that they are infected if not by the first bill then by the second billing.I am aware of my downloads next bill cause i see the extra bandwith used but i dont see the emails sent.If i get charged on the side and see 1 million emails but a cap of 20 lets say then you bet your *ss I will clean my pc andget myself organized not to get billed for that again.","sentimentwords":[]},{"linePolarity":-1.58333333333,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"93", "sent":"People that spend no time monitoring their system have no clue unless someone points it out for them.By forcing a pay per email you also make sure to have paper trails and someone has to pay for that..eventually as the botnets die out the spammers will have to charge more for the less they are making or it will not be worthwhile for them and the spam kings will slowly go out of business.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"94", "sent":"Right now they incorporate the pricing into what they charge their clients but if you raise the cost because now legit spammers have to pay per email you will get clients investing elsewhere for their marketing.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31159878",
+"author":"vlm",
+"parent":"31159682",
+"date":"1266313440000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:I have said this before",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"114", "sent":"I get more paper spam in my mailbox than email spam that slips past spamassassin.So... if capital one sent me two credit card offers per week for several years and each cost at least 50 cents to print and post that one CC company is spending 50yr trying to win my business... but charging 1 cent per email will stop spam?I get coupon magazines that I toss out.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"115", "sent":"For over a decade when I get a phone book I toss it out.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"116", "sent":"I get endless catalogs.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"117", "sent":"All of which cost several orders of magnitude more than one cent.Also if theres one thing the cellphone and landline business has shown its impossible to bill in units below about one cent per minute or below about 20 per total bill.","sentimentwords":[]},{"linePolarity":0.166666666667,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"118", "sent":"They will have to charge WAY more than one cent just to recover the costs of the billing infrastructure.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31159976",
+"author":"HungryHobo",
+"parent":"31159682",
+"date":"1266313800000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"Re:I have said this before",
+"sent": [{"linePolarity":1.0,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"122", "sent":"Your post advocates a  technical X legislative X marketbased   vigilanteapproach to fighting spam.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"123", "sent":"Your idea will not work.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"124", "sent":"Here is why it wont work.","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"125", "sent":"One or more of the following may apply to your particular idea and it may have other flaws which used to vary from state to state before a bad federal law was passed.","sentimentwords":[{"word":"flaws","polarity":-4.5},{"word":"bad","polarity":-4.5}]},{"linePolarity":-0.447142857143,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"126", "sent":"Spammers can easily use it to harvest email addressesX Mailing lists and other legitimate email uses would be affected  No one will be able to find the guy or collect the money  It is defenseless against brute force attacks  It will stop spam for two weeks and then well be stuck with itX Users of email will not put up with itX Microsoft will not put up with it  The police will not put up with it  Requires too much cooperation from spammersX Requires immediate total cooperation from everybody at once  Many email users cannot afford to lose business or alienate potential employers  Spammers dont care about invalid addresses in their lists  Anyone could anonymously destroy anyone elses career or businessSpecifically your plan fails to account for  Laws expressly prohibiting itX Lack of centrally controlling authority for emailX Open relays in foreign countries  Ease of searching tiny alphanumeric address space of all email addressesX AsshatsX Jurisdictional problemsX Unpopularity of weird new taxes  Public reluctance to accept weird new forms of moneyX Huge existing software investment in SMTP  Susceptibility of protocols other than SMTP to attack  Willingness of users to install OS patches received by email  Armies of worm riddled broadbandconnected Windows boxes  Eternal arms race involved in all filtering approachesX Extreme profitability of spam  Joe jobs andor identity theftX Technically illiterate politicians  Extreme stupidity on the part of people who do business with spammers  Dishonesty on the part of spammers themselves  Bandwidth costs that are unaffected by client filteringX Outlookand the following philosophical objections may also apply:X Ideas similar to yours are easy to come up with yet none have ever been shown practical  Any scheme based on optout is unacceptableX SMTP headers should not be the subject of legislation  Blacklists suck  Whitelists suck  We should be able to talk about Viagra without being censored  Countermeasures should not involve wire fraud or credit card fraud  Countermeasures should not involve sabotage of public networksX Countermeasures must work if phased in graduallyX Sending email should be free  Why should we have to trust you and your servers?","sentimentwords":[]},{"linePolarity":-0.757142857143,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"127", "sent":"Incompatiblity with open source or open source licenses  Feelgood measures do nothing to solve the problem  Temporaryonetime email addresses are cumbersome  I dont want the government reading my emailX Killing them that way is not slow and painful enoughFurthermore this is what I think about you:X Sorry dude but I dont think it would work.","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":2, "systemlabel":"email scheme", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"128", "sent":"This is a stupid idea and youre a stupid person for suggesting it.","sentimentwords":[{"word":"stupid","polarity":-6.0},{"word":"stupid","polarity":-3.0}]},{"linePolarity":-1.5,"systemtopicid":2, "systemlabel":"email scheme", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"129", "sent":"Nice try assh0le","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":2, "systemlabel":"email scheme", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"130", "sent":"Im going to find out where you live and burn your house down","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31161288",
+"author":"Archangel_Michael",
+"parent":"31159976",
+"date":"1266319680000",
+"modeclass":"Funny",
+"modescore":"3",
+"title":"Re:I have said this before",
+"sent": [{"linePolarity":0,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"177", "sent":"Ive NEVER seen all four of those checked before on a singular suggestion.","sentimentwords":[]},{"linePolarity":0.4,"systemtopicid":2, "systemlabel":"email scheme", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"178", "sent":"SO I will attempt to propose the PERFECT solution which will obviously have to take into account all four options .... THIS would definitely solve the problem.We need to pass a law that would create an incentive for Private Companies to generate an electric shock device that would automatically send a large electrical shock to anyone OPENING SPAM legislation to define SPAM as broadly as possible and contain SNOPES and Chain letter provisions.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"email scheme", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"179", "sent":"The Winning companys device would be awarded the ONE days cost of SPAM to be determined.This is based on my basic premise .... STUPID should hurt.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31168508",
+"author":"hesaigo999ca",
+"parent":"31159976",
+"date":"1265037300000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:I have said this before",
+"sent": [{"linePolarity":-1.7,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"251", "sent":"Your post advocates ax lack of technical knowdlegde X ignorance  dumbass comment   poor choice of wordsHeres why your thoughts on why my idea will not work do not hold waterX Mailing lists and other legitimate email uses would be affectedOf course they would and that is the reason why they incorporate it into the billing being legit they would do that non legit not so much.","sentimentwords":[]},{"linePolarity":0.625,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"252", "sent":"X Users of email will not put up with itYou put up with being charged per phone call on your cell with a cap per month dont you?","sentimentwords":[]},{"linePolarity":0.416666666667,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"253", "sent":"X Microsoft will not put up with itM has nothing to say about the amount of emails coming or going as long as they make money on the licenses using the software to do such actions and might even create a new one to help monitor this new functionality and make even more profits.","sentimentwords":[]},{"linePolarity":0.125,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"254", "sent":"X Requires immediate total cooperation from everybody at onceSpecifically your plan fails to account forX Lack of centrally controlling authority for emailBecause we do not have a governing body for the internet as a whole???","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"255", "sent":"Wow...rollseyesX Open relays in foreign countriesSo what you are saying is that international communication does not exist by internetX AsshatsExplain this one to me I am sure I my visual does not do you justiceX Jurisdictional problemsEach country have their own cell phone companies why would this be any different?","sentimentwords":[]},{"linePolarity":0.625,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"256", "sent":"X Unpopularity of weird new taxesWow i mentioned a payment structure for a service and you already want to tax it even though it would be the companies making money on this that would pay their revenue taxes you should become a politician.","sentimentwords":[]},{"linePolarity":1.33333333333,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"257", "sent":"X Huge existing software investment in SMTPAdding a few lines of code or a new service into an already existing infrasrtucture is not the end of the world...look at when spam first came out or when dns cache poisoning came out it is doable if we want to get it done.","sentimentwords":[]},{"linePolarity":-0.845,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"258", "sent":"X Extreme profitability of spamExactly my point now non legit spammers will have to raise their prices and force their clients to rethink if they want to spend 10 times the amount of money to keep spamming for that 1 that are gullible enough to think the nigerian king is really trying to send them his money.","sentimentwords":[]},{"linePolarity":-1.66666666667,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"259", "sent":"X Technically illiterate politiciansHave i mentioned you should run for politics...X OutlookThe software or your bleak vision of what our future HAS to be...and the following philosophical objections may also apply:X Ideas similar to yours are easy to come up with yet none have ever been shown practicalNone have been implemented at the level that lets say DNS cahce poisoning has and needs to be.","sentimentwords":[]},{"linePolarity":-1.16666666667,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"260", "sent":"X SMTP headers should not be the subject of legislationWow tell that to the white house with their million or so emails that went missing and forced Obama to rethink his cyber policies for future presidents to come.","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"261", "sent":"X Countermeasures must work if phased in graduallyThis can not be phased in slowly it has to be done one shot like digital tv was for it to work.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"email scheme", "topicid":8, "goldlabel":"charging for email to fight spam", "sentid":"262", "sent":"X Sending email should be freeYour sentiment not mine.","sentimentwords":[]},{"linePolarity":-0.9,"systemtopicid":2, "systemlabel":"email scheme", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"263", "sent":"X Killing them that way is not slow and painful enoughKilling who exactly slashdot readers?","sentimentwords":[]},{"linePolarity":-0.0486111111111,"systemtopicid":2, "systemlabel":"email scheme", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"264", "sent":"Your doing a good job so far...Furthermore this is what I think about you:X Sorry dude but I dont think it would work.Sorry dude your self absorbed ranting about what you think without at least giving any real sound proof of your background in this field or any real points to substantiate your claims make me think you are just trying to push an opinion and like mine no one really cares the difference between yours and mine is I understand my opinion does not matter but the idea I am trying to convey is to try and help by offering a potential idea to help others you only have managed to waste my time and yours by trying to grab some 15 minutes of fame by shooting down someonesidea.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31163948",
+"author":"shentino",
+"parent":"31159682",
+"date":"1266336060000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:I have said this before",
+"sent": [{"linePolarity":0,"systemtopicid":11, "systemlabel":"lusers spam", "topicid":500, "goldlabel":"START", "sentid":"232", "sent":"1.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":11, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"233", "sent":"Spammers already make a metric fuckton of money2.","sentimentwords":[]},{"linePolarity":-1.16666666667,"systemtopicid":11, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"234", "sent":"Crooks willing to hijack computers wont be deterred from stealing financial information to pay email fees with.3.","sentimentwords":[]},{"linePolarity":-2.175,"systemtopicid":11, "systemlabel":"lusers spam", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"235", "sent":"Such crooks are already using zombie computers so the victims would get stuck paying anyway","sentimentwords":[{"word":"Such","polarity":-2.025},{"word":"zombie","polarity":-1.5},{"word":"victims","polarity":-3.0},{"word":"stuck","polarity":0}]}]
+}
+]
+},
+{
+
+
+"commentid":"31159772",
+"author":"Anonymous10",
+"parent":"",
+"date":"1266312900000",
+"modeclass":"Funny",
+"modescore":"5",
+"title":"Too much thinking in hex",
+"sent": [{"linePolarity":-6.075,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"95", "sent":"Am I the only one who read this headline and thought 59 messages a day isnt so bad?","sentimentwords":[{"word":"so","polarity":-6.075}]}]
+,"children":[
+{
+
+
+"commentid":"31167832",
+"author":"selvan",
+"parent":"31159772",
+"date":"1265033520000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Too much thinking in hex",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"250", "sent":"It looked like 38 to me","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31174648",
+"author":"Hurricane78",
+"parent":"31159772",
+"date":"1265057400000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Too much thinking in hex",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"273", "sent":"I went 3 x 1012 spam mails?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"274", "sent":"That is a LOT","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31179014",
+"author":"Anonymous27",
+"parent":"31159772",
+"date":"1265033820000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Too much thinking in hex",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"278", "sent":"I read it as 3 bytes.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31159858",
+"author":"Anonymous12",
+"parent":"",
+"date":"1266313320000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Formatting",
+"sent": [{"linePolarity":2.25,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"109", "sent":"The report is very well written and provides very interesting information but whoever decided to use light grey on white should get his or her eyes poked out with a needle.","sentimentwords":[{"word":"light","polarity":2.0},{"word":"very","polarity":3.75},{"word":"white","polarity":2.0},{"word":"very","polarity":1.25}]}]
+},
+{
+
+
+"commentid":"31159994",
+"author":"damn__registrars",
+"parent":"",
+"date":"1266313860000",
+"modeclass":"Insightful",
+"modescore":"4",
+"title":"Wheres your beloved filter now",
+"sent": [{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":10, "goldlabel":"adverse effects of spam clossing bandwidth raising latency", "sentid":"131", "sent":"Yeah we can see how much of a wonderful difference all those filtering programs that are on the market today are doing for the worldwide spamming problem.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":10, "goldlabel":"adverse effects of spam clossing bandwidth raising latency", "sentid":"132", "sent":"That is no difference.","sentimentwords":[]},{"linePolarity":-1.0,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":10, "goldlabel":"adverse effects of spam clossing bandwidth raising latency", "sentid":"133", "sent":"If you want to do something about the spamming problem start looking beyond your own nose.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":10, "goldlabel":"adverse effects of spam clossing bandwidth raising latency", "sentid":"134", "sent":"Stop adjusting your filtering rules constantly.","sentimentwords":[]},{"linePolarity":0.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":10, "goldlabel":"adverse effects of spam clossing bandwidth raising latency", "sentid":"135", "sent":"Pay attention to the cause of the problem  spam is an economic problem.","sentimentwords":[]},{"linePolarity":-1.83333333333,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":10, "goldlabel":"adverse effects of spam clossing bandwidth raising latency", "sentid":"136", "sent":"Until something is done about the profitmotive and the insane margins of profit behind spam the problem will only continue to grow.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31162670",
+"author":"Anonymous23",
+"parent":"31159994",
+"date":"1266326880000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Wheres your beloved filter now",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"208", "sent":"That is no difference.Spam filters are not there to stop spam  theyre there to stop YOU from receiving it.","sentimentwords":[]},{"linePolarity":-0.6,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"209", "sent":"Most people are completely unaware of how much spam gets blocked between when the spammer sends it and when it would have ended up in their inbox.Now if we removed ALL spam filters we might actually find that as productivity ground to a halt people might actually do something about the problem and kill off the botnets and spam organisations that cause all these issues... or people might just complain but go on as usual and the volume might actually go DOWN as the ROI for each blast of spam would increase.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31165462",
+"author":"miracle69",
+"parent":"31159994",
+"date":"1266345900000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Wheres your beloved filter now",
+"sent": [{"linePolarity":0.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":10, "goldlabel":"adverse effects of spam clossing bandwidth raising latency", "sentid":"245", "sent":"Its not an economic problem because there is little profit in spam from a legitimate business.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"246", "sent":"If there were they wouldnt require the use of botnets to steal other peoples resources.","sentimentwords":[]},{"linePolarity":-0.5,"systemtopicid":12, "systemlabel":"real kilgore trout", "topicid":3, "goldlabel":"botnets and spammers", "sentid":"247", "sent":"The spammer can only profit because their overhead is being spread to unsuspecting users on a global scale.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31161150",
+"author":"swframe",
+"parent":"",
+"date":"1266319080000",
+"modeclass":"None",
+"modescore":"1",
+"title":"there should be bounty to track down the spammer",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"162", "sent":"Everyone is paying to filter the spam but maybe","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"163", "sent":"ISPs should pay to find the spammers.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"164", "sent":"At some","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":4, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"165", "sent":"probably low cost you can induce people to","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"166", "sent":"find the spammers.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"167", "sent":"After all the spammer has to have","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"168", "sent":"a way to collect money from hisher targets.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":4, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"169", "sent":"Also I wish ISPs would find the people who respond to","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"170", "sent":"spam and give them email accounts at a site that the","sentimentwords":[]},{"linePolarity":3.0,"systemtopicid":4, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"171", "sent":"spammers can freely target.","sentimentwords":[{"word":"freely","polarity":3.0}]},{"linePolarity":1.0,"systemtopicid":4, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"172", "sent":"These people are the real","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"lusers spam", "topicid":2, "goldlabel":"ISP obligations to fight spam", "sentid":"173", "sent":"cause of spam.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31161310",
+"author":"fregare",
+"parent":"",
+"date":"1266319800000",
+"modeclass":"None",
+"modescore":"-1",
+"title":"spam is wasted bandwidth: I call BullShit",
+"sent": [{"linePolarity":-3.9,"systemtopicid":7, "systemlabel":"so waste", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"180", "sent":"There is so much waste on the internet.","sentimentwords":[{"word":"much","polarity":-3.9}]},{"linePolarity":-3.0,"systemtopicid":7, "systemlabel":"so waste", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"181", "sent":"And you complain about spam?","sentimentwords":[{"word":"complain","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":7, "systemlabel":"so waste", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"182", "sent":"Look at Flash ","sentimentwords":[]},{"linePolarity":0,"systemtopicid":7, "systemlabel":"so waste", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"183", "sent":"Most of the Flash movies out there are basically TV.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":7, "systemlabel":"so waste", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"184", "sent":"Is TV known for education as people had hoped when it was invented?","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":7, "systemlabel":"so waste", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"185", "sent":"No it is dumbed down for the sheeple out there: reality shows ad anauseum.","sentimentwords":[{"word":"dumbed","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":7, "systemlabel":"so waste", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"186", "sent":"Should 24 be an example of an education show?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":7, "systemlabel":"so waste", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"187", "sent":"What exactly do we learn from 24?","sentimentwords":[]},{"linePolarity":-2.0,"systemtopicid":7, "systemlabel":"so waste", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"188", "sent":"In short TV is basically a waste and now I fear that the internet is turning into shit.","sentimentwords":[{"word":"waste","polarity":-3.0},{"word":"fear","polarity":-1.5},{"word":"short","polarity":-1.5}]},{"linePolarity":-3.0,"systemtopicid":7, "systemlabel":"so waste", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"189", "sent":"And you complain about waste?","sentimentwords":[{"word":"waste","polarity":-3.0},{"word":"complain","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":7, "systemlabel":"so waste", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"190", "sent":"Even slashdot itself seems to use so much goddamn javascript.","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":7, "systemlabel":"so waste", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"191", "sent":"Soon one will need a supercomputer just to execute javascript.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":7, "systemlabel":"so waste", "topicid":600, "goldlabel":"END", "sentid":"192", "sent":"OIE VEY.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31161610",
+"author":"TheNarrator",
+"parent":"",
+"date":"1266321180000",
+"modeclass":"Informativ",
+"modescore":"2",
+"title":"Hosting mail forwarding is ridiculous too",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"193", "sent":"I have a domain name that I do mail forwarding for.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"194", "sent":"Some botnet owner decided it was worth finding emails to spam to on this domain.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"195", "sent":"So now every single day 247 365 days a year once or twice a minute I get an attempt to send an email to fsdfs34mydomain.com where fsdfs34 gets replaced with every possible email conceivable.","sentimentwords":[]},{"linePolarity":0.166666666667,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"196", "sent":"At first I decided to add an ip blocker for anyone who spammed me but it soon slowed down my mail server so much that I had to take it out once the list grew into the 10s of thousands of ips.Now I just greylist and tightly check EHELOs which seems to keep any of the spam from getting anywhere.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":9, "goldlabel":"domain management and spam", "sentid":"197", "sent":"Nevertheless the attempts come relentlessly and continuously like clockwork form ips all over the world.","sentimentwords":[{"word":"relentlessly","polarity":-3.0}]}]
+},
+{
+
+
+"commentid":"31162590",
+"author":"Anonymous22",
+"parent":"",
+"date":"1266326340000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Malicious spam report  in PDF format ROFL",
+"sent": [{"linePolarity":-4.5,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"205", "sent":"In other news Lifehackers Remains of the Day for today reports that 80 of malicious exploits use Adobe Acrobat PDF files as an attack vector.","sentimentwords":[{"word":"attack","polarity":-3.0},{"word":"malicious","polarity":-6.0}]},{"linePolarity":-3.0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"206", "sent":"Download the report and get infected","sentimentwords":[{"word":"infected","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"lusers spam", "topicid":600, "goldlabel":"END", "sentid":"207", "sent":"ROFL","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31162730",
+"author":"Anonymous24",
+"parent":"",
+"date":"1266327240000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Overzealous gateways",
+"sent": [{"linePolarity":-4.0,"systemtopicid":6, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"210", "sent":"As much as I hate spam I hate overzealous gateways on the internet more.","sentimentwords":[{"word":"hate","polarity":-6.0},{"word":"hate","polarity":-3.0},{"word":"overzealous","polarity":-3.0}]},{"linePolarity":-2.16666666667,"systemtopicid":6, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"211", "sent":"Earthlink for example refuses to receive mail without a valid return address so noreply must respond to RESP and sends you one of these:I apologize for this automatic reply to your email.","sentimentwords":[{"word":"refuses","polarity":-3.0},{"word":"without","polarity":-4.5},{"word":"automatic","polarity":1.0}]},{"linePolarity":1.0,"systemtopicid":6, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"212", "sent":"To control spam I now allow incoming messages only from senders I have approved beforehand.","sentimentwords":[]},{"linePolarity":0.25,"systemtopicid":6, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"213", "sent":"If you would like to be added to my list of approved senders please fill out the short request form see link below.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":6, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"214", "sent":"Once I approve you I will receive your original message in my inbox.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":6, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"215", "sent":"You do not need to resend your message.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":6, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"216", "sent":"I apologize for this onetime inconvenience.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":6, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"217", "sent":"Click the link below to fill out the request:","sentimentwords":[]},{"linePolarity":-2.11875,"systemtopicid":6, "systemlabel":"lusers spam", "topicid":7, "goldlabel":"spam fighting strategies Post Fix Spam Assassin Appriver block lists ISPbased filters Bayesian filters separate email accounts", "sentid":"218", "sent":"Theres no way Ill waste my time filling in that form so Ive added big warning on the registration page now  sorry users of a overzealous ISP please disable your spam filter if you can or just use another email address to register from.","sentimentwords":[{"word":"no","polarity":-6.0},{"word":"big","polarity":-1.95},{"word":"waste","polarity":-3.0},{"word":"please","polarity":2.0},{"word":"disable","polarity":-1.5},{"word":"sorry","polarity":-4.5},{"word":"overzealous","polarity":-3.0},{"word":"just","polarity":1.0}]}]
+},
+{
+
+
+"commentid":"31162938",
+"author":"Anonymous25",
+"parent":"",
+"date":"1266328380000",
+"modeclass":"None",
+"modescore":"0",
+"title":"OH NOES11 THE INTARNETS R THE RUINED111",
+"sent": [{"linePolarity":4.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"220", "sent":"holy SHIT 3Billion messages per day why thats equivalent to one NEW individual piece of spam in EVERY LIVING PERSONS INBOX ON EARTH...every 2 days.","sentimentwords":[{"word":"holy","polarity":4.0},{"word":"NEW","polarity":4.0}]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"221", "sent":"Or rather spam folder.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"222", "sent":"But still","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"223", "sent":"Looked at it another way in just one short month that would be FIFTEEN messages in a single persons inbox.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"224", "sent":"How many legitimate mails do you get per month?","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"225", "sent":"Can you imagine sorting through FIFTEEN pieces of spam to get to just four weeks of real mail?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"226", "sent":"Email is useless.um not.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"227", "sent":"wake me when the number of spam messages reaches 3B per second.","sentimentwords":[]},{"linePolarity":3.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"228", "sent":"That will be an interesting milestone...","sentimentwords":[{"word":"milestone","polarity":3.0},{"word":"interesting","polarity":3.0}]}]
+},
+{
+
+
+"commentid":"31163542",
+"author":"ValuJet",
+"parent":"",
+"date":"1266332940000",
+"modeclass":"Redundant",
+"modescore":"0",
+"title":"59 spam messages isnt that many",
+"sent": [{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"229", "sent":"You nerds sure get hyped up over 59 spam messages a day.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":1, "goldlabel":"report announcing 3B spam messages sent per day and reactions", "sentid":"230", "sent":"That really isnt that much when you think about the whole internet.Wait... you mean that wasnt hex?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31163610",
+"author":"Anonymous26",
+"parent":"",
+"date":"1266333360000",
+"modeclass":"None",
+"modescore":"0",
+"title":"torrents vs spam",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"lusers spam", "topicid":10, "goldlabel":"adverse effects of spam clossing bandwidth raising latency", "sentid":"231", "sent":"I should think that spam is much more serious problem bandwidthwise.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31164474",
+"author":"Soiden",
+"parent":"",
+"date":"1266339240000",
+"modeclass":"None",
+"modescore":"1",
+"title":"3B of spam",
+"sent": [{"linePolarity":-4.5,"systemtopicid":1, "systemlabel":"price", "topicid":5, "goldlabel":"spam filters in Gmail and other clients yahoomail hotmail", "sentid":"236", "sent":"...and in my Gmail account I never see even one.","sentimentwords":[{"word":"never","polarity":-4.5}]}]
+}
+]
+}

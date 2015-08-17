@@ -1,0 +1,149 @@
+var first=1;
+
+function parseNodes(nodes) { // takes a nodes array and turns it into a <ol>
+    var ol = document.createElement("ul");
+	if(first==1)
+	{
+		ol.setAttribute('id','comments');
+	 
+		first=0;
+	}
+	else{
+		ol.setAttribute('class','children');
+	}
+	//alert("Creating OL"+nodes.length);
+    for(var i=0; i<nodes.length; i++) {
+		//alert("length"+nodes.length);
+        ol.appendChild(parseNode(nodes[i]));
+    }	
+    return ol;
+}
+
+function parseNode(node) { // takes a node object and turns it into a <li>
+    var li = document.createElement("LI");
+	li.setAttribute('id',node.commentid);
+	var sentences="";
+    for(var i=0; i<node.sent.length; i++) {
+		//alert("length"+nodes.length);
+        sentences+=node.sent[i].sent+" ";
+    }
+	
+	var text="<div class=\"comment\""+"id=\"div"+node.commentid+"\"onmouseover=\"commentMouseOver("+node.commentid+")\""+
+					" onmouseout=\"commentMouseOut("+node.commentid+")\""+
+					" onclick=\"commentMouseClick("+node.commentid+")\">"+
+					"<div class=\"comment-author\"><img src=\"gravatar.gif\" /><a href=\"/\"  style=\"color: rgb(152, 78, 163)\">"+
+					node.author+"</a>"+
+					drawSentimentbar(node)+
+					"</div><div class=\"comment-body\""+"id=\"comment"+node.commentid+"\"><p>"+
+					"<a href=\"#"+node.parent+"\">"+node.title+"</a>"+	" "	+sentences+
+					"</p></div>"+
+					"</div>";
+    li.innerHTML = text;
+    //	li.className = node.class;
+    if(node.children) li.appendChild(parseNodes(node.children));
+    return li;
+}
+
+function drawSentimentbar(node) {
+	colorBins=findColor(node);
+	var totalWidth=60;
+	var sentimentbar="<table border=\"1\" cellpadding=\"0\"><tr style=\"height:"+findCommentHeight(node)+"px;\">";
+	if(colorBins[4]>0)
+		sentimentbar+="<td style=\"background-color:"+"rgb("+sentimentColors[4]+")"+";\" width=\""+colorBins[4]*totalWidth+"px;\"></td>";
+	if(colorBins[3]>0)
+		sentimentbar+="<td style=\"background-color:"+"rgb("+sentimentColors[3]+")"+";\" width=\""+colorBins[3]*totalWidth+"px;\"></td>";
+	if(colorBins[2]>0)
+		sentimentbar+="<td style=\"background-color:"+"rgb("+sentimentColors[2]+")"+";\" width=\""+colorBins[2]*totalWidth+"px;\"></td>";
+	if(colorBins[1]>0)
+		sentimentbar+="<td style=\"background-color:"+"rgb("+sentimentColors[1]+")"+";\" width=\""+colorBins[1]*totalWidth+"px;\"></td>";
+	if(colorBins[0]>0)
+		sentimentbar+="<td style=\"background-color:"+"rgb("+sentimentColors[0]+")"+";\" width=\""+colorBins[0]*totalWidth+"px;\"></td>";
+		sentimentbar+="</tr></table>";
+	return sentimentbar;
+}
+
+	function commentMouseOver(commentid){
+		//alert("hellow world");
+		//alert($("#div"+commentid).attr('style'));
+		nodeEnter.transition()
+		.duration(0)
+		.selectAll("rect")
+		.style("stroke-width",function(s,i){			 
+			var stroke="0.25px";
+			if(commentid==s.commentid){
+				stroke="2px";
+				//if($("#div"+s.commentid).attr('style').indexOf("rgb")==-1)
+					$("#div"+s.commentid).css("border", "2px solid");
+			}
+			else if(s.clickstate=="1") {stroke="2px";}
+			return stroke;
+			});
+		
+	}
+	function commentMouseOut(commentid){
+		//alert("hellow world");
+		if($("#div"+commentid).attr('style').indexOf("rgb")==-1)		
+			$("#div"+commentid).css("border", "0px solid");
+		nodeEnter.transition()
+		.duration(0)
+		.selectAll("rect")
+		.style("stroke-width",function(s,i){
+			
+			var stroke="0.25px";
+			if(s.clickstate=="1") {
+				stroke="2px";
+				//alert(""+s.author);
+				$("#div"+s.commentid).css("border", "2px solid");
+			}
+			return stroke;
+			});
+	}
+
+	function commentMouseClick(commentid){
+		nodeEnter.transition()
+		.duration(0)
+		.selectAll("rect")
+		.style("stroke-width",function(s,i){
+			 
+			var stroke="0.15px";
+			if(commentid==s.commentid){
+					if(s.clickstate=="1"){
+						stroke="0.15px";
+						s.clickstate="0";
+						/*var sentences="";
+						for(var i=0; i<s.sent.length; i++) {
+							//alert("length"+nodes.length);
+							sentences+=s.sent[i].sent+" ";
+						}*/
+						/*$("#comment"+s.commentid).html("<p>"+
+							"<a href=\"#"+s.parent+"\">"+s.title+"</a>"+" "	+sentences+"</p>");*/
+						$("#div"+commentid).css("border", "0px solid");						
+					}
+					else{
+						stroke="2px";
+						s.clickstate="1";
+						$("#div"+commentid).css("border", "2px solid");
+						/*$("#comment"+s.commentid).html("<p>"+
+							"<a href=\"#"+s.parent+"\">"+s.title+"</a>"+" "	+s.colorText+"</p>");		*/		
+					} 
+			}
+			else if(s.clickstate=="1") {stroke="2px";}
+			return stroke;
+			});		
+		
+	}
+	
+	$.getJSON('data_comments/article09_05_28_1952214.json', function(data) {
+				//alert(JSON.stringify(data));
+				da=parseNodes(data);				
+				document.getElementById("content").appendChild(da);
+				//document.body.appendChild(da);			
+	  });
+	$(document).ready(function(){
+		$('#comments').collapsible({xoffset:'-20', yoffset:'30', defaulthide: false, imagehide: 'arrow-down.png', imageshow: 'arrow-right.png'});
+		//$("#comments").css("backgroundColor", "red"); 		
+			/*$(".comment").click(function() {
+			alert("called"+$(this).commentid);
+	   //$(this).css("border", "2px solid"); 
+	});	*/
+});	

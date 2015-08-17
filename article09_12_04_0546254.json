@@ -1,0 +1,228 @@
+{
+
+"totalTopics":"8",
+
+
+"totalLines":"231",
+
+"topics":[{"topicID":1,"strength":22,"labels":"original property rights_(0.262910917916), protective intellectual property_(0.262910917916), bankrupt indefensible notion_(0.179268926203), sad pathetic thief_(0.163293401429), weasel word_(0.131615836536)"},{"topicID":2,"strength":14,"labels":"japanese pc_(0.166666666667), japanese copyright law_(0.166666666667), japanese publishers_(0.166666666667), japanese games_(0.166666666667), japanese lawyer_(0.166666666667), content japanese video game_(0.166666666667)"},{"topicID":3,"strength":31,"labels":"game companies_(0.0833333333333), epic games unreal franchise game_(0.0833333333333), modding game_(0.0833333333333), have game_(0.0833333333333), able game giants_(0.0833333333333), game industry_(0.0833333333333), own game_(0.0833333333333), video game fan_(0.0833333333333), hard game_(0.0833333333333), start game_(0.0833333333333), game developers_(0.0833333333333), content japanese video game_(0.0833333333333)"},{"topicID":4,"strength":14,"labels":"pc gaming world_(0.204623657181), evil gaming companies_(0.204623657181), gaming community_(0.204623657181), gaming industry_(0.204623657181), time infinity ward_(0.181505371276)"},{"topicID":5,"strength":16,"labels":"epic games unreal franchise game_(0.0909090909091), video games_(0.0909090909091), games industry_(0.0909090909091), computer games_(0.0909090909091), japanese games_(0.0909090909091), total games_(0.0909090909091), textures games_(0.0909090909091), doujin games_(0.0909090909091), pc games_(0.0909090909091), long games_(0.0909090909091), have games_(0.0909090909091)"},{"topicID":6,"strength":30,"labels":"epic content_(0.148818579343), epic games unreal franchise game_(0.148818579343), video games_(0.0702362841314), games industry_(0.0702362841314), computer games_(0.0702362841314), japanese games_(0.0702362841314), total games_(0.0702362841314), textures games_(0.0702362841314), doujin games_(0.0702362841314), pc games_(0.0702362841314), long games_(0.0702362841314), have games_(0.0702362841314)"},{"topicID":7,"strength":45,"labels":"derivative works doujin_(0.268349569339), proper improper derivative works_(0.268349569339), derivative product_(0.268349569339), proper system_(0.107510561819), biggest comiket_(0.0874407301652)"},{"topicID":8,"strength":59,"labels":"se_(0.242145789499), have copyright_(0.207609219834), need copyright_(0.207609219834), copyright laws_(0.207609219834), uniform uniform laws_(0.135026551)"}],
+
+"author":"Soulskill",
+"date":"1259956260000",
+"title":"Copyright and the Games Industry",
+"sent": [{"linePolarity":2.07142857143,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"1", "sent":"A recent post at the Press Start To Drink blog examined the relationship the games industry has with copyright laws."},{"linePolarity":-1.5,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"2", "sent":"More so than in some other creative industries the reactions of game companies to derivative works are widely varied and often unpredictable ranging anywhere from active support to situations like the  Chrono Trigger: Crimson Echoes debacle."},{"linePolarity":-3.0,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"3", "sent":"Quoting:"},{"linePolarity":-1.5,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"4", "sent":"... even within the gaming industry there is a tension between IP holders and fan producerspoachers."},{"linePolarity":0,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"5", "sent":"Some companies such as Epic and Square Enix remain incredibly protective of their Intellectual Property threatening those that use their creations even for nonprofit cultural reasons with legal suits."},{"linePolarity":0,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"6", "sent":"Other companies like Valve seem to if not embrace at least tolerate and perhaps even tacitly encourage this kind of fan engagement with their work."},{"linePolarity":0,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"7", "sent":"Lessig suggests The opportunity to create and transform becomes weakened in a world in which creation requires permission and creativity must check with a lawyer."},{"linePolarity":0,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"8", "sent":" Indeed the more developers and publishers that take up Valves position the more creativity and innovation will emerge out of video game fan communities already known for their intense fandom and desire to add to alter and reimagine their favorite gaming universes."}]
+,"children":[
+{
+
+
+"commentid":"30321750",
+"author":"deprecated",
+"parent":"",
+"date":"1259917380000",
+"modeclass":"Insightful",
+"modescore":"2",
+"title":"No such thing",
+"sent": [{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"original property rights", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"9", "sent":"Intellectual property is a bankrupt and indefensible notion."},{"linePolarity":-1.25,"systemtopicid":1, "systemlabel":"original property rights", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"10", "sent":"Scratch a weasel word find a thief."}]
+,"children":[
+{
+
+
+"commentid":"30322166",
+"author":"Anonymous7",
+"parent":"30321750",
+"date":"1259924820000",
+"modeclass":"Troll",
+"modescore":"-1",
+"title":"Re:No such thing",
+"sent": [{"linePolarity":-4.5,"systemtopicid":1, "systemlabel":"original property rights", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"88", "sent":"grow up you sad pathetic thief."},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"original property rights", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"89", "sent":"When you actually get a fucking job you will realise that there is value in the works of others."},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"original property rights", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"90", "sent":"Till then go tidy your room and beg your mommy for some allowance to buy sweets."},{"linePolarity":-1.875,"systemtopicid":1, "systemlabel":"original property rights", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"91", "sent":"ok?"}]
+}
+]
+},
+{
+
+
+"commentid":"30321828",
+"author":"Hadlock",
+"parent":"",
+"date":"1259918640000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Torrent",
+"sent": [{"linePolarity":-1.4,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"11", "sent":"Someone post the torrent already preferably with both projects in the same .torrent"},{"linePolarity":0.333333333333,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"12", "sent":" For uh my student paper on IP laws."},{"linePolarity":-1.5,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"13", "sent":"I need this as a first hand source."},{"linePolarity":3.0,"systemtopicid":8, "systemlabel":"se", "topicid":600, "goldlabel":"END", "sentid":"14", "sent":"Thanks"}]
+},
+{
+
+
+"commentid":"30321858",
+"author":"Anonymous1",
+"parent":"",
+"date":"1259919300000",
+"modeclass":"Insightful",
+"modescore":"1",
+"title":"Copyright and Plagarism",
+"sent": [{"linePolarity":-0.875,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"15", "sent":"Im getting fed up with these two concepts."},{"linePolarity":-0.75,"systemtopicid":8, "systemlabel":"se", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"16", "sent":"There is only one kind of Plagarism... cheating.  If you didnt do the work on your paper then youre cheating."},{"linePolarity":-0.3625,"systemtopicid":8, "systemlabel":"se", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"17", "sent":"If you didnt provide sources you better have research."},{"linePolarity":-1.5,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"18", "sent":"If you dont have research your paper is baseless and should be given a failing grade.Copyright is the idea that you control the copies of your creation."},{"linePolarity":-1.04,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"19", "sent":"Obviously nobody wants to spend thousands of hours creating something then letting someone else a corporation sell it without royalties."},{"linePolarity":-1.0,"systemtopicid":8, "systemlabel":"se", "topicid":2, "goldlabel":"piracy", "sentid":"20", "sent":"Or letting people download it for free off the internet."},{"linePolarity":2.66666666667,"systemtopicid":8, "systemlabel":"se", "topicid":2, "goldlabel":"piracy", "sentid":"21", "sent":"Hey Pirates you think you arent stealing?"},{"linePolarity":1.0,"systemtopicid":8, "systemlabel":"se", "topicid":2, "goldlabel":"piracy", "sentid":"22", "sent":"Well why dont you download a random assortment of bits."},{"linePolarity":0.833333333333,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"23", "sent":"Oh thats right because you want somebody elses *work*.However Copyright has turned into this idea where as soon as you make a Dark cloaked figure who kills people for a living you can go bully anyone else for doing something like it."},{"linePolarity":-1.75,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"24", "sent":"No it lets you own your words."},{"linePolarity":0.5,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"25", "sent":"Not something like your words your words only.Trademarks protect against people making Harry Potter books or Mickey Mouse movies."},{"linePolarity":1.0,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"26", "sent":"There is no need and purpose for copyright to cover that issue.IP is not a failed idea."},{"linePolarity":0.0833333333333,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"27", "sent":"Our system is whats broken or more likely those who are in charge of the system."}]
+,"children":[
+{
+
+
+"commentid":"30322092",
+"author":"Anonymous5",
+"parent":"30321858",
+"date":"1259922780000",
+"modeclass":"Insightful",
+"modescore":"2",
+"title":"Re:Copyright and Plagarism",
+"sent": [{"linePolarity":-1.0,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"78", "sent":"IP is only 3 centuries old in the anglosaxon world 2 for the rest of Europe and 1 for the rest of the world and in that time it has become a cesspit of creation murdering nonsense that has been slowly making sure creativity in this world is killed because your ideas might make vague use of common tropes someone else with the money wants to sue you about making sure most of the artistic creation of the last 10 millenia could get sued the fuck off if it was made today."},{"linePolarity":0.175,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"79", "sent":"The ideals of feeding the public domain while removing the need for the patronage system were very worthy but they just created an even more oppressive system of patronage because from a social class standpoint artists have to be either wildly successfully distributed or will not be able to distribute full time anyway making things moot."},{"linePolarity":3.0,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"80", "sent":"Clinging on the idea of IP as implemented is thinking you can make the Titanic float by repainting the grand staircase."}]
+}
+]
+},
+{
+
+
+"commentid":"30321886",
+"author":"zalas",
+"parent":"",
+"date":"1259919780000",
+"modeclass":"Interestin",
+"modescore":"2",
+"title":"I kind of wish we had a Comiket",
+"sent": [{"linePolarity":1.375,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":3, "goldlabel":"Japanese game developers Tauhau project Nikon project", "sentid":"28", "sent":"In Japan you have a ton of people making derivative works doujin and selling them at low volume at various events the biggest of which being Comiket wikipedia.org which half a million people attend."},{"linePolarity":0.625,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":3, "goldlabel":"Japanese game developers Tauhau project Nikon project", "sentid":"29", "sent":"A lot of times these derivative works are with the approval of the original creators who set out guidelines as to what they consider proper and improper derivative works."},{"linePolarity":3.0,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":3, "goldlabel":"Japanese game developers Tauhau project Nikon project", "sentid":"30", "sent":"The biggest content creator I can think of is Nihon Falcom Japanese video game maker who recently offered fairly liberal access to their entire library of music."}]
+},
+{
+
+
+"commentid":"30321894",
+"author":"Anonymous2",
+"parent":"",
+"date":"1259919960000",
+"modeclass":"Interestin",
+"modescore":"2",
+"title":"Interesting split in developer perspectives",
+"sent": [{"linePolarity":-0.75,"systemtopicid":8, "systemlabel":"se", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"31", "sent":"Would Valve be any more approving of say people selling HalfLife comic books as SE is of their properties?"},{"linePolarity":1.0,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"32", "sent":"Especially with more risque contents?While Valve in particular may be relatively forgiving it seems less of a single sliding scale between PCfree and consolenot free and more of a dichotomy of PC devs smiling upon derivatives as long as theyre games that reuse assets and console devs smiling upon derivatives as long as theyre not games and dont reuse assets."}]
+},
+{
+
+
+"commentid":"30321920",
+"author":"MachDelta",
+"parent":"",
+"date":"1259920200000",
+"modeclass":"Informativ",
+"modescore":"5",
+"title":"Epic is not evil",
+"sent": [{"linePolarity":1.0,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"33", "sent":"The author really should have done more research for this article."},{"linePolarity":3.0,"systemtopicid":6, "systemlabel":"epic content", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"34", "sent":"Epic games is typically not one of the overly protective companies desperately trying to nail down every fan with an idea in the name of Intellectual Property enforcement."},{"linePolarity":1.5,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"35", "sent":"The event cited CD over a gift doll was actually done in error and was not sent by Epic themselves but rather their triggerhappy crack legal team."},{"linePolarity":1.0,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"36", "sent":"Mark Rein PR dude later explained the incident epicgames.com as an accident and publicly apologized for it.Typically Epic has been more in stride with Valve in that they actively encourage people to mess with their games in notfor profit ways."},{"linePolarity":-3.0,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"37", "sent":"They have also released free SDKs and source code for their engines."},{"linePolarity":3.0,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"38", "sent":"Theyve held contests makesomethingunreal.com with cash prizes noless in order to cultivate talent and often recruit employees from the community."},{"linePolarity":-0.25,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"39", "sent":"Theyve even taken a mod to retail status Tactical Ops just like Valve did with Counter Strike."},{"linePolarity":0,"systemtopicid":6, "systemlabel":"epic content", "topicid":5, "goldlabel":"game mods", "sentid":"40", "sent":"Theyve also helped to pioneer the feature of community made mods and maps being offered on consoles.On the whole Epic is one of the least evil gaming companies on the planet right now."},{"linePolarity":0.333333333333,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"41", "sent":"And while theyre not immune to making mistakes I personally dont believe they deserve to be unfairly placed on the wrong side of this particular fence."}]
+,"children":[
+{
+
+
+"commentid":"30322054",
+"author":"Anonymous4",
+"parent":"30321920",
+"date":"1259922180000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Epic is not evil",
+"sent": [{"linePolarity":0,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"59", "sent":"Epic not evil?"},{"linePolarity":-9.75,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"60", "sent":"Read up on the working conditions of their game developers and how they sabotage any initiative to improve industrywide conditions then come back and say that.Back on topic: Capcom is actually pretty good about not just tolerating but actually supporting fanmade stuff."},{"linePolarity":-1.16666666667,"systemtopicid":6, "systemlabel":"epic content", "topicid":5, "goldlabel":"game mods", "sentid":"61", "sent":"Their official blog capcomunity.com often has links to fan projects they think are awesome including a 2.5D remake of Mega Man 2."}]
+},
+{
+
+
+"commentid":"30322124",
+"author":"jonwil",
+"parent":"30321920",
+"date":"1259923800000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Epic is not evil",
+"sent": [{"linePolarity":-4.5,"systemtopicid":6, "systemlabel":"epic content", "topicid":5, "goldlabel":"game mods", "sentid":"81", "sent":"Electronic Arts is not all that evil either in that they have allowed all kinds of liberal use of the IP for the Command  Conquer series including its use for the Red Alert: A Path Beyond mod and more notably the RenegadeX mod for UT3.Microsoft as owner of the Halo franchise will go hard on anyone making any kind of game that uses anything from the Halo IP.Nintendo are one of the worst in the industry and will shut down anything that even smells like an IP violation.Vivendi Universal Games owners of Blizzard and Activision plus former studios like Sierra seem to be negative against fan mods based on the way they have shut down fanmade Space Quest games for exampleID Software seem to be friendly to modders from what I have seen they even released source code to many of their games and I expect the Doom III engine will follow suit once its no longer in use and assuming any legal issues can be resolved"}]
+},
+{
+
+
+"commentid":"30322170",
+"author":"jez9999",
+"parent":"30321920",
+"date":"1259924820000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Epic is not evil",
+"sent": [{"linePolarity":0,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"92", "sent":"The event cited CD over a gift doll was actually done in error and was not sent by Epic themselves but rather their triggerhappy crack legal team."},{"linePolarity":0,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"93", "sent":"Mark Rein PR dude later explained the incident epicgames.com as an accident and publicly apologized for it.Yup."},{"linePolarity":-1.16666666667,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"94", "sent":"I didnt rape her your Honour but rather my triggerhappy penis."},{"linePolarity":1.06666666667,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"95", "sent":"I later explained the incident as an accident and publicly apologized for it."}]
+},
+{
+
+
+"commentid":"30322174",
+"author":"Anonymous8",
+"parent":"30321920",
+"date":"1259924940000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Epic is not evil",
+"sent": [{"linePolarity":-1.5,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"96", "sent":"With all due respect thats complete and utter apologist bullshit."},{"linePolarity":0,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"97", "sent":"Anyone on Epics payroll is Epic."},{"linePolarity":2.66666666667,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"98", "sent":"Nobody forced Epic to pay legal attack dogs and nobody else was responsible for them doing what they were paid to do."},{"linePolarity":-1.5,"systemtopicid":6, "systemlabel":"epic content", "topicid":4, "goldlabel":"epic games", "sentid":"99", "sent":"Epic are not the victims here."}]
+}
+]
+},
+{
+
+
+"commentid":"30321928",
+"author":"Anonymous3",
+"parent":"",
+"date":"1259920320000",
+"modeclass":"Interestin",
+"modescore":"4",
+"title":"Touhou",
+"sent": [{"linePolarity":-1.5,"systemtopicid":5, "systemlabel":"epic games unreal franchise game", "topicid":3, "goldlabel":"Japanese game developers Tauhau project Nikon project", "sentid":"42", "sent":"I was reading about a series of Japanese games called the Touhou project a few weeks back."},{"linePolarity":2.4,"systemtopicid":5, "systemlabel":"epic games unreal franchise game", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"43", "sent":"What was interesting is that while the single author of the franchise enforces his copyright to the games themselves he doesnt on the characters and settings that games revolves around.This has allowed many groups to create works primary comics but also remixed music and other things based off his work."},{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"epic games unreal franchise game", "topicid":3, "goldlabel":"Japanese game developers Tauhau project Nikon project", "sentid":"44", "sent":"He doesnt mind people even selling these things."},{"linePolarity":-0.5,"systemtopicid":5, "systemlabel":"epic games unreal franchise game", "topicid":3, "goldlabel":"Japanese game developers Tauhau project Nikon project", "sentid":"45", "sent":"All theyre required to do is to make sure that they state theyre not an original work.This has made him and his franchise surprising successful but it seems he is now worried that itll grow beyond his control."},{"linePolarity":2.0,"systemtopicid":5, "systemlabel":"epic games unreal franchise game", "topicid":3, "goldlabel":"Japanese game developers Tauhau project Nikon project", "sentid":"46", "sent":"After a project announced that they would produce an short animated film with some well known voice actors he ranted in his blog that about it."},{"linePolarity":0.683333333333,"systemtopicid":5, "systemlabel":"epic games unreal franchise game", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"47", "sent":"Some people would argue that Touhou is currently better known for the communitys work rather then the creators original work and unless he starts really enforcing his copyright this may not change."},{"linePolarity":0,"systemtopicid":5, "systemlabel":"epic games unreal franchise game", "topicid":3, "goldlabel":"Japanese game developers Tauhau project Nikon project", "sentid":"48", "sent":"On the other hand if he did that it would also kill off most his community.Stuck behind a rock and a hard place."}]
+,"children":[
+{
+
+
+"commentid":"30322300",
+"author":"Anonymous9",
+"parent":"30321928",
+"date":"1259927280000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Touhou",
+"sent": [{"linePolarity":0.375,"systemtopicid":5, "systemlabel":"epic games unreal franchise game", "topicid":3, "goldlabel":"Japanese game developers Tauhau project Nikon project", "sentid":"100", "sent":"Stuck behind a rock and a hard place."},{"linePolarity":-0.333333333333,"systemtopicid":5, "systemlabel":"epic games unreal franchise game", "topicid":3, "goldlabel":"Japanese game developers Tauhau project Nikon project", "sentid":"101", "sent":"Many unpaid workers make copies of his work much more popular than it would otherwise be and hes somehow stuck?"},{"linePolarity":-1.5,"systemtopicid":5, "systemlabel":"epic games unreal franchise game", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"102", "sent":"I think he has an entitlement problem. Ownership by definition is the right to control something."},{"linePolarity":2.7,"systemtopicid":5, "systemlabel":"epic games unreal franchise game", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"103", "sent":"Any ethical not legal argument based on because they own it is bogus."}]
+}
+]
+},
+{
+
+
+"commentid":"30321956",
+"author":"IBBoard",
+"parent":"",
+"date":"1259920800000",
+"modeclass":"None",
+"modescore":"1",
+"title":"And then some companies switch",
+"sent": [{"linePolarity":0,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"49", "sent":"Some companies support modders making derivative works some block or threaten legal action but some start one way and switch."},{"linePolarity":0,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"50", "sent":"I dont suppose the Devs want to do it but Legal probably get twitchy these days.The main one that irks me is Relic."},{"linePolarity":0,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"51", "sent":"Dawn of War was a great game with a good modding community."},{"linePolarity":0,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":5, "goldlabel":"game mods", "sentid":"52", "sent":"Dawn of War 2 came along and in part because of the GfWL networking really locked down on modding such that most of the community gave up."},{"linePolarity":0,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":5, "goldlabel":"game mods", "sentid":"53", "sent":"There were some incredible mods and textures for DoW1 and any pure graphics changes were userside only and didnt break games."},{"linePolarity":0,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":5, "goldlabel":"game mods", "sentid":"54", "sent":"Mods were properly handled and a handshake before the game failed if you werent running the same Mods."},{"linePolarity":0,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":5, "goldlabel":"game mods", "sentid":"55", "sent":"Then DoW2 was released it was more complex like that ever stopped the community"},{"linePolarity":0,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":5, "goldlabel":"game mods", "sentid":"56", "sent":"and modding didnt get anywhere near the same support plus even textures needed to be put in as mods the last I saw."},{"linePolarity":-6.0,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":5, "goldlabel":"game mods", "sentid":"57", "sent":"You cant even easily add custom badges and banners FFSI can see the point of copyright and intellectual property to some degree  working hard on something and then having someone else duplicate or modify it or appear to be an official part of it without your permission and without credit or recompense potentially making a bad impression on those who dont know it isnt official is wrong and serves no good purpose."},{"linePolarity":0.4,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":5, "goldlabel":"game mods", "sentid":"58", "sent":"The problem is that corporations take it too far."}]
+},
+{
+
+
+"commentid":"30322064",
+"author":"Tei",
+"parent":"",
+"date":"1259922300000",
+"modeclass":"Interestin",
+"modescore":"4",
+"title":"title goes here",
+"sent": [{"linePolarity":1.35,"systemtopicid":3, "systemlabel":"game companies", "topicid":5, "goldlabel":"game mods", "sentid":"62", "sent":"A mod modificacion of a game often have to distribute files of the original game modified."},{"linePolarity":-0.0684523809524,"systemtopicid":3, "systemlabel":"game companies", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"63", "sent":"On some games this is allowed so is not gray area is white area but on others theres not text that allow you to do that.Is sad but mods that use a popular IP are... popular. Not all mods are based on movies books etc..  but there are big group of then."},{"linePolarity":-0.675,"systemtopicid":3, "systemlabel":"game companies", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"64", "sent":"These mods are almost all gray area very few have the authorization of the owner of the ip.Modding use to be something that add value to a game and the studio that created that game."},{"linePolarity":0.666666666667,"systemtopicid":3, "systemlabel":"game companies", "topicid":5, "goldlabel":"game mods", "sentid":"65", "sent":"People are more inclined to buy a game where there are a strong mod community and cool mods.But Microsoft changed this with the concept of DLCs."},{"linePolarity":-3.0,"systemtopicid":3, "systemlabel":"game companies", "topicid":5, "goldlabel":"game mods", "sentid":"66", "sent":"Now companies salivate with the idea to create these mods thenselves...  small amateurist modificatios that can be created in a hour of work and sell for 10 or 4."},{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"game companies", "topicid":5, "goldlabel":"game mods", "sentid":"67", "sent":"As a result modding is something that remove value from a game."},{"linePolarity":2.0,"systemtopicid":3, "systemlabel":"game companies", "topicid":5, "goldlabel":"game mods", "sentid":"68", "sent":"DLCs is modding done by the original authors."},{"linePolarity":-1.5,"systemtopicid":3, "systemlabel":"game companies", "topicid":5, "goldlabel":"game mods", "sentid":"69", "sent":"It was created on the consoles because consoles cant have modding but now is leaking and poisoning the PC world."},{"linePolarity":3.0,"systemtopicid":3, "systemlabel":"game companies", "topicid":5, "goldlabel":"game mods", "sentid":"70", "sent":"Games like Total War have started to encript the datafiles to stop modding from flourish.Modders thenselves have changed."},{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"game companies", "topicid":5, "goldlabel":"game mods", "sentid":"71", "sent":"The original profile for a modder where Hackers in the old sense of creative people that like to hack fun stuff."},{"linePolarity":0,"systemtopicid":3, "systemlabel":"game companies", "topicid":5, "goldlabel":"game mods", "sentid":"72", "sent":"Thats what created these hacked wolfesten.exes."},{"linePolarity":-1.0,"systemtopicid":3, "systemlabel":"game companies", "topicid":5, "goldlabel":"game mods", "sentid":"73", "sent":"Nowdays the modder scene is a hybrid of indie and amateur developpers."},{"linePolarity":1.5,"systemtopicid":3, "systemlabel":"game companies", "topicid":5, "goldlabel":"game mods", "sentid":"74", "sent":"Amateur people that have a voice and claim for quality in the SDK."},{"linePolarity":3.0,"systemtopicid":3, "systemlabel":"game companies", "topicid":5, "goldlabel":"game mods", "sentid":"75", "sent":"Mods tend to be total conversions everywhere but a few games like the TES serie made by people that invest time and maybe money and some expect that to help then take a position in the game industry and get experience in game developping.So modding is more or less dyiing."},{"linePolarity":2.0,"systemtopicid":3, "systemlabel":"game companies", "topicid":5, "goldlabel":"game mods", "sentid":"76", "sent":"And the companys will change his opinion and modders and there will be some badwill.. and probably we will return again to the hackers times where to change the weapon speed on a MW2 server you first need to hack the exe."},{"linePolarity":-0.3,"systemtopicid":3, "systemlabel":"game companies", "topicid":5, "goldlabel":"game mods", "sentid":"77", "sent":"So we hare returning to these wolfestein.exe times."}]
+},
+{
+
+
+"commentid":"30322158",
+"author":"Anonymous6",
+"parent":"",
+"date":"1259924580000",
+"modeclass":"None",
+"modescore":"1",
+"title":"I can understand the companies",
+"sent": [{"linePolarity":0,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"82", "sent":"I can understand squareenix the developers of this fansequel tried to get fame for doing another chrono trigger."},{"linePolarity":-0.333333333333,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"83", "sent":"Chrono Trigger is a brand it was probably the most famous rpg on the snes."},{"linePolarity":0,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"84", "sent":"Square build up this brand why should they let somebody else make use of it?"},{"linePolarity":1.0,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"85", "sent":"The creators of the chrono sequel could have also made their own rpg but probably noone would care so they make a rpg in the chrono trigger scenario so they get world famous for doing the chronotrigger sequel."},{"linePolarity":-1.73333333333,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"86", "sent":"You know if you want to make a game related to a film like batman you also need to pay the licence holders of batman money for creating a game with the tag batman."},{"linePolarity":-0.333333333333,"systemtopicid":7, "systemlabel":"derivative works doujin", "topicid":1, "goldlabel":"intellectual property laws in the gaming industry", "sentid":"87", "sent":"And above else this game could also be a bad game and would damage the brand then which would lead to less income for square which square needs to be able to exist."}]
+}
+]
+}

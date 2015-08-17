@@ -1,0 +1,60 @@
+[{
+    "class": "folder",
+    "title": "Test Framework",
+    "nodes": [{
+        "class": "folder",
+        "title": "Item 1",
+        "nodes": [{
+            "class": "folder",
+            "title": "Item 1.1",
+            "nodes": [{
+                "class": "file",
+                "title": "Item 1.1.a"
+            }]
+        },
+        {
+            "class": "folder",
+            "title": "Item 1.2",
+            "nodes": [{
+                "class": "file",
+                "title": "Item 1.2.a"
+            },
+            {
+                "class": "file",
+                "title": "Item 1.2.b"
+            },
+            {
+                "class": "file",
+                "title": "Item 1.2.c"
+            }]
+        },
+        {
+            "class": "folder",
+            "title": "Item 1.3",
+            "nodes": [{
+                "class": "folder",
+                "title": "Item 1.3.a",
+                "nodes": [{
+                    "class": "file",
+                    "title": "Item 1.3.a.i"
+                },
+                {
+                    "class": "file",
+                    "title": "Item 1.3.a.ii"
+                }]
+            }]
+        }]
+    },
+    {
+        "class": "folder",
+        "title": "Item 2",
+        "nodes": [{
+            "class": "file",
+            "title": "item 2.a"
+        },
+        {
+            "class": "file",
+            "title": "Item 2.b"
+        }]
+    }]
+}]

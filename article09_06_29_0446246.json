@@ -1,0 +1,138 @@
+{
+
+"totalTopics":"10",
+
+
+"totalLines":"123",
+
+"topics":[{"topicID":1,"strength":18,"labels":"better graphics_(0.140262564297), graphics cards_(0.140262564297), hope fancy graphics_(0.140262564297), play game_(0.115842461422), original game_(0.115842461422), awesome game_(0.115842461422), game content_(0.115842461422), serious sam game_(0.115842461422)"},{"topicID":2,"strength":11,"labels":"ss games_(0.220588870225), play ss_(0.220588870225), try ss_(0.220588870225), ss great_(0.220588870225), goons_(0.1176445191)"},{"topicID":3,"strength":19,"labels":"play game_(0.2), original game_(0.2), awesome game_(0.2), game content_(0.2), serious sam game_(0.2)"},{"topicID":4,"strength":5,"labels":"awesome gotta_(0.166666666667), original awesome work_(0.166666666667), awesome game_(0.166666666667), better graphics_(0.166666666667), hope fancy graphics_(0.166666666667), graphics cards_(0.166666666667)"},{"topicID":5,"strength":11,"labels":"bad guy_(0.250936105271), ss games_(0.197910774924), great games_(0.197910774924), play games_(0.197910774924), enemies_(0.155331569956)"},{"topicID":6,"strength":15,"labels":"ss2_(0.2), play ss2_(0.2), numbers_(0.2), disappointment_(0.2), enemies_(0.2)"},{"topicID":7,"strength":6,"labels":"better serious sam_(0.201677309529), hope serious engine_(0.201677309529), seriously unfinished_(0.201677309529), serious levels_(0.201677309529), friends_(0.193290761886)"},{"topicID":8,"strength":7,"labels":"ss2_(0.244127759086), play ss2_(0.244127759086), replay ss1_(0.206770066241), enemies_(0.168258939939), better serious sam_(0.136715475648)"},{"topicID":9,"strength":2,"labels":"delanoycaptcha_(0.333333333333), dad_(0.333333333333), admits_(0.333333333333)"},{"topicID":10,"strength":29,"labels":"better serious sam_(0.210105468607), hope serious engine_(0.210105468607), serious levels_(0.210105468607), serious posts_(0.210105468607), play game_(0.159578125573)"}],
+
+"author":"Soulskill",
+"date":"1246303620000",
+"title":"emSerious Samem Remake Coming In Fall",
+"sent": [{"linePolarity":0,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":1, "goldlabel":"Serious Sam : the first encounter HD", "sentid":"1", "sent":"Majesco Entertainment has announced that  Serious Sam: The First Encounter HD will be coming to Xbox Live this fall and to the PC sometime later."},{"linePolarity":0.883333333333,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":1, "goldlabel":"Serious Sam : the first encounter HD", "sentid":"2", "sent":"Its a remake of the original game using the CroTech engine and it will support up to four player coop."},{"linePolarity":2.0,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":2, "goldlabel":"Game graphics and textures", "sentid":"3", "sent":"Joystiq has some screenshots including a comparison between the old graphics and the new look."},{"linePolarity":-0.166666666667,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":2, "goldlabel":"Game graphics and textures", "sentid":"4", "sent":"The textures are sharper and cleaner than before."},{"linePolarity":-2.0,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":2, "goldlabel":"Game graphics and textures", "sentid":"5", "sent":"The originals perfectly flat lawns are now replaced with individual blades of grass  and look at that foliage rendered with some classy Crysisstyled soft focus."},{"linePolarity":1.0,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":2, "goldlabel":"Game graphics and textures", "sentid":"6", "sent":"Notice the dynamic shadows over our pumpkinwearing chainsawwielding friend?"},{"linePolarity":0,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":2, "goldlabel":"Game graphics and textures", "sentid":"7", "sent":"Now imagine this level of detail on hundreds of onscreen enemies."}]
+,"children":[
+{
+
+
+"commentid":"28511047",
+"author":"Anonymous1",
+"parent":"",
+"date":"1246308060000",
+"modeclass":"Offtopic",
+"modescore":"-1",
+"title":"Frosty Piss",
+"sent": [{"linePolarity":-1.375,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"8", "sent":"Yum"}]
+},
+{
+
+
+"commentid":"28511061",
+"author":"Luc1fel",
+"parent":"",
+"date":"1246308480000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Graphics and content",
+"sent": [{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"better graphics", "topicid":2, "goldlabel":"Game graphics and textures", "sentid":"9", "sent":"As much as I like Serious Sam I really hope fancy graphics arent the only improvement in the remake."},{"linePolarity":2.6,"systemtopicid":1, "systemlabel":"better graphics", "topicid":3, "goldlabel":"Swarm style gameplay", "sentid":"10", "sent":"I like looking at pretty effects as much as the next guy but the game content counts for much more."}]
+,"children":[
+{
+
+
+"commentid":"28511083",
+"author":"El__Muerte__TDS",
+"parent":"28511061",
+"date":"1246308720000",
+"modeclass":"Insightful",
+"modescore":"3",
+"title":"Re:Graphics and content",
+"sent": [{"linePolarity":3.0,"systemtopicid":1, "systemlabel":"better graphics", "topicid":2, "goldlabel":"Game graphics and textures", "sentid":"16", "sent":"I hope they only touched up the graphics and didnt mess with the gameplay at all."},{"linePolarity":-1.0,"systemtopicid":1, "systemlabel":"better graphics", "topicid":7, "goldlabel":"multiplayer coop mode", "sentid":"17", "sent":"SS:FE and SS:SE were just great games I had a lot of fun specially in coop."},{"linePolarity":0,"systemtopicid":1, "systemlabel":"better graphics", "topicid":3, "goldlabel":"Swarm style gameplay", "sentid":"18", "sent":"For SS2 they made changes to the gameplay to make it a bit more modern and that didnt work out at all."},{"linePolarity":0.35,"systemtopicid":1, "systemlabel":"better graphics", "topicid":3, "goldlabel":"Swarm style gameplay", "sentid":"19", "sent":"So I hope they left the gameplay as it was."}]
+},
+{
+
+
+"commentid":"28511369",
+"author":"V_NCENT",
+"parent":"28511061",
+"date":"1246269480000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Graphics and content",
+"sent": [{"linePolarity":1.0,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":1, "goldlabel":"Serious Sam : the first encounter HD", "sentid":"41", "sent":"And I hope that now that the Serious Engine 3 is done that they get back to uhm... Oh yeah I remember the Serious Sam II Linux port and get it out of beta like Corteam promised on their website."},{"linePolarity":2.25,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"42", "sent":"* *I will use Google before asking for stupid citations"}]
+}
+]
+},
+{
+
+
+"commentid":"28511075",
+"author":"BigDXLT",
+"parent":"",
+"date":"1246308660000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"Seriously",
+"sent": [{"linePolarity":1.0,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"11", "sent":"Lets try to be serious with the posts okay folks?"}]
+},
+{
+
+
+"commentid":"28511081",
+"author":"Lord_Lode",
+"parent":"",
+"date":"1246308720000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Cool",
+"sent": [{"linePolarity":4.0,"systemtopicid":8, "systemlabel":"ss2", "topicid":4, "goldlabel":"SS2", "sentid":"12", "sent":"Thats cool SS2 was disappointing compared to SS1 and SS:SE due to much less enemies and stuff."},{"linePolarity":0,"systemtopicid":8, "systemlabel":"ss2", "topicid":5, "goldlabel":"SS  FE", "sentid":"13", "sent":"I would sure like to replay SS1 and if its with better graphics thats even better."},{"linePolarity":0.5,"systemtopicid":8, "systemlabel":"ss2", "topicid":6, "goldlabel":"game remakes", "sentid":"14", "sent":"They should do remakes more often IMHO e.g."},{"linePolarity":0,"systemtopicid":8, "systemlabel":"ss2", "topicid":6, "goldlabel":"game remakes", "sentid":"15", "sent":"the original Unreal Tomb Raider II etc..."}]
+},
+{
+
+
+"commentid":"28511117",
+"author":"Sehnsucht",
+"parent":"",
+"date":"1246309080000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Original handled 8 in coop multi",
+"sent": [{"linePolarity":-0.875,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":7, "goldlabel":"multiplayer coop mode", "sentid":"20", "sent":"Only 4 players?"},{"linePolarity":0,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":7, "goldlabel":"multiplayer coop mode", "sentid":"21", "sent":"What a disappointment."}]
+},
+{
+
+
+"commentid":"28511181",
+"author":"NBarnes",
+"parent":"",
+"date":"1246266720000",
+"modeclass":"Interestin",
+"modescore":"3",
+"title":"Newer Games Should Take Lessons",
+"sent": [{"linePolarity":-3.1,"systemtopicid":5, "systemlabel":"bad guy", "topicid":3, "goldlabel":"Swarm style gameplay", "sentid":"22", "sent":"I wish more games would take the more is more approach to enemies that Serious Sam did."},{"linePolarity":0,"systemtopicid":5, "systemlabel":"bad guy", "topicid":3, "goldlabel":"Swarm style gameplay", "sentid":"23", "sent":"I loved the HUGE SCREAMING HORDES of bad guys that would try to zerg you down."},{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"bad guy", "topicid":3, "goldlabel":"Swarm style gameplay", "sentid":"24", "sent":"It was a nice change of pace from say Unreals kill a bad guy which triggers another bad guy because the engine chokes and dies if two mobs are on the screen at the same time."},{"linePolarity":-3.0,"systemtopicid":5, "systemlabel":"bad guy", "topicid":3, "goldlabel":"Swarm style gameplay", "sentid":"25", "sent":"And I liked Unreal."},{"linePolarity":-3.0,"systemtopicid":5, "systemlabel":"bad guy", "topicid":3, "goldlabel":"Swarm style gameplay", "sentid":"26", "sent":"More games should have more swarms."}]
+},
+{
+
+
+"commentid":"28511189",
+"author":"Rogerborg",
+"parent":"",
+"date":"1246266840000",
+"modeclass":"Interestin",
+"modescore":"3",
+"title":"Why do I have to imagine hundreds of enemies",
+"sent": [{"linePolarity":0,"systemtopicid":2, "systemlabel":"ss games", "topicid":3, "goldlabel":"Swarm style gameplay", "sentid":"27", "sent":"Im a little concerned that the marketing has exceeded the technology here."},{"linePolarity":-0.5,"systemtopicid":2, "systemlabel":"ss games", "topicid":3, "goldlabel":"Swarm style gameplay", "sentid":"28", "sent":"The entire point of the SS games as contrasted with SS2 was to swamp you with goons."},{"linePolarity":0,"systemtopicid":2, "systemlabel":"ss games", "topicid":3, "goldlabel":"Swarm style gameplay", "sentid":"29", "sent":"So... where are they?"},{"linePolarity":-0.233333333333,"systemtopicid":2, "systemlabel":"ss games", "topicid":3, "goldlabel":"Swarm style gameplay", "sentid":"30", "sent":"The screenshots look purty but if I were writing SS:FE:HD then Id start with a screen full of goons and tailor the detail to keep the framerate up."},{"linePolarity":0,"systemtopicid":2, "systemlabel":"ss games", "topicid":2, "goldlabel":"Game graphics and textures", "sentid":"31", "sent":"Showing a couple of high detail models wow its like theyre demoing the exact opposite of SS."},{"linePolarity":3.0,"systemtopicid":2, "systemlabel":"ss games", "topicid":3, "goldlabel":"Swarm style gameplay", "sentid":"32", "sent":"I have a feeling that somebodys going to be working a lot of overtime to deliver on that promise and its not going to be the marketing guy."}]
+},
+{
+
+
+"commentid":"28511315",
+"author":"Anonymous2",
+"parent":"",
+"date":"1246268520000",
+"modeclass":"Informativ",
+"modescore":"3",
+"title":"Out of ideas",
+"sent": [{"linePolarity":0.8125,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":2, "goldlabel":"Game graphics and textures", "sentid":"33", "sent":"Remake some old awesome game with NEW GRAPHICS"},{"linePolarity":0.665,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":6, "goldlabel":"game remakes", "sentid":"34", "sent":"It will sell well"},{"linePolarity":-3.0,"systemtopicid":4, "systemlabel":"awesome gotta", "topicid":2, "goldlabel":"Game graphics and textures", "sentid":"35", "sent":"not...So now they want people to upgrade their graphics cards...  not for some awesome gotta have it brand new title?"},{"linePolarity":0.25,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":6, "goldlabel":"game remakes", "sentid":"36", "sent":"no..  now they want you to upgrade for some OLD ass gameRemake?"},{"linePolarity":0,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":6, "goldlabel":"game remakes", "sentid":"37", "sent":"So they couldnt come up with any new content after the total mess that was the last serious sam game?"},{"linePolarity":-1.275,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":6, "goldlabel":"game remakes", "sentid":"38", "sent":"well. ok.  thats a given."},{"linePolarity":-1.75,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":7, "goldlabel":"multiplayer coop mode", "sentid":"39", "sent":"since the original two awesome ones were made by people who no longer work for croteam.And only 4 player coop?"},{"linePolarity":0,"systemtopicid":10, "systemlabel":"better serious sam", "topicid":7, "goldlabel":"multiplayer coop mode", "sentid":"40", "sent":"Um...  the old game would handle way more people than that.Could it sound anymorel like a desperate attempt to cash in on something that WAS good?"}]
+}
+]
+}

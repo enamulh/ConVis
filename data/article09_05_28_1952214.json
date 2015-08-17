@@ -1,0 +1,1104 @@
+{
+
+"totalTopics":"10",
+
+
+"totalLines":"252",
+
+"topics":[{"topicID":1,"strength":88,"labels":[{"phrase":"army security lapse","prob":0.2},{"phrase":" army hacker","prob":0.2},{"phrase":" sensitive army servers","prob":0.2},{"phrase":" army corps","prob":0.2},{"phrase":" troubling major army security lapse","prob":0.2}]},{"topicID":2,"strength":7,"labels":[{"phrase":"base","prob":0.367826820806},{"phrase":" makes order","prob":0.261955329161},{"phrase":" balls","prob":0.260373021189},{"phrase":" turkey","prob":0.0552599084916},{"phrase":" time","prob":0.0545849203523}]},{"topicID":3,"strength":8,"labels":[{"phrase":"information week","prob":0.170144009755},{"phrase":" week running","prob":0.170144009755},{"phrase":" simple information security agents","prob":0.164927995123},{"phrase":" war information","prob":0.164927995123},{"phrase":" sensitive information","prob":0.164927995123},{"phrase":" serious information","prob":0.164927995123}]},{"topicID":4,"strength":80,"labels":[{"phrase":"military security","prob":0.166666666667},{"phrase":" military battle","prob":0.166666666667},{"phrase":" military networks","prob":0.166666666667},{"phrase":" military that1","prob":0.166666666667},{"phrase":" usual military contracting companies","prob":0.166666666667},{"phrase":" public military websites","prob":0.166666666667}]},{"topicID":5,"strength":20,"labels":[{"phrase":"secure code","prob":0.2},{"phrase":" bad code","prob":0.2},{"phrase":" sql code","prob":0.2},{"phrase":" code subject sql injection attacks","prob":0.2},{"phrase":" rant code","prob":0.2}]},{"topicID":6,"strength":7,"labels":[{"phrase":"simple sql server injection","prob":0.256645974355},{"phrase":" likely app","prob":0.186113412342},{"phrase":" likely unwinnable","prob":0.186113412342},{"phrase":" phrase","prob":0.186034061379},{"phrase":" simple sql server injection","prob":0.185093139582}]},{"topicID":7,"strength":7,"labels":[{"phrase":"nuclear silos","prob":0.409374558127},{"phrase":" top nuclear computers","prob":0.409374558127},{"phrase":" dangerous real warfare","prob":0.0604169612483},{"phrase":" dangerous war","prob":0.0604169612483},{"phrase":" dangerous weapons","prob":0.0604169612483}]},{"topicID":8,"strength":17,"labels":[{"phrase":"promise","prob":0.227184151917},{"phrase":" high school","prob":0.227184151917},{"phrase":" recruit kids","prob":0.227184151917},{"phrase":" money","prob":0.225811891145},{"phrase":" motivation","prob":0.0926356531028}]},{"topicID":9,"strength":10,"labels":[{"phrase":"prototype","prob":0.298665400282},{"phrase":" real web server","prob":0.17533364993},{"phrase":" web sites","prob":0.17533364993},{"phrase":" web programming","prob":0.17533364993},{"phrase":" web users","prob":0.17533364993}]},{"topicID":10,"strength":8,"labels":[{"phrase":"'reply'","prob":0.267809809442},{"phrase":" button","prob":0.218946001648},{"phrase":" back button","prob":0.218946001648},{"phrase":" seconds","prob":0.177124396867},{"phrase":" proxy","prob":0.117173790394}]}],
+
+"author":"timothy",
+"date":"1243498080000",
+"title":"Hackers Breached US Army Servers",
+"sent": [{"linePolarity":1.33333333333,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"1", "sent":"An anonymous reader writes A Turkish hacking ring has broken into 2 sensitive US Army servers according to a new investigation uncovered by InformationWeek.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"2", "sent":"The hackers who go by the name m0sted and are based in Turkey penetrated servers at the Armys McAlester Ammunition Plant in Oklahoma in January.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"3", "sent":"Users attempting to access the site were redirected to a page featuring a climatechange protest.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"4", "sent":"In Sept 2007 the hackers breached Army Corps of Engineers servers.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"5", "sent":"That hack sent users to a page containing antiAmerican and antiIsraeli rhetoric.","sentimentwords":[]},{"linePolarity":1.5,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":2, "goldlabel":"sql injection attacks", "sentid":"6", "sent":"The hackers used simple SQL Server injection techniques to gain access.","sentimentwords":[]},{"linePolarity":0.579166666667,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"7", "sent":"Thats troubling because it shows a major Army security lapse and also the ability to bypass supposedly sophisticated Defense Department tools and procedures designed to prevent such breaches.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"28129295",
+"author":"Anonymous1",
+"parent":"",
+"date":"1243501800000",
+"modeclass":"None",
+"modescore":"0",
+"title":"wood for the trees",
+"sent": [{"linePolarity":-0.5,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"8", "sent":"when you are busy trying to defend against the most advanced crackers around and whatever complex tools they are using its probably easy to overlook the simpler stuff","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"28129909",
+"author":"Anonymous16",
+"parent":"28129295",
+"date":"1243504140000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:wood for the trees",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"78", "sent":"I have worked with the U.S. Army Network Engineers.","sentimentwords":[]},{"linePolarity":-4.0,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"79", "sent":"I was apalled at their lack of knowledge and understanding of security.","sentimentwords":[{"word":"apalled","polarity":-4.0}]}]
+},
+{
+
+
+"commentid":"28131615",
+"author":"AHuxley",
+"parent":"28129295",
+"date":"1243511640000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:wood for the trees",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":5, "goldlabel":"vulnerability of microsoft servers", "sentid":"127", "sent":"most advanced and Microsoft?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":5, "goldlabel":"vulnerability of microsoft servers", "sentid":"128", "sent":"Giggles :  Gary McKinnon showed the way in :","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28133595",
+"author":"alfs_boner",
+"parent":"28129295",
+"date":"1243522680000",
+"modeclass":"None",
+"modescore":"-1",
+"title":"Re:wood for the trees",
+"sent": [{"linePolarity":-0.666666666667,"systemtopicid":4, "systemlabel":"military security", "topicid":10, "goldlabel":"hackers vs crackers", "sentid":"157", "sent":"when you are busy trying to defend against the most advanced crackers around","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":10, "goldlabel":"hackers vs crackers", "sentid":"158", "sent":"Are you serious?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":10, "goldlabel":"hackers vs crackers", "sentid":"159", "sent":"Are you really going to parrot that asinine hacker vs. cracker bullshit in 2009?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":10, "goldlabel":"hackers vs crackers", "sentid":"160", "sent":"Youre like one of those stranded Japanese soldiers who thinks World War II is still going on.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"28129327",
+"author":"dkleinsc",
+"parent":"",
+"date":"1243501860000",
+"modeclass":"Funny",
+"modescore":"4",
+"title":"In other words ",
+"sent": [{"linePolarity":-0.375,"systemtopicid":4, "systemlabel":"military security", "topicid":3, "goldlabel":"military contractors and developers", "sentid":"9", "sent":"as usual military contracting companies provided overhyped shoddy work to the military who either didnt know better or didnt care.Of course I thought it was going to be as simple as knowing that the password was Joshua.","sentimentwords":[{"word":"shoddy","polarity":-4.0}]}]
+,"children":[
+{
+
+
+"commentid":"28129429",
+"author":"Anonymous4",
+"parent":"28129327",
+"date":"1243502160000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:In other words ",
+"sent": [{"linePolarity":-0.3,"systemtopicid":4, "systemlabel":"military security", "topicid":3, "goldlabel":"military contractors and developers", "sentid":"17", "sent":"A lot of defense spending is basically taxpayers helping out some overpaid wellconnected idiots.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"28131629",
+"author":"AHuxley",
+"parent":"28129429",
+"date":"1243511760000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:In other words ",
+"sent": [{"linePolarity":-16.2,"systemtopicid":4, "systemlabel":"military security", "topicid":3, "goldlabel":"military contractors and developers", "sentid":"129", "sent":"They used to work for the US mil but hated it so much.","sentimentwords":[{"word":"hated","polarity":-16.2}]},{"linePolarity":-1.25,"systemtopicid":4, "systemlabel":"military security", "topicid":3, "goldlabel":"military contractors and developers", "sentid":"130", "sent":"Now they sell their skills back at 3X the price as contractors and do not get treated like trash.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":3, "goldlabel":"military contractors and developers", "sentid":"131", "sent":"Small tip US mil treat your men and woman right.","sentimentwords":[]}]
+}
+]
+}
+]
+},
+{
+
+
+"commentid":"28129347",
+"author":"Anonymous2",
+"parent":"",
+"date":"1243501920000",
+"modeclass":"Funny",
+"modescore":"5",
+"title":"I know this is old but",
+"sent": [{"linePolarity":0,"systemtopicid":2, "systemlabel":"base", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"10", "sent":"All your base are belong to us","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"28131471",
+"author":"Onymous_Coward",
+"parent":"28129347",
+"date":"1243510980000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:I know this is old but",
+"sent": [{"linePolarity":0,"systemtopicid":2, "systemlabel":"base", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"126", "sent":"Take off every Information Aggressor Squadron","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28132977",
+"author":"Anonymous31",
+"parent":"28129347",
+"date":"1243518600000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:I know this is old but",
+"sent": [{"linePolarity":0,"systemtopicid":2, "systemlabel":"base", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"153", "sent":"Make your time","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"base", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"154", "sent":"HAHAHAHAHA","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28145031",
+"author":"Anonymous42",
+"parent":"28129347",
+"date":"1243597620000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:I know this is old but",
+"sent": [{"linePolarity":0,"systemtopicid":2, "systemlabel":"base", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"229", "sent":"except the bases in Turkey","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"28129381",
+"author":"avandesande",
+"parent":"",
+"date":"1243502040000",
+"modeclass":"None",
+"modescore":"1",
+"title":"No it isnt",
+"sent": [{"linePolarity":-1.1,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"11", "sent":"Thats troubling because it shows a major Army security lapse and also the ability to bypass supposedly sophisticated Defense Department tools and procedures designed to prevent such breaches.Who know where these outward facing servers reside?","sentimentwords":[{"word":"lapse","polarity":-4.0}]},{"linePolarity":2.0,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"12", "sent":"Having outward websites vandalized says nothing about the security of an organizations networks.","sentimentwords":[{"word":"security","polarity":2.0}]}]
+,"children":[
+{
+
+
+"commentid":"28141807",
+"author":"Gallomimia",
+"parent":"28129381",
+"date":"1243626120000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:No it isnt",
+"sent": [{"linePolarity":-0.75,"systemtopicid":4, "systemlabel":"military security", "topicid":6, "goldlabel":"server security and firewall", "sentid":"220", "sent":"Or this could be a simple technique by the information security agents to create a sort of honeypot for hackers to target so they can keep the serious information out of the crosshairs.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":6, "goldlabel":"server security and firewall", "sentid":"221", "sent":"Such as the F35","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"28129387",
+"author":"TheSpoom",
+"parent":"",
+"date":"1243502040000",
+"modeclass":"Flamebait",
+"modescore":"0",
+"title":"Wait",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":5, "goldlabel":"vulnerability of microsoft servers", "sentid":"13", "sent":"The US Army uses Windows servers?","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"28129997",
+"author":"Finallyjoined___",
+"parent":"28129387",
+"date":"1243504440000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Wait",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":5, "goldlabel":"vulnerability of microsoft servers", "sentid":"84", "sent":"The Royal Navy now uses Windows for Warships :","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28160109",
+"author":"TheSpoom",
+"parent":"28129387",
+"date":"1243799640000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Wait",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"249", "sent":"Mods: I dont think this is flamebait or at least I never intended it to be.","sentimentwords":[]},{"linePolarity":0.625,"systemtopicid":4, "systemlabel":"military security", "topicid":5, "goldlabel":"vulnerability of microsoft servers", "sentid":"250", "sent":"Im just surprised... generally organizations that care about security above other issues tend to go with a Unixbased system.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":4, "systemlabel":"military security", "topicid":5, "goldlabel":"vulnerability of microsoft servers", "sentid":"251", "sent":"I never said there wasnt a place for Windows servers just that Im kinda surprised that the army apparently prefers them over *nix.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"28129399",
+"author":"Anonymous3",
+"parent":"",
+"date":"1243502100000",
+"modeclass":"Funny",
+"modescore":"4",
+"title":"Amateurs",
+"sent": [{"linePolarity":1.0,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"14", "sent":"If they want to prove a point they have to stop targeting US Defense facilities.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"15", "sent":"Hack a serious portal like Slashdot if you can","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"16", "sent":"Ha","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"28132127",
+"author":"Anonymous24",
+"parent":"28129399",
+"date":"1243514220000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Amateurs",
+"sent": [{"linePolarity":-2.025,"systemtopicid":4, "systemlabel":"military security", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"134", "sent":"So long as the work involves hack and US Government  it doesnt matter what really happened.","sentimentwords":[{"word":"So","polarity":-2.025}]},{"linePolarity":-0.892857142857,"systemtopicid":4, "systemlabel":"military security", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"135", "sent":"Remember both the US and now Canada are trying to convince us that Cyberwars are more dangerous then conventional war and they need more examples to justify their outrageous budgets.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":4, "systemlabel":"military security", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"136", "sent":"*users.slashdot.org will not fall for it but *.gov and *.gc.ca are.","sentimentwords":[{"word":"not","polarity":2.0}]}]
+},
+{
+
+
+"commentid":"28132599",
+"author":"Anonymous30",
+"parent":"28129399",
+"date":"1243516620000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Amateurs",
+"sent": [{"linePolarity":2.0,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"146", "sent":"Oh no a web page.If somebody were able to get into SIPRnet that would be proving a point.","sentimentwords":[{"word":"were","polarity":2.0}]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"147", "sent":"Not that we would hear about it probably.Put your pants back on this is bullshit.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"28129431",
+"author":"Anonymous5",
+"parent":"",
+"date":"1243502220000",
+"modeclass":"Interestin",
+"modescore":"4",
+"title":"Amazing",
+"sent": [{"linePolarity":-0.25,"systemtopicid":5, "systemlabel":"secure code", "topicid":2, "goldlabel":"sql injection attacks", "sentid":"18", "sent":"Pardon the rant but can anyone tell me why were still having people write code that is subject to SQL injection attacks?I mean sometimes potential buffer overflows in CC programs can be tricky to notice.","sentimentwords":[]},{"linePolarity":-2.23333333333,"systemtopicid":5, "systemlabel":"secure code", "topicid":2, "goldlabel":"sql injection attacks", "sentid":"19", "sent":"Writing threading code thats not subject to deadlock or starvation can often be a challenge.But isnt code thats subject to SQL injection attacks just blindingly amazingly obvious at first glance?","sentimentwords":[{"word":"starvation","polarity":-4.5},{"word":"attacks","polarity":-3.0},{"word":"deadlock","polarity":-1.5},{"word":"amazingly","polarity":-3.9},{"word":"blindingly","polarity":-1.5},{"word":"just","polarity":1.0}]}]
+,"children":[
+{
+
+
+"commentid":"28129697",
+"author":"Lord_Ender",
+"parent":"28129431",
+"date":"1243503060000",
+"modeclass":"Insightful",
+"modescore":"4",
+"title":"Re:Amazing",
+"sent": [{"linePolarity":0,"systemtopicid":6, "systemlabel":"simple sql server injection", "topicid":2, "goldlabel":"sql injection attacks", "sentid":"43", "sent":"How do you know the code was recently written?","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":6, "systemlabel":"simple sql server injection", "topicid":2, "goldlabel":"sql injection attacks", "sentid":"44", "sent":"More likely the app was written years ago before the phrase sql injection was even coined.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"28132931",
+"author":"Lunzo",
+"parent":"28129697",
+"date":"1243518360000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Amazing",
+"sent": [{"linePolarity":0,"systemtopicid":6, "systemlabel":"simple sql server injection", "topicid":8, "goldlabel":"code security", "sentid":"148", "sent":"It could have been written by a newbie programmer.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":6, "systemlabel":"simple sql server injection", "topicid":8, "goldlabel":"code security", "sentid":"149", "sent":"A lot of ODBCJDBCInsert DB connector tutorials I saw even a few years ago do dodgy stuff like string concatenation with the user input instead of proper parametrization.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":6, "systemlabel":"simple sql server injection", "topicid":8, "goldlabel":"code security", "sentid":"150", "sent":"Even at uni the databases lecturer didnt mention parameter queries while teaching about JDBC.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":6, "systemlabel":"simple sql server injection", "topicid":8, "goldlabel":"code security", "sentid":"151", "sent":"All his examples joined strings.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":6, "systemlabel":"simple sql server injection", "topicid":8, "goldlabel":"code security", "sentid":"152", "sent":"Parameters should have been one of the first things he mentioned about DB programming and not using them in an assignment should have been an autofail.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"28129785",
+"author":"Anonymous13",
+"parent":"28129431",
+"date":"1243503480000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"Re:Amazing",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":8, "goldlabel":"code security", "sentid":"50", "sent":"Id like you to stop by my work and bludgeon a few developers of mine over the head if you would.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":4, "systemlabel":"military security", "topicid":8, "goldlabel":"code security", "sentid":"51", "sent":"Seems theyre all too busy posting on a site called BackSlash or something to check their code.","sentimentwords":[{"word":"busy","polarity":-1.5},{"word":"too","polarity":-4.5}]}]
+},
+{
+
+
+"commentid":"28130957",
+"author":"jeff4747",
+"parent":"28129431",
+"date":"1243508460000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Amazing",
+"sent": [{"linePolarity":-0.166666666667,"systemtopicid":9, "systemlabel":"prototype", "topicid":3, "goldlabel":"military contractors and developers", "sentid":"100", "sent":"As mentioned by other posters since we dont know how old the system is we cant really measure it against modern perceptions.In addition they could be a victim of this kind of thing: Contractor:  Wed like to make a prototype for a web site that will do XYZ.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"prototype", "topicid":3, "goldlabel":"military contractors and developers", "sentid":"101", "sent":"Govt: K heres some cash.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":9, "systemlabel":"prototype", "topicid":3, "goldlabel":"military contractors and developers", "sentid":"102", "sent":"Contractor:  Heres a prototype now can we have some cash to convert it from a prototype into a real system?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"prototype", "topicid":3, "goldlabel":"military contractors and developers", "sentid":"103", "sent":"Govt: Nah.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"prototype", "topicid":3, "goldlabel":"military contractors and developers", "sentid":"104", "sent":"Id have to fill out a lot of paperwork for that.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":9, "systemlabel":"prototype", "topicid":3, "goldlabel":"military contractors and developers", "sentid":"105", "sent":"Well just use the prototype.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28131367",
+"author":"Yvanhoe",
+"parent":"28129431",
+"date":"1243510440000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Amazing",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"124", "sent":"It is not people still writting such code it is people still using such code.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":8, "goldlabel":"code security", "sentid":"125", "sent":"A website that has accumulated information and that has been working correctly for 10 years is not something most people are willing to rewrite.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28134871",
+"author":"mjwx",
+"parent":"28129431",
+"date":"1243533300000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Amazing",
+"sent": [{"linePolarity":-3.0,"systemtopicid":4, "systemlabel":"military security", "topicid":2, "goldlabel":"sql injection attacks", "sentid":"168", "sent":"Like everything else this system was built by the lowest bidder.","sentimentwords":[{"word":"lowest","polarity":-3.0}]}]
+},
+{
+
+
+"commentid":"28135501",
+"author":"Yetihehe",
+"parent":"28129431",
+"date":"1243540500000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Amazing",
+"sent": [{"linePolarity":-3.0,"systemtopicid":9, "systemlabel":"prototype", "topicid":3, "goldlabel":"military contractors and developers", "sentid":"185", "sent":"Its the fault of subpar developers.","sentimentwords":[{"word":"fault","polarity":-3.0}]},{"linePolarity":-1.5,"systemtopicid":9, "systemlabel":"prototype", "topicid":8, "goldlabel":"code security", "sentid":"186", "sent":"I have some of them in my company tried to teach them but nothing works.","sentimentwords":[]},{"linePolarity":-3.6,"systemtopicid":9, "systemlabel":"prototype", "topicid":8, "goldlabel":"code security", "sentid":"187", "sent":"I still encounter some bad queries here and there in their code.","sentimentwords":[{"word":"some","polarity":-3.6}]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"prototype", "topicid":8, "goldlabel":"code security", "sentid":"188", "sent":"Add lack of ANY programmingindenting style and you have todays web programming.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28154363",
+"author":"josephcmiller2",
+"parent":"28129431",
+"date":"1243691760000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Amazing",
+"sent": [{"linePolarity":1.15,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"232", "sent":"I completely agree.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"233", "sent":"All of my SQL variables are escaped IMMEDIATELY before the executed code.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"234", "sent":"This way you can look at any SQL code Ive written and instantly know if its secure or not.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"235", "sent":"I would call this code obviously secure at least the SQL part is.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":5, "systemlabel":"secure code", "topicid":2, "goldlabel":"sql injection attacks", "sentid":"236", "sent":"It may still contain bugs but SQL injection wont be possible.","sentimentwords":[{"word":"possible","polarity":2.0}]},{"linePolarity":1.5,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"237", "sent":"Ive seen several other safety mechanisms that escape any variables before sending them to SQLrelated functions but looking inside the function instead of the caller you really dont know what data you have and whether it is safe or not.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"238", "sent":"I think secure code should be obviously secure.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"239", "sent":"Of course there are those buffer overflow problems and threading etc like you mention but how about quit using sprintf and instead use snprintf?","sentimentwords":[{"word":"problems","polarity":-3.0},{"word":"quit","polarity":-3.0}]},{"linePolarity":-2.0,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"240", "sent":"WTF?  And dont give me that If I know Im just printing a simple variable and I know how long it is then its OK crap either.","sentimentwords":[{"word":"crap","polarity":-6.0},{"word":"simple","polarity":0},{"word":"long","polarity":0},{"word":"just","polarity":0}]},{"linePolarity":-2.3625,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"241", "sent":"Ever seen a calculator come up with a wrong answer that was really close?","sentimentwords":[{"word":"wrong","polarity":-3.0},{"word":"really","polarity":-1.725}]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"242", "sent":"Like 3.99897876 instead of 4?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"243", "sent":"I have.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"244", "sent":"And we all know that there have been widelyused CPUs with math processor errors.","sentimentwords":[]},{"linePolarity":-1.11666666667,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"245", "sent":"If your code isnt obviously secure I argue that its not secure.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"246", "sent":"Especially if you arent the only developer in the pipeline.","sentimentwords":[]},{"linePolarity":-0.333333333333,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"247", "sent":"We all organize this code differently in our own heads and what makes sense to one dev is confusing to another.","sentimentwords":[]},{"linePolarity":-0.925,"systemtopicid":5, "systemlabel":"secure code", "topicid":8, "goldlabel":"code security", "sentid":"248", "sent":"If the code is obviously secure most of that is eliminated anyways.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"28129443",
+"author":"Anonymous6",
+"parent":"",
+"date":"1243502220000",
+"modeclass":"Insightful",
+"modescore":"5",
+"title":"I thought Information Week was sensible",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"information week", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"20", "sent":"So much for Information Week being reasoned and sensible.","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":3, "systemlabel":"information week", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"21", "sent":"Equally troubling is the fact that the hacks appear to have originated outside the United States.","sentimentwords":[{"word":"hacks","polarity":-4.5}]},{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"information week", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"22", "sent":"Turkey is known to harbor significant elements of the alQaida network.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":3, "systemlabel":"information week", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"23", "sent":"It was not clear if m0sted has links to the terrorist group.","sentimentwords":[{"word":"not","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"information week", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"24", "sent":" Hooray for sensationalism","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"28130035",
+"author":"Anonymous20",
+"parent":"28129443",
+"date":"1243504680000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:I thought Information Week was sensible",
+"sent": [{"linePolarity":-6.75,"systemtopicid":3, "systemlabel":"information week", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"87", "sent":"Yeah thats pretty terrible.","sentimentwords":[{"word":"pretty","polarity":-6.75}]},{"linePolarity":-1.5,"systemtopicid":3, "systemlabel":"information week", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"88", "sent":"You can be equally unclear if they had links to Nazism or the Republican National Committee.","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":3, "systemlabel":"information week", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"89", "sent":"Too bad spinspotter dotbombed  http:spinspotter.com spinspotter.com","sentimentwords":[{"word":"bad","polarity":-4.5}]}]
+}
+]
+},
+{
+
+
+"commentid":"28129461",
+"author":"Manip",
+"parent":"",
+"date":"1243502340000",
+"modeclass":"Interestin",
+"modescore":"4",
+"title":"Front end compromise",
+"sent": [{"linePolarity":-0.25,"systemtopicid":4, "systemlabel":"military security", "topicid":6, "goldlabel":"server security and firewall", "sentid":"25", "sent":"Im just playing devils advocate but who puts their public website inside their defences?I know it is an extremely common practice in this country to actually put sites like these on standard third party hosting services e.g.","sentimentwords":[]},{"linePolarity":0.6,"systemtopicid":4, "systemlabel":"military security", "topicid":6, "goldlabel":"server security and firewall", "sentid":"26", "sent":"Rackspace.They set them up to be as secure as other ecommerce sites so fairly secure but without having to poke holes in a nice heavy firewall.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"28130185",
+"author":"whitefang1121",
+"parent":"28129461",
+"date":"1243505160000",
+"modeclass":"None",
+"modescore":"-1",
+"title":"Re:Front end compromise",
+"sent": [{"linePolarity":1.0,"systemtopicid":4, "systemlabel":"military security", "topicid":6, "goldlabel":"server security and firewall", "sentid":"93", "sent":"Im just playing devils advocate but who puts their public website inside their defences?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":6, "goldlabel":"server security and firewall", "sentid":"94", "sent":"George W. Bush thats who","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28131027",
+"author":"jeff4747",
+"parent":"28129461",
+"date":"1243508760000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Front end compromise",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":6, "goldlabel":"server security and firewall", "sentid":"106", "sent":"?Who says its behind their real defenses?Look its a web server on the Internet.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":6, "goldlabel":"server security and firewall", "sentid":"107", "sent":"Its gonna need at least a firewall.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":6, "goldlabel":"server security and firewall", "sentid":"108", "sent":"Just like if they used Rackspace to host it and you were behind Rackspaces firewall.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":4, "systemlabel":"military security", "topicid":6, "goldlabel":"server security and firewall", "sentid":"109", "sent":"But theres also gonna be additional defenses for other systems.And btw anything thats on the server is gonna be unclassified or somebodys goin to jail regardless of the breach.","sentimentwords":[{"word":"defenses","polarity":2.0},{"word":"breach","polarity":0}]}]
+},
+{
+
+
+"commentid":"28131209",
+"author":"Zapotek",
+"parent":"28129461",
+"date":"1243509540000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Front end compromise",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":6, "goldlabel":"server security and firewall", "sentid":"122", "sent":"Devils advocate?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":6, "goldlabel":"server security and firewall", "sentid":"123", "sent":"Every comment here is already against the admins of the servers...","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"28129483",
+"author":"Anonymous7",
+"parent":"",
+"date":"1243502400000",
+"modeclass":"Insightful",
+"modescore":"5",
+"title":"Hyperbole",
+"sent": [{"linePolarity":-0.333333333333,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"27", "sent":"I didnt bother to RTFA but summary is inflamatory at best.A publicfacing highprofile perception server gets compromised?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"28", "sent":"Thats not news.Lets say it is news for a minute.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"29", "sent":"What was the budget for this publicfacing project?","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"30", "sent":"This is not a major Army security lapse by any stretch of the imagination.Of course my line of thinking wouldnt be widely accepted because it ignores the emotional response that the summary probably provokes in most people.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"28134293",
+"author":"nametaken",
+"parent":"28129483",
+"date":"1243527720000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Hyperbole",
+"sent": [{"linePolarity":-0.1,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"166", "sent":"Seems we dont have to know much about the situation to know one thing... a major Army security lapse is more like say strategic radio comm in the clear close enough to be intercepted by the enemy and results in casualties.A public facing website that gets scriptkiddied by some asshat from Turkey that thinks exploiting a site by SQL injection is UberL33t is not a major lapse.","sentimentwords":[]},{"linePolarity":1.95,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"167", "sent":"Im pretty sure this is not weighing heavily on some 5stars mind.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"28129555",
+"author":"Anonymous8",
+"parent":"",
+"date":"1243502580000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Basic Security Principles",
+"sent": [{"linePolarity":-0.583333333333,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"31", "sent":"A chain is not stronger than its weakest link.A simple and powerful principle when dealing with security whatever side of the law or order you are.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28129557",
+"author":"Anonymous9",
+"parent":"",
+"date":"1243502640000",
+"modeclass":"None",
+"modescore":"1",
+"title":"any good military has",
+"sent": [{"linePolarity":3.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"32", "sent":"1. good tactics2.","sentimentwords":[{"word":"good","polarity":3.0}]},{"linePolarity":0.6,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"33", "sent":"the ability to adapt new tactics as previously good tactics become irrelevantone way a tactic becomes irrelevant is changing battlefield conditions.","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"34", "sent":"you dont fight in a swamp the way you fight in a desert for instancewell the internet is valid battlefield.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"35", "sent":"and you fight on it with new tactics.","sentimentwords":[{"word":"new","polarity":2.0}]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"36", "sent":"it remains to be seen now if the us military understands that1.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"37", "sent":"it needs to take this battlefield seriously2.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"38", "sent":"it can develop good tactics to fight on this battlefieldbut as it stands now a bunch of teenagers are thoroughly and repeatedly trouncing the us military","sentimentwords":[{"word":"stands","polarity":1.0},{"word":"good","polarity":3.0},{"word":"thoroughly","polarity":2.0}]}]
+,"children":[
+{
+
+
+"commentid":"28129701",
+"author":"Anonymous11",
+"parent":"28129557",
+"date":"1243503120000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":6, "goldlabel":"server security and firewall", "sentid":"45", "sent":"Um...no.If they had managed to get passed a single firewall or router I would be impressed.","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"46", "sent":"As it stands they redirected links on a public facing webserver...yawn.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":6, "goldlabel":"server security and firewall", "sentid":"47", "sent":"I work with hundreds of other IT techs whos job it is to monitor the Army network down to every single interface and we do it 247.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28129787",
+"author":"cdrguru",
+"parent":"28129557",
+"date":"1243503480000",
+"modeclass":"Interestin",
+"modescore":"3",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":-2.6,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"52", "sent":"The US military is pretty much incapable of fighting a guerrilla war where the combatents are intermixed with civilians and civilian casualties are forbidden.","sentimentwords":[{"word":"war","polarity":-3.0},{"word":"casualties","polarity":-3.0},{"word":"pretty","polarity":-1.8}]},{"linePolarity":-1.8125,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"53", "sent":"It made Vietnam very difficult and it has made Iraq difficult as well.What we have is a guerrilla war against hackers where they are effectiely shielded in most cases by the ISP and their own countrys law enforcement.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"54", "sent":"The end result is almost an unwinnable war.We are winning in Iraq by ending the use of civilians as shields.","sentimentwords":[{"word":"winning","polarity":2.0}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"55", "sent":"We won in Vietnam by separating the combatants from the civilians.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"56", "sent":"It is going to take that sort of effort to win against hackers crackers and identity thieves.","sentimentwords":[{"word":"win","polarity":2.0}]},{"linePolarity":0.333333333333,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"57", "sent":"Unfortunately right now the effort required to do this is intense enough that it is many many times the losses so far.","sentimentwords":[]},{"linePolarity":-1.14285714286,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"58", "sent":"So I dont think they are going to do anything until the losses mount up a lot more.What makes this worse is in order to effectively combat these people it is going to take either the cooperation of foreign law enforcement or just going around them.","sentimentwords":[]},{"linePolarity":3.66666666667,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"59", "sent":"Neither one is going to make these other countries want to be our friends but they seem to be happy with the hackers running around doing whatever.","sentimentwords":[{"word":"friends","polarity":2.0},{"word":"want","polarity":1.0},{"word":"happy","polarity":8.0}]}]
+,"children":[
+{
+
+
+"commentid":"28130013",
+"author":"Anonymous19",
+"parent":"28129787",
+"date":"1243504500000",
+"modeclass":"Insightful",
+"modescore":"1",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"85", "sent":"The US I presume thats who youre referring to won in Vietnam?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"86", "sent":"By whose estimation?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28130503",
+"author":"Anonymous22",
+"parent":"28129787",
+"date":"1243506360000",
+"modeclass":"Insightful",
+"modescore":"1",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":-6.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"97", "sent":"Sorry but either you watched too many movies or you failed all your history classes.No matter what Rambo Forest Gump and Doctor Manhattan did the US lost the war in Vietnam.","sentimentwords":[{"word":"war","polarity":-3.0},{"word":"failed","polarity":-9.0},{"word":"lost","polarity":-3.0},{"word":"too","polarity":-9.0}]}]
+},
+{
+
+
+"commentid":"28130683",
+"author":"JBdH",
+"parent":"28129787",
+"date":"1243507200000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"98", "sent":"I didnt know the Viet Cong was operating in Iraq.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28131093",
+"author":"ultranova",
+"parent":"28129787",
+"date":"1243509000000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"110", "sent":"What you have is a few teenagers writing graffiti on the army bulletin board located outside the base.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"111", "sent":"And yes the War on Vandals is likely unwinnable.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"112", "sent":"However you might try declaring War on Exaggeration.We won in Vietnam by separating the combatants from the civilians.","sentimentwords":[]},{"linePolarity":-0.5,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"113", "sent":"You didnt win in Vietnam you lost and fled.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28131181",
+"author":"Gizzmonic",
+"parent":"28129787",
+"date":"1243509420000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"121", "sent":"We won in Vietnam by separating the combatants from the civilians.Are you Ho Chi Minh?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28131827",
+"author":"DeionXxX",
+"parent":"28129787",
+"date":"1243512780000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"132", "sent":"Wait... we won Vietnam?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28132077",
+"author":"Anonymous23",
+"parent":"28129787",
+"date":"1243513980000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":-3.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"133", "sent":"We won in Vietnamummmmm.. assuming youre not Vietnamese you lost that war.","sentimentwords":[{"word":"war","polarity":-3.0},{"word":"lost","polarity":-3.0}]}]
+},
+{
+
+
+"commentid":"28132369",
+"author":"Anonymous26",
+"parent":"28129787",
+"date":"1243515480000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"139", "sent":"Is this a parallel universe or something ?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28132377",
+"author":"Anonymous27",
+"parent":"28129787",
+"date":"1243515480000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"140", "sent":"Wait who and when won Vietnam?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"141", "sent":"I thought the US ran with its tail between its legs?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28132395",
+"author":"Anonymous28",
+"parent":"28129787",
+"date":"1243515540000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"142", "sent":"is that you Charlie?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28132437",
+"author":"Anonymous29",
+"parent":"28129787",
+"date":"1243515720000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"143", "sent":"We are winning in Iraq","sentimentwords":[{"word":"winning","polarity":2.0}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"144", "sent":"We won in Vietnam","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"145", "sent":"lol wut","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28133389",
+"author":"AceofSpades19",
+"parent":"28129787",
+"date":"1243521120000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"155", "sent":"So I dont think they are going to do anExcuse me?","sentimentwords":[]},{"linePolarity":-2.7,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"156", "sent":"The US did not win the Vietnam War unless the US was aiming to make Vietnam a communist country and have lots of casualties.","sentimentwords":[{"word":"lots","polarity":-3.9},{"word":"not","polarity":-1.5}]}]
+},
+{
+
+
+"commentid":"28133929",
+"author":"dbIII",
+"parent":"28129787",
+"date":"1243525200000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Wrong words  there is no war there",
+"sent": [{"linePolarity":-2.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"161", "sent":"Changing wording to create fiction in the hope that somebody gullible will hand over some cash is not the way to fight this increasingly organised and increasingly common criminal activity but unfortunately that is how the current head of the NSA and others scrambling for funding are doing it.","sentimentwords":[{"word":"fiction","polarity":-1.5},{"word":"hope","polarity":1.0},{"word":"create","polarity":2.0},{"word":"gullible","polarity":-1.5},{"word":"criminal","polarity":-6.0},{"word":"unfortunately","polarity":-6.0}]},{"linePolarity":-0.26875,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"162", "sent":"One such idiot full of cyberhype recently showed he knew less about Trojans than anyone with even a passing knowlege of european culture let alone a computer professional ie.","sentimentwords":[]},{"linePolarity":-7.5,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"163", "sent":"the Trojan horse lets the other nasty stuff in.","sentimentwords":[{"word":"nasty","polarity":-7.5}]},{"linePolarity":1.15,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"164", "sent":"Forget the guerrilla war against hackers bullshit since the people we really want to catch are fraudsters money launderers and the occassional trespasser onto military networks which makes them a spy and not some cyberterrorist.","sentimentwords":[]},{"linePolarity":-0.375,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"165", "sent":"When we escalate the words into the realm of fantasy you end up with pointless running around in circles trying to catch fantastic supervillians that may not exist instead of looking at reality and catching those that do exist.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28134909",
+"author":"mjwx",
+"parent":"28129787",
+"date":"1243533540000",
+"modeclass":"Insightful",
+"modescore":"1",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0.5,"systemtopicid":8, "systemlabel":"promise", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"169", "sent":"Thats doubtful at the best of times but for the sake of argument entertain you.by ending the use of civilians as shields.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"promise", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"170", "sent":"No you havent.","sentimentwords":[]},{"linePolarity":-0.166666666667,"systemtopicid":8, "systemlabel":"promise", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"171", "sent":"There hasnt been any noticeable decrease in violence just less reporting of it.","sentimentwords":[]},{"linePolarity":-2.625,"systemtopicid":8, "systemlabel":"promise", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"172", "sent":"Just because the US army has the media on a tight leash doesnt mean that youre winning in fact this is about the only lesson the US armed forces learned in Vietnam and in my opinion the most useless one taught.We won in Vietnam","sentimentwords":[{"word":"forces","polarity":1.0},{"word":"winning","polarity":2.0},{"word":"tight","polarity":-1.5},{"word":"the","polarity":-12.0}]},{"linePolarity":3.0,"systemtopicid":8, "systemlabel":"promise", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"173", "sent":"Ahh yes weve all seen the famous victory in Vietnam photo.","sentimentwords":[{"word":"victory","polarity":0},{"word":"famous","polarity":3.0}]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"promise", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"174", "sent":"You know the one where all the people are rushing to the roof of the US embassy to get on the last chopper out of Saigon.by separating the combatants from the civilians.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"promise", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"175", "sent":"Once again you did no such thing.","sentimentwords":[]},{"linePolarity":4.0,"systemtopicid":8, "systemlabel":"promise", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"176", "sent":"The US didnt know about half the double agents inside the South Vietnamese government and army until after the NVA rocked up in Saigon and pat them on the back.","sentimentwords":[{"word":"rocked","polarity":4.0}]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"promise", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"177", "sent":"Reality is on line 1 for you.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":8, "systemlabel":"promise", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"178", "sent":"It also wants to know how this got modded up.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28135075",
+"author":"Anonymous32",
+"parent":"28129787",
+"date":"1243535100000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"182", "sent":"WTF?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"183", "sent":"I must have woken up in a parallel universe or something.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28135315",
+"author":"Anonymous33",
+"parent":"28129787",
+"date":"1243537680000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"184", "sent":"Who are you?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28135651",
+"author":"Anonymous34",
+"parent":"28129787",
+"date":"1243628580000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"189", "sent":"WTF?","sentimentwords":[]},{"linePolarity":-1.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"190", "sent":"I must have woken up in a parallel universe.by separating the combatants from the civilians.Yeah right carpet bombing the jungle with napalm is just that a surgical strike just on the bad guys.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28139235",
+"author":"Anonymous41",
+"parent":"28129787",
+"date":"1243614000000",
+"modeclass":"Insightful",
+"modescore":"1",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":-1.25,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"200", "sent":"I do agree that fighting hacker is guerilla warfare that our government is not capable of fighting and for them the fight cannot be won.","sentimentwords":[]},{"linePolarity":0.25,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"201", "sent":"They dont underdstand that tatics and most of their cool toys dont work against an enemy such has this.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"202", "sent":"On two points you are tottaly wrong.","sentimentwords":[{"word":"wrong","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"203", "sent":"Yes we ended the use of civilians as shields.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"204", "sent":"We ended this by changing the term Civilians to Enemy Combatants.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"205", "sent":"No matter what term you use to call them the people we are killing is the local population.","sentimentwords":[]},{"linePolarity":-4.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"206", "sent":"You can call them Enemy Combatants but it doesnt change the fact they are women and children.We won in Vietnam by separating the combatants from the civilians.Dude  we lost that stupid war","sentimentwords":[{"word":"war","polarity":-3.0},{"word":"lost","polarity":-3.0},{"word":"stupid","polarity":-6.0}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"207", "sent":"I know I was there","sentimentwords":[]},{"linePolarity":-1.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"208", "sent":"The reason we lost was we could not separate the combatants from the civilians because the Combatants WERE","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"209", "sent":"the civilians","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"210", "sent":"No one except the poloticat eliete wanted us their.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"211", "sent":"They are a happy thriving peaceful country now that we are gone.The one thing the US Military has yet to figure out is you can win a war against an Army but you cannot win a war against a People except by completely wiping them out.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"212", "sent":"Yes and you must kill them all.","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"213", "sent":"If you leave a few they have babies and then you have a bunch of pissed off Grand kids in a few hundred years.","sentimentwords":[{"word":"a","polarity":-4.5}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"214", "sent":"Ask any American Indian.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"215", "sent":"After over 500 years they still give the US Government a headache.Please as a Vietnam Vet I ask you to not ever make the statement again that we won that fucking war.","sentimentwords":[{"word":"war","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"216", "sent":"We didnt.","sentimentwords":[]},{"linePolarity":1.475,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"217", "sent":"I lost a lot of good friends for nothing except to make a few people rich.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28145105",
+"author":"Anonymous43",
+"parent":"28129787",
+"date":"1243598100000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"230", "sent":"We won in Vietnam?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28166421",
+"author":"MariusBoo",
+"parent":"28129787",
+"date":"1243862820000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"252", "sent":"You didnt win in Vietnam.","sentimentwords":[{"word":"win","polarity":2.0}]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":9, "goldlabel":"vietnam and iraq warfare", "sentid":"253", "sent":"And you are not winning in Iraq.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"28129985",
+"author":"Anonymous18",
+"parent":"28129557",
+"date":"1243504440000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"81", "sent":"These were not Army sites and they are not maintained or administered by soldiers.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"82", "sent":"One is for a munitions plant where the government owns the facility but it is leased to a private company who operates it for the government.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"83", "sent":"The other is for the Corps of Engineers the guys who do things like make sure dams dont have any leaks.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28130369",
+"author":"rampant_poodle",
+"parent":"28129557",
+"date":"1243505760000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":4.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"95", "sent":"Continuing the military analogy...  What great battles have been won purely by defense?","sentimentwords":[{"word":"defense","polarity":0},{"word":"great","polarity":4.0},{"word":"purely","polarity":0}]},{"linePolarity":0.5,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"96", "sent":"Denying yourself he ability to reach out and touch someone will always give the advantage to those  who seek to blow you up  or to bring your server down.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28131133",
+"author":"jeff4747",
+"parent":"28129557",
+"date":"1243509240000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:any good military has",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"114", "sent":"Not really.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"115", "sent":"Do you have any idea just how many computers have .mil addresses?","sentimentwords":[]},{"linePolarity":-1.625,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"116", "sent":"If somebody screwed up on the configuration for an infinitesimally small percentage of them thats still a lot of systems open to attack.","sentimentwords":[]},{"linePolarity":-0.3,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"117", "sent":"And the script kiddies will get lucky.But the US military also doesnt talk about their own cyber offensive and defensive capabilities for obvious reasons.","sentimentwords":[]},{"linePolarity":0.925,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"118", "sent":"Which leads to the erroneous presumption that such capabilities dont exist.Besides these kinds of stories are great for getting additional funding for somebodys pet project.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"119", "sent":"Much like Kennedys complaining about the Missile Gap when he beat Nixon.","sentimentwords":[{"word":"complaining","polarity":-3.0},{"word":"beat","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"120", "sent":"No such gap existed but it let Kennedy spend a lot of money fixing the gap.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"28129591",
+"author":"TheRealMindChild",
+"parent":"",
+"date":"1243502760000",
+"modeclass":"None",
+"modescore":"1",
+"title":"pfffft",
+"sent": [{"linePolarity":0.25,"systemtopicid":8, "systemlabel":"promise", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"39", "sent":"This is what you get when you recruit kids out of high school and renege on the promise of the money they will get for joining up.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"promise", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"40", "sent":"It is communismonastick.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":8, "systemlabel":"promise", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"41", "sent":"Where is the motivation to do well","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28129599",
+"author":"Anonymous10",
+"parent":"",
+"date":"1243502760000",
+"modeclass":"Funny",
+"modescore":"4",
+"title":"SQL Injection  *Yawn*",
+"sent": [{"linePolarity":1.0,"systemtopicid":4, "systemlabel":"military security", "topicid":2, "goldlabel":"sql injection attacks", "sentid":"42", "sent":"I think using SQL injection hasnt qualified as hacking since it showed up on XKCD.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28129741",
+"author":"akabigbro",
+"parent":"",
+"date":"1243503300000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Microsoft SQL Server",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"army security lapse", "topicid":5, "goldlabel":"vulnerability of microsoft servers", "sentid":"48", "sent":"Hmm... Not surprised.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28129757",
+"author":"Anonymous12",
+"parent":"",
+"date":"1243503360000",
+"modeclass":"None",
+"modescore":"0",
+"title":"This",
+"sent": [{"linePolarity":-1.5,"systemtopicid":2, "systemlabel":"base", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"49", "sent":"Makes my balls itch.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28129791",
+"author":"senorpoco",
+"parent":"",
+"date":"1243503540000",
+"modeclass":"None",
+"modescore":"1",
+"title":"the only winning move is not to play",
+"sent": [{"linePolarity":1.0,"systemtopicid":4, "systemlabel":"military security", "topicid":6, "goldlabel":"server security and firewall", "sentid":"60", "sent":"Start by protecting against the simple stuff and work up.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28129799",
+"author":"iPhr0stByt3",
+"parent":"",
+"date":"1243503540000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Oh noes",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"61", "sent":"Oh no they redirected web users.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":8, "systemlabel":"promise", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"62", "sent":"My goodness does this mean well see missles flying overhead soon?","sentimentwords":[{"word":"goodness","polarity":2.0}]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"63", "sent":"Seriously every department in the world has trojans in some form inside the network.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"promise", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"64", "sent":"But retrieving the secretaries mail and retrieving classified information are different things.","sentimentwords":[]},{"linePolarity":-2.25,"systemtopicid":8, "systemlabel":"promise", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"65", "sent":"Albeit redirecting users IS a mediocre risk but since when does .","sentimentwords":[{"word":"risk","polarity":-1.5},{"word":"mediocre","polarity":-3.0}]},{"linePolarity":-3.0,"systemtopicid":8, "systemlabel":"promise", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"66", "sent":"care about mediocre overhyped news?","sentimentwords":[{"word":"mediocre","polarity":-3.0}]}]
+},
+{
+
+
+"commentid":"28129817",
+"author":"stuntpope",
+"parent":"",
+"date":"1243503660000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Sensitive",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"67", "sent":"It appears the servers in question were used for serving up web sites.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"68", "sent":"Probably publiclyfacing web sites.","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"69", "sent":"So what sensitive information was at risk?","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"70", "sent":"There are already regulations about what content can be approved to sit on a DoD server with a publiclyfacing web site.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28129841",
+"author":"Celeste_R",
+"parent":"",
+"date":"1243503720000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Policies that are better",
+"sent": [{"linePolarity":-0.375,"systemtopicid":4, "systemlabel":"military security", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"71", "sent":"Cue a new cold war information protection policy","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":4, "systemlabel":"military security", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"72", "sent":"Dibs on the grey goo defense","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28129849",
+"author":"Anonymous14",
+"parent":"",
+"date":"1243503840000",
+"modeclass":"Insightful",
+"modescore":"3",
+"title":"Again",
+"sent": [{"linePolarity":0,"systemtopicid":10, "systemlabel":"'reply'", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"73", "sent":"Again?Slashdot requires you to wait longer between hitting reply and submitting a comment.Its been 17 seconds since you hit reply.Chances are youre behind a firewall or proxy or clicked the Back button to accidentally reuse a form.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"'reply'", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"74", "sent":"Please try again.","sentimentwords":[]},{"linePolarity":-2.475,"systemtopicid":10, "systemlabel":"'reply'", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"75", "sent":"If the problem persists and all other options have been tried contact the site administrator.So what do I need to do type really really slow?","sentimentwords":[{"word":"problem","polarity":-3.0},{"word":"tried","polarity":0},{"word":"really","polarity":-1.95}]}]
+,"children":[
+{
+
+
+"commentid":"28130821",
+"author":"commodoresloat",
+"parent":"28129849",
+"date":"1243507860000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Again",
+"sent": [{"linePolarity":0,"systemtopicid":10, "systemlabel":"'reply'", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"99", "sent":"?Maybe you can package your comment as the payload of an SQL injection?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28132303",
+"author":"Anonymous25",
+"parent":"28129849",
+"date":"1243515180000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Again",
+"sent": [{"linePolarity":0,"systemtopicid":10, "systemlabel":"'reply'", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"137", "sent":"For a site ran by and for geeks .","sentimentwords":[]},{"linePolarity":0.5,"systemtopicid":10, "systemlabel":"'reply'", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"138", "sent":"has really gone down hill.When the jscript isnt crapping out or running my cpu to the roof or my comments disappear completely provided I can actually get it to post.They really have to learn a lot about accessibility and basic scripting and stop all these redicilous changes like removing the comment count like nobody would notice.Im seconds away from finding a better homepage If it wasnt for the Idle section I wouldnt even be here now.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28137641",
+"author":"Anonymous38",
+"parent":"28129849",
+"date":"1243606380000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Again  Moderation borked too",
+"sent": [{"linePolarity":-3.75,"systemtopicid":10, "systemlabel":"'reply'", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"195", "sent":"Also annoying is that recently the Moderate button no longer appears when I use Firefox which is all the time  Its there if I use IE but if you thing Im using that rubbish to surf the web youre crazy","sentimentwords":[{"word":"annoying","polarity":-6.0},{"word":"crazy","polarity":-1.5}]},{"linePolarity":-1.9,"systemtopicid":10, "systemlabel":"'reply'", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"196", "sent":"Its only a bloody HTML button for Bobs sakeSo for the third week running here I am browsing away with 20 moderator points ready for use but without using IE no way to use them.Bring back the old Slashcode thats what I say  or at least the good bits.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"28129859",
+"author":"Anonymous15",
+"parent":"",
+"date":"1243503840000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Sript kiddies at work nothing new",
+"sent": [{"linePolarity":-0.333333333333,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"76", "sent":"Sounds like little more than defacing public military websites to boost their 1337 egos.","sentimentwords":[]},{"linePolarity":-0.975,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"77", "sent":"The real hacks the serious ones are the ones you never hear about because the perpetrators are smart enough to not go around publicly proclaiming that they broke in.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28129951",
+"author":"Anonymous17",
+"parent":"",
+"date":"1243504320000",
+"modeclass":"Funny",
+"modescore":"3",
+"title":"Cyber Security Cadence",
+"sent": [{"linePolarity":-1.2,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"80", "sent":"I dont know what Ive been toldBut Army servers are quickly pwnedYou dont need some hightech decryption machineJust a string with a semicolon in betweenI dont know what I will findWhen good Army hackers have resignedWell have a good laugh when some bored kid in ChinaPosts photos of Gen. Petraeus with a vagina","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"28137269",
+"author":"Anonymous37",
+"parent":"28129951",
+"date":"1243604100000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Cyber Security Cadence",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"193", "sent":"Full disclosure: I lold.Screw the US military pussies.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"28130129",
+"author":"Anonymous21",
+"parent":"",
+"date":"1243504980000",
+"modeclass":"None",
+"modescore":"0",
+"title":"defcon 5",
+"sent": [{"linePolarity":-3.0,"systemtopicid":4, "systemlabel":"military security", "topicid":2, "goldlabel":"sql injection attacks", "sentid":"90", "sent":"come on people sql injection attack  hackers?","sentimentwords":[{"word":"attack","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":2, "goldlabel":"sql injection attacks", "sentid":"91", "sent":"plz","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":4, "systemlabel":"military security", "topicid":2, "goldlabel":"sql injection attacks", "sentid":"92", "sent":"web server defraud is only for even more sad audience who thinks its a form of haking","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28134999",
+"author":"meyekul",
+"parent":"",
+"date":"1243534380000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Bad Taste",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"179", "sent":"Anticlimate change and antiIsraeli sites?","sentimentwords":[]},{"linePolarity":3.0,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"180", "sent":"Why didnt they at least do something funny like redirect to goatse?","sentimentwords":[{"word":"funny","polarity":3.0}]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"181", "sent":"This story would be so much better if it were Hackers RickRoll US Army Servers or something along those lines.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28136307",
+"author":"Anonymous35",
+"parent":"",
+"date":"1243593300000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Oh noes we have a X i gap ",
+"sent": [{"linePolarity":-0.75,"systemtopicid":2, "systemlabel":"base", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"191", "sent":"where X  nuclear missle strategic bomber wmd UAV cyberspaceRemember Citiziens your duty is to cower at all time and pay your tithes to your feudal masters.Remember Citizens thinking is for antiState terrorists so report all thinkers to your local Homeland Security officer.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28136679",
+"author":"Anonymous36",
+"parent":"",
+"date":"1243598400000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Subject",
+"sent": [{"linePolarity":-4.5,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"192", "sent":"Armys McAlester Ammunition Plant in Oklahoma ... Users attempting to access the site were redirected to a page featuring a climatechange protest.Who the hell would visit a Ammunition Plant website?","sentimentwords":[{"word":"hell","polarity":-4.5}]}]
+},
+{
+
+
+"commentid":"28137539",
+"author":"AP31R0N",
+"parent":"",
+"date":"1243605780000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Shouldnt that be crackers or cybercriminals",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":10, "goldlabel":"hackers vs crackers", "sentid":"194", "sent":"Shouldnt that be crackers or cybercriminals?Are we giving up on resisting the bastardization of the word hacker?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28138063",
+"author":"Anonymous39",
+"parent":"",
+"date":"1243608420000",
+"modeclass":"None",
+"modescore":"0",
+"title":"army morons",
+"sent": [{"linePolarity":1.16666666667,"systemtopicid":4, "systemlabel":"military security", "topicid":5, "goldlabel":"vulnerability of microsoft servers", "sentid":"197", "sent":"but sir we are upgrading your systems to windblast 7anyway I say good buy some more of microsoft so you will be hacked to hell you army morons","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28139205",
+"author":"Anonymous40",
+"parent":"",
+"date":"1243613760000",
+"modeclass":"None",
+"modescore":"0",
+"title":"DoD Network Security",
+"sent": [{"linePolarity":-0.375,"systemtopicid":4, "systemlabel":"military security", "topicid":1, "goldlabel":"hackers breaching US army servers", "sentid":"198", "sent":"I have personal experience with DoD networks and there is nothing particularly sophisticated about their tools and procedures.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"199", "sent":"Security of classified material comes from keeping it offline altogether and there is a difference between sensitive and classified material.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28140063",
+"author":"Hasai",
+"parent":"",
+"date":"1243618320000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Pure Garbage",
+"sent": [{"linePolarity":-0.3,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"218", "sent":"This was nothing more than a simpleminded attack on a handful of public websites containing NO classified data.The U.S. military follows a rigid security discipline of having separate network for secure black and nonsecure red traffic.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":4, "systemlabel":"military security", "topicid":4, "goldlabel":"sensationalism about the level of risk in the breach", "sentid":"219", "sent":"There is NO PHYSICAL CONNECTION between these networks and there is NO connection between the black networks and the Internet.This article was right up there with Swine Flu II: Pure sensationalism.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"28141843",
+"author":"Gallomimia",
+"parent":"",
+"date":"1243626300000",
+"modeclass":"None",
+"modescore":"1",
+"title":"MS SQL The server of choice for",
+"sent": [{"linePolarity":0,"systemtopicid":7, "systemlabel":"nuclear silos", "topicid":5, "goldlabel":"vulnerability of microsoft servers", "sentid":"222", "sent":"Nuclear Silos","sentimentwords":[]},{"linePolarity":1.15,"systemtopicid":7, "systemlabel":"nuclear silos", "topicid":5, "goldlabel":"vulnerability of microsoft servers", "sentid":"223", "sent":"I really hope not.","sentimentwords":[]},{"linePolarity":-2.41875,"systemtopicid":7, "systemlabel":"nuclear silos", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"224", "sent":"But this so called cyberwarfare that previous posters are talking about that requires outlandish budgets because its supposedly more dangerous than real warfare is only dangerous when you link weapons to computers.","sentimentwords":[{"word":"real","polarity":-1.8},{"word":"outlandish","polarity":-4.5},{"word":"more","polarity":-2.25},{"word":"only","polarity":-1.125}]},{"linePolarity":2.0,"systemtopicid":7, "systemlabel":"nuclear silos", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"225", "sent":"And here we are sitting on top of tens of thousands of nuclear bombs controlled by computers and building airplanes and tanks and robots with guns.","sentimentwords":[{"word":"top","polarity":2.0}]},{"linePolarity":0,"systemtopicid":7, "systemlabel":"nuclear silos", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"226", "sent":"It doesnt matter if theyre linked to the internet or not.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":7, "systemlabel":"nuclear silos", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"227", "sent":"The fact remains they have radio receivers that can give commands to shoot and kill people.","sentimentwords":[]},{"linePolarity":-3.9,"systemtopicid":7, "systemlabel":"nuclear silos", "topicid":7, "goldlabel":"cyberwarfare", "sentid":"228", "sent":"Please stop listing cybergraffiti and start talking about the serious problems.","sentimentwords":[{"word":"serious","polarity":-3.9}]}]
+},
+{
+
+
+"commentid":"28154243",
+"author":"josephcmiller2",
+"parent":"",
+"date":"1243690800000",
+"modeclass":"None",
+"modescore":"1",
+"title":"TSA agents could have prevented this",
+"sent": [{"linePolarity":1.0,"systemtopicid":4, "systemlabel":"military security", "topicid":6, "goldlabel":"server security and firewall", "sentid":"231", "sent":"If they had TSA agents standing at all the firewalls making each packet take off its shoes before proceeding  this could have been stopped.","sentimentwords":[]}]
+}
+]
+}

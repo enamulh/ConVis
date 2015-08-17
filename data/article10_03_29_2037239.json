@@ -1,0 +1,1012 @@
+{
+"domain":"slashdot",
+"totalTopics":"11",
+
+
+"totalLines":"223",
+
+"topics":[{"topicID":1,"strength":100,"labels":[{"phrase":"own lunar territory","prob":0.166666666667},{"phrase":" this territory","prob":0.166666666667},{"phrase":" 'warner bros cartoon' surreal territory","prob":0.166666666667},{"phrase":" acquire territory","prob":0.166666666667},{"phrase":" territory ownerships","prob":0.166666666667},{"phrase":" annexed territory","prob":0.166666666667}]},{"topicID":2,"strength":17,"labels":[{"phrase":"worth celebrity","prob":0.30910939849},{"phrase":" this guy attention","prob":0.188619594902},{"phrase":" admiration","prob":0.178542082899},{"phrase":" made lander","prob":0.107909641236},{"phrase":" made made hasn't made","prob":0.107909641236},{"phrase":" made russia","prob":0.107909641236}]},{"topicID":3,"strength":26,"labels":[{"phrase":"claim moon","prob":0.0625},{"phrase":" Moon dwellers","prob":0.0625},{"phrase":" real earth moon system","prob":0.0625},{"phrase":" moon property","prob":0.0625},{"phrase":" own moon","prob":0.0625},{"phrase":" moon treaty","prob":0.0625},{"phrase":" king moon","prob":0.0625},{"phrase":" moon fortress","prob":0.0625},{"phrase":" this moon","prob":0.0625},{"phrase":" moon right","prob":0.0625},{"phrase":" private moon","prob":0.0625},{"phrase":" annexed moon","prob":0.0625},{"phrase":" da moon","prob":0.0625},{"phrase":" entire moon","prob":0.0625},{"phrase":" moon rover","prob":0.0625},{"phrase":" moon years","prob":0.0625}]},{"topicID":4,"strength":7,"labels":[{"phrase":"well place this game","prob":0.224468205511},{"phrase":" well city","prob":0.224468205511},{"phrase":" well own sun","prob":0.224468205511},{"phrase":" planet","prob":0.187913573471},{"phrase":" space law","prob":0.138681809995}]},{"topicID":5,"strength":9,"labels":[{"phrase":"poor foetus","prob":0.168118722946},{"phrase":" retarded foetus","prob":0.168118722946},{"phrase":" spelling","prob":0.117949063798},{"phrase":" article","prob":0.0779733557587},{"phrase":" article claims","prob":0.0779733557587},{"phrase":" complete article","prob":0.0779733557587},{"phrase":" legal acquire article","prob":0.0779733557587},{"phrase":" article ii","prob":0.0779733557587},{"phrase":" flow","prob":0.0779733557587},{"phrase":" grammar","prob":0.0779733557587}]},{"topicID":7,"strength":2,"labels":[{"phrase":"big cartoon foot","prob":0.510301398644},{"phrase":" eric idle","prob":0.489698601356}]},{"topicID":8,"strength":5,"labels":[{"phrase":"retro reflectors","prob":0.554817111478},{"phrase":" lk","prob":0.445182888522}]},{"topicID":9,"strength":17,"labels":[{"phrase":"assault","prob":0.730265889527},{"phrase":" moon dwellers","prob":0.269734110473}]},{"topicID":10,"strength":32,"labels":[{"phrase":"own legal title","prob":0.202418502114},{"phrase":" legitimate title","prob":0.202418502114},{"phrase":" sure title","prob":0.202418502114},{"phrase":" job title","prob":0.202418502114},{"phrase":" private space","prob":0.190325991542}]},{"topicID":11,"strength":6,"labels":[{"phrase":"sealand btw","prob":0.502020707279},{"phrase":" system war","prob":0.12449482318},{"phrase":" orbit war","prob":0.12449482318},{"phrase":" world war iii","prob":0.12449482318},{"phrase":" mercenary war","prob":0.12449482318}]}],
+
+"author":"Soulskill",
+"date":"1269854040000",
+"title":"Lord British Claims He Owns the Moonspan classvballoonmarquee rd5spanComments:spana href144aspan",
+"sent": [{"linePolarity":-1.5,"systemtopicid":3, "systemlabel":"claim moon", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"1", "sent":"An anonymous reader writes Following the recent discovery of Richard Garriotts old moon rover the man known as Lord British has laid claim to his own lunar territory.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"2", "sent":"Moon dwellers all hail your new overlord","sentimentwords":[{"word":"new","polarity":2.0}]}]
+,"children":[
+{
+
+
+"commentid":"31662436",
+"author":"Anonymous1",
+"parent":"",
+"date":"1269857820000",
+"modeclass":"Funny",
+"modescore":"4",
+"title":"Property Values",
+"sent": [{"linePolarity":-1.5,"systemtopicid":3, "systemlabel":"claim moon", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"3", "sent":"So if another probe lands in the vicinity or roves its away across the supposed territory would Lord British then have grounds to sue for ruining the property values?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"4", "sent":"Good Lord man look at what youve done","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"5", "sent":"All those tracks ruin the pristine scenery","sentimentwords":[{"word":"ruin","polarity":-6.0},{"word":"pristine","polarity":0}]}]
+,"children":[
+{
+
+
+"commentid":"31664358",
+"author":"Anonymous18",
+"parent":"31662436",
+"date":"1269867840000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Property Values",
+"sent": [{"linePolarity":-1.5,"systemtopicid":3, "systemlabel":"claim moon", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"147", "sent":"Reminds me of the short story by Robert Heinlein The Man Who Sold the Moon in 1950 and appeared later in different collections.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31664422",
+"author":"Anonymous19",
+"parent":"31662436",
+"date":"1269868140000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Property Values",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"148", "sent":"maybe he should be charged a land tax say 5 cents to every person in the world.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31664630",
+"author":"Hurricane78",
+"parent":"31662436",
+"date":"1269869220000",
+"modeclass":"Interestin",
+"modescore":"3",
+"title":"Re:Property Values",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"149", "sent":"Simple.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"150", "sent":"We declare that as he now has his own land he and that land is a country.","sentimentwords":[]},{"linePolarity":-1.0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"151", "sent":"And that that country just declared war upon us.*BOOOM*Done.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31667870",
+"author":"metacell",
+"parent":"31664630",
+"date":"1269943440000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Property Values",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"196", "sent":"War?","sentimentwords":[]},{"linePolarity":-1.66666666667,"systemtopicid":3, "systemlabel":"claim moon", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"197", "sent":"Nah just declare him to be a terrorist and we dont need to go to the trouble of declaring war.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31668180",
+"author":"philgp",
+"parent":"31664630",
+"date":"1269947820000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Property Values",
+"sent": [{"linePolarity":-0.25,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"198", "sent":"*BOOOM* adequately describes what my head did while trying to parse your post","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31668446",
+"author":"Anonymous22",
+"parent":"31664630",
+"date":"1269951420000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Property Values",
+"sent": [{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"199", "sent":"Assuming that his title is not mere vulgar affectation me must assume that the Lord British has sworn fealty to his liege HRH Queen Elizabeth II.","sentimentwords":[{"word":"not","polarity":2.0},{"word":"not","polarity":2.0}]},{"linePolarity":0.75,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":8, "goldlabel":"Space war", "sentid":"200", "sent":"Hence his title to the land exists solely at Her Majestys pleasure and dammit if you try to take what is ours we shall fight on the dust we shall fight on the landing sites we shall right on the maria we shall fight in the hills we shall never surrender.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31668808",
+"author":"Kopachris",
+"parent":"31662436",
+"date":"1269955140000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Moon Treaty",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"207", "sent":"Article 11 paragraph 2 of the Moon Treaty states:","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"208", "sent":"The moon is not subject to national appropriation by any claim of","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"209", "sent":"sovereignty by means of use or occupation or by any other means.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"210", "sent":"Of course England hasnt signed or ratified the Moon Treaty so it all kinda depends on the international reaction whether or not his claim is valid.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"211", "sent":"Links:","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"212", "sent":"Wikipedia  Moon Treaty wikipedia.org","sentimentwords":[]},{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"213", "sent":"Full text of the Moon Treaty islandone.org","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31662444",
+"author":"daniel_waterfield",
+"parent":"",
+"date":"1269857880000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"Headline",
+"sent": [{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"6", "sent":"As headlines go this is into the warner bros cartoon surreal territory.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"7", "sent":"Whats next?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"8", "sent":"Lord British holds earth to ransom from his moon fortress","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31662622",
+"author":"Moraelin",
+"parent":"31662444",
+"date":"1269858540000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Lemme guess",
+"sent": [{"linePolarity":-2.5,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"25", "sent":"Actually if I were to guess what next it would be Lord British accuses cabbages of conspiring to invade his lunar domain.","sentimentwords":[{"word":"accuses","polarity":-1.5},{"word":"conspiring","polarity":-3.0},{"word":"invade","polarity":-3.0}]}]
+},
+{
+
+
+"commentid":"31663130",
+"author":"elynnia",
+"parent":"31662444",
+"date":"1269861120000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Headline",
+"sent": [{"linePolarity":-3.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"87", "sent":"Garriott added that his assertion is somewhat tongue in cheek.","sentimentwords":[{"word":"cheek","polarity":-3.0}]},{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"88", "sent":"a less dodgy source space.com","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31663784",
+"author":"interkin3tic",
+"parent":"31662444",
+"date":"1269864900000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Headline",
+"sent": [{"linePolarity":-1.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":8, "goldlabel":"Space war", "sentid":"129", "sent":"Lord British holds earth to ransom from his moon fortressI dont know but if I see this guy Ill be tempted to start an interorbital* war by punching the moons ambasador.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":8, "goldlabel":"Space war", "sentid":"130", "sent":"Not that I bear any ill will to the guy just want to get into the history books.","sentimentwords":[]},{"linePolarity":3.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":8, "goldlabel":"Space war", "sentid":"131", "sent":" *I suppose I should learn what type of war Ill be starting and this is probably a good place to find that out.","sentimentwords":[{"word":"war","polarity":0},{"word":"good","polarity":3.0}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":8, "goldlabel":"Space war", "sentid":"132", "sent":"What would that be called?","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":9, "systemlabel":"assault", "topicid":8, "goldlabel":"Space war", "sentid":"133", "sent":"I mean besides assault.","sentimentwords":[{"word":"assault","polarity":-3.0}]},{"linePolarity":-3.0,"systemtopicid":11, "systemlabel":"sealand btw", "topicid":8, "goldlabel":"Space war", "sentid":"134", "sent":"Intrasolar system war?","sentimentwords":[{"word":"war","polarity":-3.0}]},{"linePolarity":-3.0,"systemtopicid":11, "systemlabel":"sealand btw", "topicid":8, "goldlabel":"Space war", "sentid":"135", "sent":"Intertidal orbit war?","sentimentwords":[{"word":"war","polarity":-3.0}]}]
+},
+{
+
+
+"commentid":"31663786",
+"author":"Low_Ranked_Craig",
+"parent":"31662444",
+"date":"1269864900000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Headline",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"136", "sent":"Yeah.","sentimentwords":[]},{"linePolarity":-1.03333333333,"systemtopicid":3, "systemlabel":"claim moon", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"137", "sent":"Hes gonna be real pissed when Marvin destroys the Earth moon system to enhance his view of Venus...","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31662448",
+"author":"Anonymous2",
+"parent":"",
+"date":"1269857880000",
+"modeclass":"None",
+"modescore":"0",
+"title":"moo",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"9", "sent":"moo","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662456",
+"author":"Low_Ranked_Craig",
+"parent":"",
+"date":"1269857880000",
+"modeclass":"Funny",
+"modescore":"1",
+"title":"And Im a Duke of Sealand",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"10", "sent":"So what?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":11, "systemlabel":"sealand btw", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"11", "sent":"http:uncyclopedia.wikia.comwikiSealand wikia.com","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31662982",
+"author":"Anonymous7",
+"parent":"31662456",
+"date":"1269860280000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:And Im a Duke of Sealand",
+"sent": [{"linePolarity":0,"systemtopicid":11, "systemlabel":"sealand btw", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"66", "sent":"There is an actual Sealand btw....","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31665186",
+"author":"Starayo",
+"parent":"31662456",
+"date":"1269872760000",
+"modeclass":"Informativ",
+"modescore":"2",
+"title":"Re:And Im a Duke of Sealand",
+"sent": [{"linePolarity":0.5,"systemtopicid":11, "systemlabel":"sealand btw", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"162", "sent":"I think the real history wikipedia.org of Sealand is actually a little more ridiculous than uncyclopedias page.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":11, "systemlabel":"sealand btw", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"163", "sent":"After all there was a mercenary war.","sentimentwords":[{"word":"war","polarity":-3.0}]}]
+},
+{
+
+
+"commentid":"31669938",
+"author":"Anonymous23",
+"parent":"31662456",
+"date":"1269961560000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:And Im a Duke of Sealand",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"215", "sent":"Does that make you a seaman?","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31662464",
+"author":"gazbo",
+"parent":"",
+"date":"1269857940000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"TFA",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"poor foetus", "topicid":2, "goldlabel":"the original article", "sentid":"12", "sent":"Who the fuck wrote that article?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"poor foetus", "topicid":2, "goldlabel":"the original article", "sentid":"13", "sent":"The spelling grammar and flow would suggest it was a retarded foetus.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31665918",
+"author":"rubycodez",
+"parent":"31662464",
+"date":"1269878100000",
+"modeclass":"Offtopic",
+"modescore":"0",
+"title":"Re:TFA",
+"sent": [{"linePolarity":-2.25,"systemtopicid":5, "systemlabel":"poor foetus", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"179", "sent":"The poor foetus was a lobotomite you insensitive clod.","sentimentwords":[{"word":"poor","polarity":-3.0},{"word":"insensitive","polarity":-1.5}]}]
+},
+{
+
+
+"commentid":"31668552",
+"author":"tkjtkj",
+"parent":"31662464",
+"date":"1269952620000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:TFA",
+"sent": [{"linePolarity":0,"systemtopicid":5, "systemlabel":"poor foetus", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"201", "sent":".. retarded foetus ?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":5, "systemlabel":"poor foetus", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"202", "sent":"?You might begin your reeducation by using this link: http:en.wikipedia.orgwikiFoetus wikipedia.org.","sentimentwords":[]},{"linePolarity":-1.16666666667,"systemtopicid":5, "systemlabel":"poor foetus", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"203", "sent":"Your use of the word retarded suggests that you are aware of at least one IQ test appropriate to a fetus old misguided spellings are not used in science.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":5, "systemlabel":"poor foetus", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"204", "sent":"If you know of such a test kindly inform us so that we can possibly ask you to take it.","sentimentwords":[]},{"linePolarity":-2.25,"systemtopicid":5, "systemlabel":"poor foetus", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"205", "sent":"Your score will then be compared inappropriately yes but as a chastising no.So you see you have opened the door to the exploration of at least two errors: 1 archaic spelling is not scientific and 2 the presumption that you can define retarded fetus in any meaningful way.","sentimentwords":[{"word":"errors","polarity":-3.0},{"word":"presumption","polarity":-1.5},{"word":"archaic","polarity":-1.5},{"word":"not","polarity":-4.5},{"word":"meaningful","polarity":0},{"word":"inappropriately","polarity":-3.0}]},{"linePolarity":-2.01875,"systemtopicid":5, "systemlabel":"poor foetus", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"206", "sent":"I suggest you return to your pseudoerudite and disingenuous cave and beg forgiveness of the party whom you so rudely bullied.","sentimentwords":[{"word":"forgiveness","polarity":1.0},{"word":"beg","polarity":-1.5},{"word":"disingenuous","polarity":-1.5},{"word":"so","polarity":-6.075}]}]
+}
+]
+},
+{
+
+
+"commentid":"31662472",
+"author":"Power__Pentode",
+"parent":"",
+"date":"1269857940000",
+"modeclass":"None",
+"modescore":"1",
+"title":"not the entire moon",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"14", "sent":"Actually his quote in the article claims ...territory  at the very least around my rover and potentially along its point of travel.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"15", "sent":"He does not appear to be claiming that he owns the entire moon.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662486",
+"author":"PCM2",
+"parent":"",
+"date":"1269858000000",
+"modeclass":"None",
+"modescore":"1",
+"title":"This came up last time",
+"sent": [{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"16", "sent":"This claim may be new to the submitter and to Soulskill but not to Slashdot.","sentimentwords":[{"word":"new","polarity":2.0}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"17", "sent":"slashdot.org","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662506",
+"author":"GPLDAN",
+"parent":"",
+"date":"1269858120000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"His new neighbor",
+"sent": [{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"18", "sent":"In other news a man named Rainz bought the plot next to British on the moon and wondered if Lord British wanted some bread as a housewarming present.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662540",
+"author":"WillyWanker",
+"parent":"",
+"date":"1269858240000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Blowhard or blows hard your choice",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"19", "sent":"Since he cant hack it as a game developer anymore I guess hes got to do something with the millions hes scammed er earned over the years.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662568",
+"author":"assemblerex",
+"parent":"",
+"date":"1269858300000",
+"modeclass":"Informativ",
+"modescore":"2",
+"title":"The lord has already been deposed",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"20", "sent":"http:gmtristan.comthemanwhokilledlordbritish gmtristan.com","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662596",
+"author":"Anonymous3",
+"parent":"",
+"date":"1269858420000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Lord British",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"21", "sent":"Wasnt he Captain Americas sidekick?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662604",
+"author":"Anonymous4",
+"parent":"",
+"date":"1269858480000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Explorers stick a flag on new land",
+"sent": [{"linePolarity":-2.5125,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":4, "goldlabel":"Space race between the US and USSR", "sentid":"22", "sent":"and that very same though was what goes through my mind why the space race went so frantically up until the point the american flag was planted in the moon and since then no other country bothered to go.","sentimentwords":[{"word":"bothered","polarity":-3.0},{"word":"so","polarity":-2.025}]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"23", "sent":"I know that there are covenants that say such territory ownerships do not cover the moon but they said the same thing about the Arctic Circle and that didnt stop Russia from making a territorial claim.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"24", "sent":"Who knows maybe they find oil or diamonds under the lunar surface and the US might just one day say just kidding we are claiming the moon as the 51st state.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31665822",
+"author":"Artifakt",
+"parent":"31662604",
+"date":"1269877320000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Explorers stick a flag on new land",
+"sent": [{"linePolarity":-0.833333333333,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"174", "sent":"If the US manages to emplace enough population to let Luna qualify for immediate statehood ahead of anyone else occupying the land Im not sure theres anything in the UN treaty excluding doing it.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"175", "sent":"Claiming it as an annexed territory is one thing having its permanent inhabitants petition for statehood is constitutionally very much another.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31662684",
+"author":"Anonymous5",
+"parent":"",
+"date":"1269858780000",
+"modeclass":"None",
+"modescore":"0",
+"title":"The Lunar Embassy might disagree",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"26", "sent":"http:www.lunarembassy.comThe lunar embassy has been selling land on the moon for years.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"assault", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"27", "sent":"It may already be owned.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662700",
+"author":"careysub",
+"parent":"",
+"date":"1269858900000",
+"modeclass":"Insightful",
+"modescore":"4",
+"title":"Not Bloody Likely",
+"sent": [{"linePolarity":-2.25,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"28", "sent":"Garriott may or may not own a legal title to Lunokhod it is by no means a given that the auction sale was a legitimate title but there is no way buying Lunokhod gives him any ownership rights to any piece of the Moon however small.From http:www.space.comnewssovietmoonroverspacelaw100322.html space.com: Validity of ownership?","sentimentwords":[{"word":"no","polarity":-12.0},{"word":"rights","polarity":0},{"word":"Validity","polarity":1.0},{"word":"legal","polarity":1.0},{"word":"legitimate","polarity":1.0}]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"29", "sent":"Enter space lawyer Joanne Irene Gabrynowicz.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"30", "sent":"She is Director of the National Center for Remote Sensing Air and Space Law and Research Professor of Law at the University of Mississippi.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"31", "sent":"The soundness of a property right depends in large part on the integrity of the documents that memorialize the right Gabrynowicz told SPACE.com via email.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"32", "sent":"This is why property buyers conduct title searches before buying property.","sentimentwords":[]},{"linePolarity":1.66666666667,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"33", "sent":"They want to be sure that the title is good.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"34", "sent":"Gabrynowicz said that without reading the papers or knowing how they were processed and by whom she cant speak to the validity of the ownership of a space object purchased at auction.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"35", "sent":"However a contention that buying a space object that landed on the lunar surface from a sovereign nation gives rise to a property right to the territory under it is wrong Gabrynowicz said.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"36", "sent":"Gabrynowicz said that StatesParties to the Outer Space Treaty of 1966 cannot acquire lunar territory by landing an object on the moon.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"37", "sent":"The USSR was and Russia is a party to the Outer Space Treaty she added.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"38", "sent":"It did not acquire the territory under the object when it landed.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"39", "sent":"One cannot sell what one does not own.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"40", "sent":"Since USSRRussia did not have a property right to the territory under the landed object there was nothing to sell.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31663288",
+"author":"Brian_Boitano",
+"parent":"31662700",
+"date":"1269862140000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Not Bloody Likely",
+"sent": [{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"104", "sent":"Joanne Irene Gabrynowicz.... Space Lawyer","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31663516",
+"author":"Anonymous13",
+"parent":"31662700",
+"date":"1269863280000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Not Bloody Likely",
+"sent": [{"linePolarity":-1.5,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"113", "sent":"Didnt some company in Neveda try selling titlesdeeds to the Moon years back?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"114", "sent":"You know I dont think any of those titlesdeeds are going to be worth anything.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"115", "sent":"I think true ownership will be when someone actually takes up residence or makes use of a given property on the Moon.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"116", "sent":"No pointing and saying Hey that there its mine","sentimentwords":[]},{"linePolarity":-0.05,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"117", "sent":"Im not a lawyer but common sense sort of dictates this doesnt it?","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"118", "sent":"I mean under whose authority will those titlesdeeds be enforced?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"119", "sent":"Were all here back on Earth afterall.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31663980",
+"author":"TheRaven64",
+"parent":"31662700",
+"date":"1269865920000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Not Bloody Likely",
+"sent": [{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"138", "sent":"Now theres a job title with a Bmovie behind it...","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31663988",
+"author":"Anonymous15",
+"parent":"31662700",
+"date":"1269865980000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Re:Not Bloody Likely",
+"sent": [{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"139", "sent":"So at best he might have an implicit easement wikipedia.org that lets him park his stuff on the surface of the Moon which is otherwise public property Im thinking of this type wikipedia.org.At worst he might owe a few decades of parking fees for leaving his stuff unattended on the commons.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31664728",
+"author":"raddan",
+"parent":"31662700",
+"date":"1269869820000",
+"modeclass":"Insightful",
+"modescore":"2",
+"title":"Its much simpler than that",
+"sent": [{"linePolarity":1.3,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"152", "sent":"Most people around here are taking Garriotts bait and are picking apart the legal ramifications of his rover ownership but its much simpler than that.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"153", "sent":"You own something if you can defend it.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"154", "sent":"I.e. you have an army.","sentimentwords":[]},{"linePolarity":-1.75,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"155", "sent":"Treaties are meaningless outside the context of force.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"156", "sent":"Ever wonder why making someone follow a contract is called enforcement?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"157", "sent":"And because R.A.H.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"158", "sent":"is taken as Gospel around here: the moon dwellers didnt gain sovereignty until they showed that they could pummel the bejeezus out of Earth.","sentimentwords":[{"word":"gain","polarity":-3.0}]},{"linePolarity":1.0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"159", "sent":"It turns out that it actually works that way in real life.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31662746",
+"author":"Zaphod_The_42nd",
+"parent":"",
+"date":"1269859140000",
+"modeclass":"Flamebait",
+"modescore":"-1",
+"title":"Im so sick of Garriot ENOUGH",
+"sent": [{"linePolarity":0,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"41", "sent":"Can we stop giving this guy attention?","sentimentwords":[]},{"linePolarity":1.08333333333,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"42", "sent":"Hes hardly worth all the celebrity and admiration he seems to be getting lately and likely seeking for himself.","sentimentwords":[]},{"linePolarity":-0.44,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"43", "sent":"He made a few crap games back when nobody knew how to make MMORPGs yet and capitalized on it made a fortune and HASNT MADE A SINGLE DECENT GAME SINCE.","sentimentwords":[]},{"linePolarity":-1.75,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"44", "sent":"Now just cuz his dad was a TRUE astronaut he bought his way into space with his ridiculous riches and he expects to be looked up to?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"45", "sent":"Going around on talk shows acting like hes the talk of the town?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"46", "sent":"Now THIS?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"47", "sent":"Okay Im done.","sentimentwords":[]},{"linePolarity":-3.0,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"48", "sent":"I never want to hear about Richard Garriot again.","sentimentwords":[{"word":"never","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"49", "sent":"He hasnt done anything worth respecting.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31663290",
+"author":"corbettw",
+"parent":"31662746",
+"date":"1269862140000",
+"modeclass":"Insightful",
+"modescore":"2",
+"title":"Re:Im so sick of Garriot ENOUGH",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"well place this game", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"105", "sent":"?Well if hes in space then arent we all looking up to him?","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31665878",
+"author":"IgnoramusMaximus",
+"parent":"31663290",
+"date":"1269877800000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Im so sick of Garriot ENOUGH",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"well place this game", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"176", "sent":"Well that depends.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":4, "systemlabel":"well place this game", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"177", "sent":"If he is in orbit above the opposite side of the planet we are actually looking down on him.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":4, "systemlabel":"well place this game", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"178", "sent":"Or when in the John we are even peeing down or poopooing  down or ....  you get the idea.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31665420",
+"author":"Mike_Buddha",
+"parent":"31662746",
+"date":"1269874560000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Im so sick of Garriot ENOUGH",
+"sent": [{"linePolarity":3.0,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"164", "sent":"Even back in the day they werent good RPGs.","sentimentwords":[{"word":"good","polarity":3.0}]},{"linePolarity":3.0,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"165", "sent":"The ONLY thing they had going was that they were available on Apple II.","sentimentwords":[{"word":"available","polarity":3.0}]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"166", "sent":"Thats it.","sentimentwords":[]},{"linePolarity":0.5,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"167", "sent":"Thats the only reason Ultima sold a single copy.","sentimentwords":[]},{"linePolarity":-6.75,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"168", "sent":"Ultima was a huge failure on all other platforms.","sentimentwords":[{"word":"huge","polarity":-6.75}]},{"linePolarity":-5.26875,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"169", "sent":"People were so starved for software theyd put up with his lousy storylines and horrible interfaces.","sentimentwords":[{"word":"so","polarity":-6.075},{"word":"put","polarity":-1.5},{"word":"lousy","polarity":-6.0},{"word":"horrible","polarity":-7.5}]},{"linePolarity":0,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"170", "sent":"Oh and you got a printedoncloth map.","sentimentwords":[]},{"linePolarity":-1.625,"systemtopicid":2, "systemlabel":"worth celebrity", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"171", "sent":"Of course these were the nimnuls who were too stupid to spend less than a third of the money buying a Commodore 64 with its far more impressive capabilities.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31662748",
+"author":"enter_to_exit",
+"parent":"",
+"date":"1269859200000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Sire",
+"sent": [{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"50", "sent":"so will his peerage still be valid on the moon?","sentimentwords":[]},{"linePolarity":-4.5,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"51", "sent":"or will he discard the lowly earth titles and declare himself King Moon?","sentimentwords":[{"word":"lowly","polarity":-4.5}]}]
+},
+{
+
+
+"commentid":"31662802",
+"author":"david_emery",
+"parent":"",
+"date":"1269859440000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Let him eat cheese",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"52", "sent":"subject says it all...","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662848",
+"author":"KatchooNJ",
+"parent":"",
+"date":"1269859680000",
+"modeclass":"Insightful",
+"modescore":"2",
+"title":"Cant believe he is being serious",
+"sent": [{"linePolarity":0.7,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"53", "sent":"I guess I could be wrong but I have a feeling he is kinda joking around when he made the cracks about having people pay to park in his spot.","sentimentwords":[]},{"linePolarity":-0.666666666667,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"54", "sent":"  I find it hard to believe that he is being serious about having real claim to any moon property other than the landers themselves.","sentimentwords":[]},{"linePolarity":-0.5125,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"55", "sent":"Am I the only one thinking he is just goofing off with such statements?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662852",
+"author":"Anonymous6",
+"parent":"",
+"date":"1269859740000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Guess hes a",
+"sent": [{"linePolarity":-1.5,"systemtopicid":3, "systemlabel":"claim moon", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"56", "sent":"lunatic","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662878",
+"author":"DigiShaman",
+"parent":"",
+"date":"1269859800000",
+"modeclass":"Flamebait",
+"modescore":"0",
+"title":"The American Flag",
+"sent": [{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"57", "sent":"Well if you want to place this game the Lord can pound luna soil.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"58", "sent":"The Americans landed and placed a national Flag on the surface of the moon.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"59", "sent":"So technically its property of the USA.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662886",
+"author":"IGnatius_T_Foobar",
+"parent":"",
+"date":"1269859800000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Disputed",
+"sent": [{"linePolarity":1.95,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"60", "sent":"Im pretty sure its Eolas that owns all of the lunar intellectual property.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"61", "sent":"We like da moon  and it is patented...","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662910",
+"author":"Chas",
+"parent":"",
+"date":"1269859980000",
+"modeclass":"Troll",
+"modescore":"0",
+"title":"Lord British can go suck a dick",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"62", "sent":"Nuff said.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662956",
+"author":"nomorecwrd",
+"parent":"",
+"date":"1269860160000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"The moon is owned by a chilean Period",
+"sent": [{"linePolarity":0,"systemtopicid":10, "systemlabel":"own legal title", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"63", "sent":"Here is the proof","sentimentwords":[]},{"linePolarity":0.5,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"64", "sent":"in English wikipedia.org and Spanish more complete wikipedia.org","sentimentwords":[]},{"linePolarity":1.5,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"65", "sent":"Dont argue with me about Wikipedia not being the total truth.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31662984",
+"author":"Anonymous8",
+"parent":"",
+"date":"1269860340000",
+"modeclass":"Insightful",
+"modescore":"2",
+"title":"Poor Fact Checking in Article",
+"sent": [{"linePolarity":0,"systemtopicid":9, "systemlabel":"assault", "topicid":500, "goldlabel":"START", "sentid":"67", "sent":"Wow.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"assault", "topicid":2, "goldlabel":"the original article", "sentid":"68", "sent":"No fact checking.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"assault", "topicid":2, "goldlabel":"the original article", "sentid":"69", "sent":"Typical overthetopcantgetthefactsright journalism.","sentimentwords":[]},{"linePolarity":-0.4375,"systemtopicid":9, "systemlabel":"assault", "topicid":2, "goldlabel":"the original article", "sentid":"70", "sent":"The article tries to paint Lord British as laying claim to the entire moon in the title when in reality hes only even trying to claim at least the land on which the rover sits and at most the land the rover crossed before it laid to rest.The lawyer who was quoted when asked if he really owned the lander is quite frankly covering her ass as any good lawyer would do when asked a question like that.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"assault", "topicid":2, "goldlabel":"the original article", "sentid":"71", "sent":"What she says that she cant determine if he owns it or not without seeing the title is true.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"assault", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"72", "sent":"Any good lawyer would say the same thing if you called them to ask if you owned your house.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":9, "systemlabel":"assault", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"73", "sent":"Theyre not going to assume you do even if you have been living there for the last 10 years.","sentimentwords":[]},{"linePolarity":-0.75,"systemtopicid":9, "systemlabel":"assault", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"74", "sent":"That would be borderline malpractice.What Gariott is doing is in fact not nearly as crazy as it sounds.","sentimentwords":[]},{"linePolarity":-0.25,"systemtopicid":9, "systemlabel":"assault", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"75", "sent":"Since virtually every spacefaring nation gave up their rights to the moon in the Outer Space Treaty any claims to the moon by right of discovery that could have been made by the US or Russia as USSRs successor state are void under international law.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":9, "systemlabel":"assault", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"76", "sent":"The treaty however does not contemplate private ownership of the moon.","sentimentwords":[]},{"linePolarity":0.333333333333,"systemtopicid":9, "systemlabel":"assault", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"77", "sent":"Gariott actually has a number of very very reasonable legal arguments that he owns a part of the moon.","sentimentwords":[]},{"linePolarity":-1.375,"systemtopicid":9, "systemlabel":"assault", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"78", "sent":"Yes it does sound very strange to a lay person that he might have a right of discovery some land on the moon since in the lay sense he did obviously not discover the moon.","sentimentwords":[]},{"linePolarity":3.0,"systemtopicid":9, "systemlabel":"assault", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"79", "sent":"That said legally its not unreasonable to say that he might.","sentimentwords":[{"word":"not","polarity":3.0}]},{"linePolarity":-1.5,"systemtopicid":9, "systemlabel":"assault", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"80", "sent":"Nor is it unreasonable to say that he might gain the land through simply owning the rover on it long enough.While the auction could not and did not sell him the land this does not mean he cant own it.","sentimentwords":[]},{"linePolarity":-0.75,"systemtopicid":9, "systemlabel":"assault", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"81", "sent":"If noone owns the land then there are a number of legal ways to acquire it as Ive briefly discussed above.The article frankly was clearly written by someone with no understanding of the legal circumstances around the matter.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31663064",
+"author":"Anonymous9",
+"parent":"",
+"date":"1269860760000",
+"modeclass":"None",
+"modescore":"0",
+"title":"I hope hes just joking around",
+"sent": [{"linePolarity":-0.25,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"82", "sent":"Last time I heard there was an international treaty or something preventing countries from owning the moon or the rest of the solar system for that matter.Lord British aka Richard Garriot is a citizen of one of those signatory countries and I believe that also prevents him from laying claim.On top of that the little understanding I have of settler or homesteading laws require that the person be on that land and he has never been to the moon.Trying to claim that you own the land under or near your 2nd hand space junk is kind of like claiming you own the land around a rock you threw into the fog.Now as nobody has made any attempts at recovery of the lander I suspect international law allows a salvager to claim it if they salvage it.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"83", "sent":"Not likely to happen anytime soon.","sentimentwords":[]},{"linePolarity":2.26666666667,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"84", "sent":"Of course IANAL and this is all just my opinion based on the few things Ive read on some of these laws but still lets get some sense in here.Besides everyone knows that the best lunar property is on the darkside.","sentimentwords":[{"word":"some","polarity":0.8},{"word":"best","polarity":5.0},{"word":"just","polarity":1.0}]}]
+},
+{
+
+
+"commentid":"31663106",
+"author":"Anonymous10",
+"parent":"",
+"date":"1269860940000",
+"modeclass":"None",
+"modescore":"1",
+"title":"I hereby claim ownership of Uranus",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"85", "sent":"I hereby claim ownership of Uranus.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"86", "sent":"all hail your Uranus Overlord","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31663286",
+"author":"gestalt__n__pepper",
+"parent":"31663106",
+"date":"1269862140000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:I hereby claim ownership of Uranus",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"102", "sent":"Ow","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"103", "sent":"STOP That","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31663144",
+"author":"Tetsujin",
+"parent":"",
+"date":"1269861300000",
+"modeclass":"None",
+"modescore":"1",
+"title":"What did I tell you  Larkin Decision",
+"sent": [{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"89", "sent":"Last time this came up I joked about the Larkin Decision...  I didnt think hed really look into laying claim to Lunar territory..  XDLarkin Decision wouldnt actually apply though  owning a piece of gear on the Moon isnt enough you have to live there...","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31663154",
+"author":"Anonymous11",
+"parent":"",
+"date":"1269861360000",
+"modeclass":"Funny",
+"modescore":"2",
+"title":"Moon Town",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"90", "sent":"I believe he was referring to the town rpgclassics.com in Ultima III which he really could lay claim to.Also couldnt you visit the moon in Ultima II?","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"91", "sent":"My memory of that is hazy.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"92", "sent":"I know Ronald McDonald was in it at some point.","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31674908",
+"author":"T_E_D_",
+"parent":"31663154",
+"date":"1269977400000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Re:Moon Town",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"221", "sent":"In Ultima I you could end up space traveling.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"222", "sent":"Boy that takes me back....1982 I believe.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31663172",
+"author":"juliusbeezer",
+"parent":"",
+"date":"1269861480000",
+"modeclass":"None",
+"modescore":"1",
+"title":"vehicle ownership OK: but the parking spot",
+"sent": [{"linePolarity":-1.5,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"93", "sent":"No doubt hes bought the vehicle but it seems like the ownership of the parking spot may still be contested.","sentimentwords":[]},{"linePolarity":-0.75,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"94", "sent":"Still I guess hes got a better excuse than most to mount a private space program so he can go and pick it up.","sentimentwords":[]},{"linePolarity":0.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"95", "sent":"In this instance the moon artefact was bought direct from its owner but its also fun to think about the problems the delivery page would have caused eBays programmers if it had passed through the used space vehicle market that way.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31663206",
+"author":"kaffiene",
+"parent":"",
+"date":"1269861660000",
+"modeclass":"Flamebait",
+"modescore":"0",
+"title":"Geez",
+"sent": [{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"96", "sent":"You guys really need to learn to grow a sense of humour.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31663258",
+"author":"Anonymous12",
+"parent":"",
+"date":"1269861960000",
+"modeclass":"Informativ",
+"modescore":"2",
+"title":"Not yet his",
+"sent": [{"linePolarity":-0.25,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"97", "sent":"http:en.wikipedia.orgwikiOuterSpaceTreaty wikipedia.orgAs a citizen of a nation whom signed that treaty his governments law is still held over him and the UK law by treaty is that no nation or person can own the moon it is there for all of mankind.Maybe possibly he could do so if he has his citizenship canceled Is that possible in the UK?","sentimentwords":[]},{"linePolarity":1.25,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"98", "sent":"I know it is in the USA but obviously that doesnt apply hereHowever with no citizenship to pretty much any first world nation with space technology that will leave him out in the cold for trying to claim his property.","sentimentwords":[]},{"linePolarity":2.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"99", "sent":"He also stands a good chance of getting shot down if he did somehow manage to launch from a country that does not have a space program.","sentimentwords":[{"word":"stands","polarity":1.0},{"word":"good","polarity":3.0}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"100", "sent":"ZOMG is that an incoming ICMB?","sentimentwords":[]},{"linePolarity":1.5,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"101", "sent":"better not take any chances press the red button","sentimentwords":[]}]
+,"children":[
+{
+
+
+"commentid":"31667732",
+"author":"Anubis_IV",
+"parent":"31663258",
+"date":"1269941760000",
+"modeclass":"Informativ",
+"modescore":"2",
+"title":"Re:Not yet his",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"191", "sent":"Contrary to his title Lord British is not in fact British.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"192", "sent":"Hes actually American and even went to my high school in League City Texas USA.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":3, "goldlabel":"Richard Garriot reputation lifes work", "sentid":"193", "sent":"One of my teachers was a classmate of his and used to talk about him passing out versions of a game...that later became known as Ultima.","sentimentwords":[]}]
+}
+]
+},
+{
+
+
+"commentid":"31663318",
+"author":"denelson83",
+"parent":"",
+"date":"1269862260000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Idle stories from Britain",
+"sent": [{"linePolarity":0,"systemtopicid":7, "systemlabel":"big cartoon foot", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"106", "sent":"...should be classified as Eric Idle.","sentimentwords":[]},{"linePolarity":-2.475,"systemtopicid":7, "systemlabel":"big cartoon foot", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"107", "sent":"gets crushed by a big cartoon foot","sentimentwords":[{"word":"big","polarity":-1.95},{"word":"crushed","polarity":-3.0}]}]
+},
+{
+
+
+"commentid":"31663320",
+"author":"Samah",
+"parent":"",
+"date":"1269862260000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Moonglow",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"108", "sent":"Well after all Britannia does have the city of Moonglow... ","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31663514",
+"author":"ryanisflyboy",
+"parent":"",
+"date":"1269863280000",
+"modeclass":"None",
+"modescore":"1",
+"title":"PUBLIC NOTICE",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"109", "sent":"I have purchased the entire galaxy known as NGC 1365.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":4, "systemlabel":"well place this game", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"110", "sent":"If youre interested in renting a planet the price is 1.8Mmonth US.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"111", "sent":"If anyone settles there without my permission expect to be sued.Further I am leasing all the space between the Earth and the Moon.","sentimentwords":[]},{"linePolarity":0.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"112", "sent":"If youd like access to the Moon the toll will be set at 750000 US each way.For ownership verification please see the public records division on Alpha Centauri.Thank you.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31663574",
+"author":"Anonymous14",
+"parent":"",
+"date":"1269863580000",
+"modeclass":"None",
+"modescore":"1",
+"title":"The Case for Lunar Property Rights",
+"sent": [{"linePolarity":-1.65,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":4, "goldlabel":"Space race between the US and USSR", "sentid":"120", "sent":"According to an article in Popular Mechanics popularmechanics.com from the June 2008 issue:With the space race in full flower though the real worry was national sovereignty.","sentimentwords":[]},{"linePolarity":0.125,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":4, "goldlabel":"Space race between the US and USSR", "sentid":"121", "sent":"Both the United States and the Soviet Union wanted to reach the moon first but in fact each was more worried about what would happen if they arrived second.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"122", "sent":"Fears that the competition might trigger World War III led to the 1967 Outer Space Treaty which was eventually ratified by 62 countries.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"123", "sent":"According to article II of the treaty Outer Space including the moon and other celestial bodies is not subject to national appropriation by claim of sovereignty by means of use or occupation or by any other means.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"124", "sent":"Ideally title would be recognized by an international agreement that all nations would endorse.","sentimentwords":[]},{"linePolarity":-1.33333333333,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"125", "sent":"The 1979 Moon Treaty was a flop but theres no reason the space powers couldnt agree on a new treaty that recognizes property rights and encourages investment.","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":6, "goldlabel":"Moon Treaty and outer space treaty", "sentid":"126", "sent":"After all the international climate has warmed to property rights and capitalism over the past 30 years.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31663612",
+"author":"anorlunda",
+"parent":"",
+"date":"1269863820000",
+"modeclass":"None",
+"modescore":"1",
+"title":"No  Its Mine not His",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"127", "sent":"In 1967 I bought a square inch of the Moon for 1 from a street vendor in San Francisco and I have the deed to prove it.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31663772",
+"author":"KingOfTheMoon",
+"parent":"",
+"date":"1269864840000",
+"modeclass":"None",
+"modescore":"1",
+"title":"I keep telling him",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"128", "sent":"The moon already has a king.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31664020",
+"author":"Anonymous16",
+"parent":"",
+"date":"1269866160000",
+"modeclass":"None",
+"modescore":"0",
+"title":"What a lunartic",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"140", "sent":"... now get off my lawn...","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31664150",
+"author":"hobbes64",
+"parent":"",
+"date":"1269866820000",
+"modeclass":"Interestin",
+"modescore":"2",
+"title":"He needs to move there to claim it",
+"sent": [{"linePolarity":2.73333333333,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"141", "sent":"It is possible that someday a group of private super rich citizens or a corporation will make some spaceships and fly to the moon build a lunar base there and live there.","sentimentwords":[{"word":"possible","polarity":1.0},{"word":"super","polarity":3.0},{"word":"super","polarity":4.2}]},{"linePolarity":-0.25,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"142", "sent":"It is possible for them to do it long before a government does it.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"143", "sent":"That would be really interesting because they could reasonably claim the moon as theirs.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"144", "sent":"The response of various countries to this claim would be even more interesting.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"145", "sent":"Ill bet there would be a lot more interest in going to the moon right away to move out those squatters.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31664324",
+"author":"Anonymous17",
+"parent":"",
+"date":"1269867600000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Thought this was a different story",
+"sent": [{"linePolarity":1.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"146", "sent":"Anyone else remember the rocketship in the original Ultima?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31664858",
+"author":"sheehaje",
+"parent":"",
+"date":"1269870540000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Planet orbiting Earth",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"160", "sent":"FTFA:  Last week NASAs Lunar Reconnaissance Orbiter found Lunokhod 2 sitting clearly on the planets surface.","sentimentwords":[]},{"linePolarity":3.5,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"161", "sent":"First Pluto ceases to be a planet...  Now the Moon is no longer a moon but a planet...  What is this solar system coming to?","sentimentwords":[{"word":"no","polarity":3.5}]}]
+},
+{
+
+
+"commentid":"31665484",
+"author":"VampDuc",
+"parent":"",
+"date":"1269874980000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Nice try but",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"172", "sent":"Sorry an Oklahoma City mayor already annexed the moon in the 80s.","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31665590",
+"author":"Culture20",
+"parent":"",
+"date":"1269875700000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Moongate",
+"sent": [{"linePolarity":3.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"173", "sent":"Hes going to need a powerful moongate to get there.","sentimentwords":[{"word":"powerful","polarity":3.0}]}]
+},
+{
+
+
+"commentid":"31666008",
+"author":"Anonymous20",
+"parent":"",
+"date":"1269879000000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Anonymous Coward",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"180", "sent":"If the moon is his do we have to pay to see the moon?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31666212",
+"author":"dido",
+"parent":"",
+"date":"1269880860000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Which moon",
+"sent": [{"linePolarity":0,"systemtopicid":3, "systemlabel":"claim moon", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"181", "sent":"Trammel or Felluca?","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31666784",
+"author":"Anonymous21",
+"parent":"",
+"date":"1269887160000",
+"modeclass":"None",
+"modescore":"0",
+"title":"Anonymous Coward",
+"sent": [{"linePolarity":-4.5,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"182", "sent":"nonsense I am the owner of the moon.","sentimentwords":[{"word":"nonsense","polarity":-4.5}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"183", "sent":"But now I know at least whom to send the parking tickets for the last decades.Sincerly Yours","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":5, "goldlabel":"ownership of the moon and space law", "sentid":"184", "sent":"   The Man in the Moon","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31667102",
+"author":"randolbov",
+"parent":"",
+"date":"1269890520000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Funny as well as foolish",
+"sent": [{"linePolarity":3.45,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"185", "sent":"This is really funny","sentimentwords":[{"word":"really","polarity":3.45}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"186", "sent":"now tomorrow someone will lay claim on the sun and say that the sun is his private property and he will not give its sunlight to anyone.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"187", "sent":"http:www.articlesbase.comfinancearticlesautomatedforextradingsystemfindthebestautomaticforextradingtool2066204.html articlesbase.com","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31667202",
+"author":"man__the__king",
+"parent":"",
+"date":"1269891840000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Oh Yeah",
+"sent": [{"linePolarity":0,"systemtopicid":4, "systemlabel":"well place this game", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"188", "sent":"Well I own the Sun.","sentimentwords":[]},{"linePolarity":-1.5,"systemtopicid":4, "systemlabel":"well place this game", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"189", "sent":"Every living being on the Earth owes me as long as MY Sun sustains them :","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31667480",
+"author":"pandrijeczko",
+"parent":"",
+"date":"1269981840000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Lunakhod",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"190", "sent":"Loony clod more like","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31667814",
+"author":"nibbles2004",
+"parent":"",
+"date":"1269942720000",
+"modeclass":"None",
+"modescore":"1",
+"title":"PacMan hungry and he eats Moon",
+"sent": [{"linePolarity":-3.0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"194", "sent":"not the best place to invest at the moment  when you have 1980s Arcade monsters eating your moon wheres the pink ghost when you need it","sentimentwords":[{"word":"monster","polarity":-3.0}]},{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":400, "goldlabel":"OFFTOPIC", "sentid":"195", "sent":"http:news.bbc.co.uk1hiscitech8594101.stm bbc.co.uk","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31669602",
+"author":"MillenneumMan",
+"parent":"",
+"date":"1269959880000",
+"modeclass":"None",
+"modescore":"1",
+"title":"TFA is a misquote",
+"sent": [{"linePolarity":1.4,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"214", "sent":"Here is Garriotts complete statement from a DIFFERENT article and it is pretty clear he is writing tongueincheek: http:www.parabolicarc.com20100323roverdiscoveredgarriottponderslunarpropertyrights parabolicarc.com","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31672756",
+"author":"wwphx",
+"parent":"",
+"date":"1269970140000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Well if he does own the moon",
+"sent": [{"linePolarity":0,"systemtopicid":8, "systemlabel":"retro reflectors", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"216", "sent":"he needs to get his butt up there and fix the retro reflector on the other Lunokhod","sentimentwords":[]},{"linePolarity":1.0,"systemtopicid":8, "systemlabel":"retro reflectors", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"217", "sent":"They launched two that mounted retro reflectors for laser ranging experiments which my wife does on a regular basis Apache Point Observatorys Dr. Russet McMillan as featured on Mythbusters and they cant hit one of the LKs.","sentimentwords":[]},{"linePolarity":1.5,"systemtopicid":8, "systemlabel":"retro reflectors", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"218", "sent":"The three Apollo reflectors are fine just one of the LKs.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"retro reflectors", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"219", "sent":"And maybe he could upgrade the other it doesnt work when in full sunlight.","sentimentwords":[]},{"linePolarity":0,"systemtopicid":8, "systemlabel":"retro reflectors", "topicid":1, "goldlabel":"Richard Garriotts daimon lunar territory and reactions", "sentid":"220", "sent":"Stupid absentee slumlords....","sentimentwords":[]}]
+},
+{
+
+
+"commentid":"31675816",
+"author":"kenp2002",
+"parent":"",
+"date":"1269981060000",
+"modeclass":"None",
+"modescore":"1",
+"title":"Loony",
+"sent": [{"linePolarity":0,"systemtopicid":1, "systemlabel":"own lunar territory", "topicid":7, "goldlabel":"Ultima the RPG series", "sentid":"223", "sent":"And in further news Loony British still thinks Ultima is relvant...","sentimentwords":[]}]
+}
+]
+}
