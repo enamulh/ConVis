@@ -1,7 +1,8 @@
 # ConVis
 ConVis: A Visual Text Analytic System for Exploring Blog Conversations
 
-Running the code:
+Running the code
+-----------------
 Install PhP
 
 
