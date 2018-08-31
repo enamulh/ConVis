@@ -6,7 +6,12 @@ Enamul Hoque and Giuseppe Carenini, ConVis: A visual text analytic system for ex
 
 Running the code
 -----------------
-Install PhP
+- Install PHP server
+- Run index.php
+- Click on a sample conversation file.
+
+Each blog conversation is represented using a json file in the data directory
+
 
 
 
